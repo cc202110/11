@@ -387,7 +387,7 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 体育赛事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 
-香港頻道,#genre#_6886
+香港頻道,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
@@ -447,7 +447,7 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 
-台湾☒頻道,#genre#_6886
+台湾☒頻道,#genre#
 
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
