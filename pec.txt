@@ -388,58 +388,9 @@ CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00
 体育赛事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 
 香港頻道,#genre#
-
-翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
-翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-明珠台大陆,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-
-翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
-有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
-有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
-有线18台,rtmp://161.202.204.248/sat/hk041
-无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
-无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-无线直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
-TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
-RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now直播331台,https://api.leonardpark.dev/live/now/331
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
-香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
-凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰中文蓝光,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯蓝光,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港蓝光,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
@@ -453,6 +404,51 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台大陆,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
+翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+有线18台,rtmp://161.202.204.248/sat/hk041
+无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+无线直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
+RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播331台,https://api.leonardpark.dev/live/now/331
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
+有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
+有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
+
 
 台湾頻道,#genre#
 
