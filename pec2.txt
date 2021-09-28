@@ -452,28 +452,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 
 台湾頻道,#genre#
 
-民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
-台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
-中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
-华视,rtmp://161.202.204.248:1935/sat/tv111
-TVBS欢乐台,rtmp://161.202.204.248/sat/tv421
-纬来日本,rtmp://161.202.204.248:1935/sat/tv521
-TVBS新闻台,rtmp://161.202.204.248/sat/tv551
-东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
-纬来育乐,rtmp://161.202.204.248/sat/tv701
-纬来育乐,rtmp://161.202.204.248:1935/sat/tv701
-纬来体育,rtmp://161.202.204.248/sat/tv721
-纬来体育,rtmp://161.202.204.248:1935/sat/tv721
-eleven1,rtmp://161.202.204.248:1935/sat/tv731
-eleven2,rtmp://161.202.204.248:1935/sat/tv741
-MoMo综合,rtmp://161.202.204.248/sat/tv761
-东森超视,rtmp://161.202.204.248/sat/tv771
-爱尔达体育1,rtmp://161.202.204.248/sat/md011
-eleven2,rtmp://161.202.204.248/sat/md021
-博斯网球,rtmp://161.202.204.248/sat/md031
-博斯魅力,rtmp://161.202.204.248/sat/md041
-爱尔达体育1,rtmp://161.202.204.248/sat/md051
-日本MLB,rtmp://161.202.204.248:1935/sat/jp071
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
@@ -489,20 +467,6 @@ FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
 FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-民视,rtmp://59.124.75.153/sat/tv051
-台式,rtmp://59.124.75.153/sat/tv071
-中视,rtmp://59.124.75.153/sat/tv091
-华视,rtmp://59.124.75.153/sat/tv111
-TVBS欢乐台,rtmp://59.124.75.153/sat/tv421
-纬来日本,rtmp://59.124.75.153/sat/tv521
-TVBS新闻台,rtmp://59.124.75.153/sat/tv551
-东森财经新闻,rtmp://59.124.75.153/sat/tv571
-纬来育乐,rtmp://59.124.75.153/sat/tv701
-纬来体育,rtmp://59.124.75.153/sat/tv721
-eleven1,rtmp://59.124.75.153/sat/tv731
-eleven2,rtmp://59.124.75.153/sat/tv741
-MoMo综合台,rtmp://59.124.75.153/sat/tv761
-东森超视,rtmp://59.124.75.153/sat/tv771
 
 台视新闻 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
