@@ -163,7 +163,6 @@ eleven2,rtmp://161.202.204.248/sat/md021
 有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
 有线603HD,rtmp://161.202.204.248:1935/sat/hk011
 有线18台,rtmp://161.202.204.248/sat/hk041
-CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
@@ -174,9 +173,7 @@ Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
-FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
-FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
+
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 
@@ -193,7 +190,27 @@ FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 东森财经新闻 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
-
+台湾东森电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+台湾龙翔时代,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+台湾玮来电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+台湾壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+台湾TVBS新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
+台湾TVBS,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+台湾龙華电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlhdy
+台湾三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+台湾民视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+台湾寰宇新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw
+台湾年代新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+台湾非凡新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+台湾卫视电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+台湾美亚电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+纬来体育,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty
+台湾靖天电影,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twjtdy
+台湾中视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twzsxw
+台湾台视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtsxw
+台湾东森新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsxw
+台湾中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw
+台湾華视新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhsxw
 
 ⚪马来频道,#genre#
 Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
