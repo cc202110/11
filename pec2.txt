@@ -1,4 +1,4 @@
-普尔TV1.3 
+普尔TV1.3
 
 ⚪央视高清,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
@@ -93,27 +93,33 @@ HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+翡翠台高清,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 翡翠台高清,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台高清,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台高清,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+J2,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-明珠台高清,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
+
 明珠台高清,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+明珠台高清,https://cdn.hkdtmb.com/hls/84/index.m3u8
 明珠台高清,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 有线18台,rtmp://161.202.204.248/sat/hk041
-无线新闻台,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
-无线新闻台,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
+无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
-RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+VIU TV,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99
+VIU TV6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
+Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+Viu TV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
 RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
@@ -123,10 +129,11 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 有线新闻台,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
 有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
 有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
+香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
 香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
-翡翠台,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
+
+
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
 
 ⚪台湾頻道,#genre#
@@ -382,7 +389,27 @@ HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-
+HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
+FOX優質電影台,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
+Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
+采昌影劇,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
+香港福斯電影,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
+thrill電影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
+KIX電影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
+BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
+CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594	.ts
+靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
+星衛電影 HD,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+美亞電影台,p5p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
+龍華電影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts	
+龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts	
+龍華戲劇,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
+龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
+EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
+愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
+東森電影台,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
+衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
+龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 
 ⚪埋堆堆台,#genre#
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
@@ -501,44 +528,8 @@ HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 鬼吹灯,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
 
 ⚪港台测试,#genre#
-影迷數位電影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
-HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
-HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
-HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
-HBO 家庭,p5p://fccs.123178.top:9906/604339d800036fb3068cc20c2898df9c
-FOX動作台,p5p://fccs.123178.top:9906/60440fd1000e6f3b09d0998515d1967d.ts
-FOX優質電影台,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
-Fox福斯家庭,p5p://fccs.123178.top:9906/6044114c0004d19e09d65f86a75bad6b.ts
-采昌影劇,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
-香港福斯電影,p5p://fccs.123178.top:9906/60693d0e000cf43215b666ef7701d76e.ts
-thrill電影台,p5p://fccs.123178.top:9906/604413240002c04b09dd92bffd4adc1b.ts
-KIX電影台,p5p://fccs.123178.top:9906/6044145c000e8fb900026d95dbb7683a.ts
-罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
-華納Warner TV,p5p://fccs.123178.top:9906/604414f400055b780004bcfa6ee82d22.ts
-CinemaWorld,p5p://fccs.123178.top:9906/604415aa00054259000783e434297e54.ts
-衛視西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-BLUE ANT EXTREME,p5p://fccs.123178.top:9906/60441771000d4807000e774ad2f62e16.ts
-Comedy Central Asia,p5p://fccs.123178.top:9906/6044183b000d06f700118c4956df7f03.ts
-CatchPlay電影台,p5p://fccs.123178.top:9906/6044191d000d8b620014ff3bef2f4594	.ts
-靖天電影台,p5p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
-KIDZON HD,tvbus://35bvYywJWcByGGxaNRUtEYqQ29CX2bC7SmMnNNzpk3MgHpAeac
-天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts	
-星衛電影 HD,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-美亞電影台,p5p://fccs.123178.top:9906/60494bf1000472fc14638907b18fe55b.ts
-龍華影劇,p5p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-龍華電影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts	
-龍華洋片,p5p://fccs.123178.top:9906/6044287d000e2bb500510e64fec426ab.ts	
-龍華戲劇,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts	
-龍華偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-EYETV戲劇,p5p://fccs.123178.top:9906/60442b6d000654ae005c85e289945252.ts
-愛爾達影劇台,p5p://fccs.123178.top:9906/6044382f0001bdea008e5a851f8cf009.ts
-東森電影台,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
-衛視電影台,p5p://fccs.123178.top:9906/607318ce000ef9a107a827d158704e10.ts
-好萊塢電影,p5p://fccs.123178.top:9906/6044d78800021f9602fcce46b541cf65.ts
-AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
-Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts	
-龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
-緯來電影,p5p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
+
+
 
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
