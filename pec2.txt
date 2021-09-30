@@ -116,6 +116,11 @@ J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 有线新闻台,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
 有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
 有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
+有线603HD,rtmp://161.202.204.248:1935/sat/hk011
+有线18台,rtmp://161.202.204.248/sat/hk041
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+
 香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
 香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -131,7 +136,7 @@ RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
-Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+
 
 
 
@@ -174,9 +179,7 @@ eleven2,rtmp://161.202.204.248/sat/md021
 博斯网球,rtmp://161.202.204.248/sat/md031
 博斯魅力,rtmp://161.202.204.248/sat/md041
 爱尔达体育1,rtmp://161.202.204.248/sat/md051
-有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
-有线603HD,rtmp://161.202.204.248:1935/sat/hk011
-有线18台,rtmp://161.202.204.248/sat/hk041
+
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
