@@ -112,20 +112,6 @@ J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
-VIU TV,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviutv99
-VIU TV6,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkviu696
-Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-Viu TV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
-
-RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now直播331台,https://api.leonardpark.dev/live/now/331
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
 有线新闻台,https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
 有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
@@ -133,6 +119,21 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
 香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播331台,https://api.leonardpark.dev/live/now/331
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+
+
 
 
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
