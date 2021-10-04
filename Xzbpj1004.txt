@@ -1,3 +1,5 @@
+
+香港直播,#genre#
 凤凰卫视香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰中文,#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
@@ -85,6 +87,8 @@ UTV 賽馬直擊(hr),#http://livetv.dnsfor.me/channel.13.m3u8
 有線18台(hr),#rtmp://161.202.204.248:1935/sat/hk042
 有線18台(hr),rtmp://59.124.75.136/sat/hk042
 有線603台(hr),https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
+
+澳门直播,#genre#
 澳亞衛視(hr),#http://61.58.60.230:9319/live/256.m3u8
 澳亞衛視(hr),#http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门卫视(hr),#http://122.100.174.244:9981/stream/channelid/664368602
@@ -100,8 +104,6 @@ UTV 賽馬直擊(hr),#http://livetv.dnsfor.me/channel.13.m3u8
 陽光衛視,http://stream.isuntv.com/680k/mid_video_index.m3u8
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,#http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-创世TV,#https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-希望TV,tarhub/2015/about-us/logos/starHub-logo.png\" group-title=\"HONGKONG/MACAU\", Ch 88
 澳視綜藝,http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门澳视卫视,#http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
 澳门澳视卫视,http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
@@ -118,6 +120,8 @@ UTV 賽馬直擊(hr),#http://livetv.dnsfor.me/channel.13.m3u8
 澳門有线2,#http://202.175.127.77/live/show/ch2/index.m3u8
 澳門有线3,#http://122.100.174.244:9981/stream/channelid/118256015
 澳門有线3,#http://202.175.127.77/live/show/ch3/index.m3u8
+
+台湾直播,#genre#
 民視,#rtmp://59.124.75.130/sat/tv051
 民視,#rtmp://161.202.204.248:1935/sat/tv051
 民視,rtmp://59.124.75.136/sat/tv051
@@ -314,6 +318,8 @@ CYC世新綜合,#http://61.58.60.230:9319/live/49.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 人間衛視,#http://54.64.23.79:1935/live/vod/playlist.m3u8
 幸福空間居家,#http://61.58.60.230:9319/live/125.m3u8
+
+中国央视直播,#genre#
 CCTV-1综合,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
 CCTV-1综合,#http://39.134.19.228:6410/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1综合,#http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
@@ -365,6 +371,8 @@ CCTV-17 农业农村,#http://39.134.19.228:6410/yinhe/2/ch00000090990000001295/i
 全纪实,#https://www.fanmingming.cn/hls/documentaryhd.m3u8
 四海钓鱼,#http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
 北京纪实,#http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225729/index.m3u8
+
+中国卫视直播,#genre#
 东南卫视,#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 东南卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225585/2/index.m3u8?fmt=ts2hls
 东方卫视,#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
