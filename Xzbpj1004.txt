@@ -1,4 +1,4 @@
-中国央视直播,#genre#
+中国直播1,#genre#   
 CCTV-1综合,http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
 CCTV-1综合,#http://39.134.19.228:6410/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1综合,#http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
