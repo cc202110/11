@@ -16,7 +16,7 @@ CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/i
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-无线新闻,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 东森新闻,http://50.7.61.147:30080/Entry/etnews
@@ -98,21 +98,7 @@ CCTV-17 FHD,http://39.135.129.164/PLTV/88888888/224/3221226594/1.m3u8
 CGTN法语 FHD,http://39.135.129.164/PLTV/88888888/224/3221226727/1.m3u8
 CGTN阿语 FHD,http://39.135.129.162/PLTV/88888888/224/3221226729/1.m3u8
 CGTN俄语 FHD,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
-CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226179/index.m3u8
-CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226759/index.m3u8
-CCTV1 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226920/index.m3u8
-CCTV2 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226177/index.m3u8
-CCTV2 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226853/index.m3u8
-CCTV4 SD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226741/index.m3u8
-CCTV5+ SD,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226910/index.m3u8
-CCTV6 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226199/index.m3u8
-CCTV7 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226905/index.m3u8
-CCTV11 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226193/index.m3u8
-CCTV13 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225986/index.m3u8
-CCTV13 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226191/index.m3u8
-CCTV13 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/index.m3u8
-CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226866/index.m3u8
-CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226908/index.m3u8
+
 
 🛰️卫视高清,#genre#
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -240,8 +226,7 @@ TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/ind
 TVB翡翠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=0000000
 TVB翡翠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv
-TVB明珠,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
+
 TVB明珠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
 TVB明珠,http://nettvpro.live/hls/zjkp.php?id=12
 
@@ -280,18 +265,18 @@ TVB明珠,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+TVB泰国,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-TVB18台,http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
+TVB18台,
 
-美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+美亚电影,
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-星影卫视,http://data.3g.yy.com/live/hls/29900720/29900720
+星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
 星卫娱乐台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 靖天电影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
@@ -379,6 +364,9 @@ J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 无线新闻-备,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+
+无线财经-备,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+无线新闻直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
