@@ -1,7 +1,11 @@
 X直播电视台 youtube油管 频道
 
 🍵测试,#genre#
-
+MovieSphere,https://moviesphere-plex.amagi.tv/playlist.m3u8
+NONAME,http://93.157.62.180/VizionPlus/index.m3u8
+NO3,https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+NO2,http://154.62.74.29:1935/live/gol/playlist.m3u8
+FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 
 
 
