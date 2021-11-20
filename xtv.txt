@@ -17,9 +17,8 @@ CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/i
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-
 有线新闻台,https://api.leonardpark.dev/live/icable/109
-东森新闻,http://50.7.61.147:30080/Entry/etnews
+中视新闻,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
 
 
 🇨🇳CCTV央视,#genre#
