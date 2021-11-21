@@ -1,6 +1,6 @@
 X直播电视台 youtube油管 频道
 
-🍵测试,#genre#
+p5pfccs,#genre#
 HBO-HD,p5p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81
 HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
@@ -1920,7 +1920,7 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 
 
 
-港台p5pfccs123,#genre#
+p5pfccs123,#genre#
 影迷數位電影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
 HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
