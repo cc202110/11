@@ -1,11 +1,10 @@
 X直播电视台 youtube油管 频道
 
 🍵测试,#genre#
-MovieSphere,https://moviesphere-plex.amagi.tv/playlist.m3u8
-NONAME,http://93.157.62.180/VizionPlus/index.m3u8
-NO3,https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-NO2,http://154.62.74.29:1935/live/gol/playlist.m3u8
-FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+
+
+
+
 
 
 
@@ -579,7 +578,7 @@ BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-
+MovieSphere,https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 ⚽️體育頻道,#genre#
 
@@ -619,7 +618,7 @@ TNTSPORTS 3[1280*720],https://glxlmn026c.singularcdn.net.br/playout_03/playlist-
 TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-
+NO2,http://154.62.74.29:1935/live/gol/playlist.m3u8
 
 🎞️4K频道,#genre#
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
