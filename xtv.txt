@@ -1,4 +1,55 @@
 X直播电视台 youtube油管 频道
+测试,#genre#
+2021/11/22 星期一 22:11:57
+# 报告由黑鸟播放器制作
+
+= 有效源 =
+
+1号,http://liud.usa7.20212021.ga/tbs.php?id=1
+4号,http://liud.usa7.20212021.ga/tbs.php?id=4
+2号,http://liud.usa7.20212021.ga/tbs.php?id=2
+3号,http://liud.usa7.20212021.ga/tbs.php?id=3
+7号,http://liud.usa7.20212021.ga/tbs.php?id=7
+8号,http://liud.usa7.20212021.ga/tbs.php?id=8
+9号,http://liud.usa7.20212021.ga/tbs.php?id=9
+10号,http://liud.usa7.20212021.ga/tbs.php?id=10
+12号[960*540],http://liud.usa7.20212021.ga/tbs.php?id=12
+13号,http://liud.usa7.20212021.ga/tbs.php?id=13
+16号,http://liud.usa7.20212021.ga/tbs.php?id=16
+20号,http://liud.usa7.20212021.ga/tbs.php?id=20
+19号[1024*576],http://liud.usa7.20212021.ga/tbs.php?id=19
+21号[853*480],http://liud.usa7.20212021.ga/tbs.php?id=21
+24号,http://liud.usa7.20212021.ga/tbs.php?id=24
+26号,http://liud.usa7.20212021.ga/tbs.php?id=26
+25号,http://liud.usa7.20212021.ga/tbs.php?id=25
+28号,http://liud.usa7.20212021.ga/tbs.php?id=28
+27号,http://liud.usa7.20212021.ga/tbs.php?id=27
+30号,http://liud.usa7.20212021.ga/tbs.php?id=30
+31号,http://liud.usa7.20212021.ga/tbs.php?id=31
+34号,http://liud.usa7.20212021.ga/tbs.php?id=34
+32号,http://liud.usa7.20212021.ga/tbs.php?id=32
+33号,http://liud.usa7.20212021.ga/tbs.php?id=33
+35号,http://liud.usa7.20212021.ga/tbs.php?id=35
+36号,http://liud.usa7.20212021.ga/tbs.php?id=36
+37号,http://liud.usa7.20212021.ga/tbs.php?id=37
+40号,http://liud.usa7.20212021.ga/tbs.php?id=40
+38号,http://liud.usa7.20212021.ga/tbs.php?id=38
+41号,http://liud.usa7.20212021.ga/tbs.php?id=41
+39号,http://liud.usa7.20212021.ga/tbs.php?id=39
+51号,http://liud.usa7.20212021.ga/tbs.php?id=51
+53号,http://liud.usa7.20212021.ga/tbs.php?id=53
+54号,http://liud.usa7.20212021.ga/tbs.php?id=54
+55号,http://liud.usa7.20212021.ga/tbs.php?id=55
+58号,http://liud.usa7.20212021.ga/tbs.php?id=58
+57号,http://liud.usa7.20212021.ga/tbs.php?id=57
+60号,http://liud.usa7.20212021.ga/tbs.php?id=60
+59号,http://liud.usa7.20212021.ga/tbs.php?id=59
+63号,http://liud.usa7.20212021.ga/tbs.php?id=63
+82号,http://liud.usa7.20212021.ga/tbs.php?id=82
+86号,http://liud.usa7.20212021.ga/tbs.php?id=86
+97号,http://liud.usa7.20212021.ga/tbs.php?id=97
+99号,http://liud.usa7.20212021.ga/tbs.php?id=99
+
 
 晴天TV-台灣,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
