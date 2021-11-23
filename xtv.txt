@@ -1,59 +1,61 @@
 X直播电视台 youtube油管 频道
-测试,#genre#
-4,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
-2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
-6,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=6
-1,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
-8,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=8
-5,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=5
-3,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=3
-13,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=13
-9,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=9
-10,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=10
-14,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=14
-18,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=18
-16,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=16
-15,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=15
-17,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=17
-21,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=21
-22,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=22
-24,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=24
-25,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=25
+IPTV2,#genre#
+无线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
+J2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
+VIUtv,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=6
+翡翠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
+RHK31,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=8
+无线财经,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=5
+TVB星河,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=3
+C+,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=13
+RHK32,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=9
+有线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=10
+民视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=14
+台湾旅游,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=18
+民视台湾台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=16
+民视第一台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=15
+民视综艺,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=17
+中视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=21
+台视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=22
+中天新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=24
+东森新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=25
 26,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=26
-28,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=28
+TVBS新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=28
 20,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=20
-31,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=31
-32,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=32
-33,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=33
-34,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=34
-27,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=27
-29,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=29
-30,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=30
-37,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=37
-41,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=41
-35,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=35
-36,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=36
-43,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=43
-45,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=45
-40,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=40
-50,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=50
-51,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=51
-52,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=52
-54,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
-49,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=49
-56,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=56
-59,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=59
-60,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
-61,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=61
-62,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=62
-63,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=63
-57,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=57
-65,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
+壹新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=31
+BBCnews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=32
+ABCnews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=33
+CNN,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=34
+华视新闻资讯,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=27
+三立inews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=29
+三立live新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=30
+JET,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=37
+TVNMOVIES,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=41
+NHKworld,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=35
+CNA,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=36
+WBFILM,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=43
+ASTRO SUPERSPORT,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=45
+CATCHPLAY,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=40
+BT SPORT2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=50
+BT SPORT3,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=51
+三立都会台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=52
+Preal,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
+SKYsports,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=49
+香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=56
+TLC,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=59
+NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
+TVB经典台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=61
+香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=62
+香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=63
+香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=57
+NOW新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
 
 
 
 
-4K修复,http://223.110.235.21:80/wh7f454c46tw2065242376_643205074/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
+
+
+港liud usa,#genre#
 翡翠台,http://liud.usa7.20212021.ga/tbs.php?id=1
 凤凰香港台,http://liud.usa7.20212021.ga/tbs.php?id=4
 凤凰中文台,http://liud.usa7.20212021.ga/tbs.php?id=2
@@ -1728,7 +1730,7 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://116.199.5.58:8114/ind
 斗鱼4K,http://080880qazwsx.ve5.aihost10.top/dy.php?id=9249162
 斗鱼4K,http://zzy789.xyz/douyu1.php?id=9249162
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-
+4K修复,http://223.110.235.21:80/wh7f454c46tw2065242376_643205074/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
 LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
