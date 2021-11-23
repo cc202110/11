@@ -16,6 +16,7 @@ CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/i
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+无线新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 中视新闻,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
@@ -1257,41 +1258,16 @@ AXN电影,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 星空卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 
-6港台185,#genre#
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
-
-J2台,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
-TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8
-无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-中视,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
-中视菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
-华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
-华视教育,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
-华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
-华视国会1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
-华视国会2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
-民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
-民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
-民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
-民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
-
 
 7香港@Livetv,#genre#
-
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
 無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
 Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+
 有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
 有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
@@ -1326,67 +1302,6 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
-9台湾@59,#genre#
-
-民视,rtmp://59.124.75.136/sat/tv051
-台式,rtmp://59.124.75.136/sat/tv071
-中视,rtmp://59.124.75.136/sat/tv091
-华视,rtmp://59.124.75.136/sat/tv111
-TVBS欢乐台,rtmp://59.124.75.136/sat/tv421
-东森超视,rtmp://59.124.75.136/sat/tv521
-TVBS新闻台,rtmp://59.124.75.136/sat/tv551
-东森财经新闻,rtmp://59.124.75.136/sat/tv571
-纬来育乐,rtmp://59.124.75.136/sat/tv701
-纬来体育,rtmp://59.124.75.136/sat/tv721
-eleven1,rtmp://59.124.75.136/sat/tv731
-eleven2,rtmp://59.124.75.136/sat/tv741
-MoMo综合台,rtmp://59.124.75.136/sat/tv761
-纬来日本,rtmp://59.124.75.136/sat/tv771
-日本体育,rtmp://59.124.75.136/sat/jp011
-shop,rtmp://59.124.75.136/sat/us011
-shop2,rtmp://59.124.75.136/sat/us021
-ESPN,rtmp://59.124.75.136/sat/us031
-ESPN,rtmp://59.124.75.136/sat/us041
-ESPN,rtmp://59.124.75.136/sat/us051
-ESPN,rtmp://59.124.75.136/sat/us061
-ESPN,rtmp://59.124.75.136/sat/us071
-ESPN,rtmp://59.124.75.136/sat/us081
-CBS SPROTS,rtmp://59.124.75.136/sat/us231
-no,rtmp://59.124.75.136/sat/us241
-ESPN2,rtmp://59.124.75.136/sat/us251
-SC,rtmp://59.124.75.136/sat/us261
-SC,rtmp://59.124.75.136/sat/us271
-SC,rtmp://59.124.75.136/sat/us281
-好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-
-10台湾@161,#genre#
-
-民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
-台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
-中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
-華视,rtmp://161.202.204.248:1935/sat/tv111
-TVBS欢乐台,rtmp://161.202.204.248/sat/tv421
-纬来日本,rtmp://161.202.204.248:1935/sat/tv521
-TVBS新闻台,rtmp://161.202.204.248/sat/tv551
-东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
-纬来育乐,rtmp://161.202.204.248/sat/tv701
-纬来育乐,rtmp://161.202.204.248:1935/sat/tv701
-纬来体育,rtmp://161.202.204.248/sat/tv721
-纬来体育,rtmp://161.202.204.248:1935/sat/tv721
-eleven1,rtmp://161.202.204.248:1935/sat/tv731
-eleven2,rtmp://161.202.204.248:1935/sat/tv741
-MoMo综合台,rtmp://161.202.204.248/sat/tv761
-东森超视,rtmp://161.202.204.248/sat/tv771
-爱尔达体育1,rtmp://161.202.204.248/sat/md011
-eleven2,rtmp://161.202.204.248/sat/md021
-博斯网球,rtmp://161.202.204.248/sat/md031
-博斯魅力,rtmp://161.202.204.248/sat/md041
-爱尔达体育1,rtmp://161.202.204.248/sat/md051
-有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
-有线603HD,rtmp://161.202.204.248:1935/sat/hk011
-有线18台,rtmp://161.202.204.248/sat/hk041
-CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 
 
 11台湾@卡125,#genre#
