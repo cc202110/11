@@ -1,6 +1,6 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-
+4K修复,http://223.110.235.21:80/wh7f454c46tw2065242376_643205074/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
 翡翠台,http://liud.usa7.20212021.ga/tbs.php?id=1
 凤凰香港台,http://liud.usa7.20212021.ga/tbs.php?id=4
 凤凰中文台,http://liud.usa7.20212021.ga/tbs.php?id=2
@@ -1069,6 +1069,7 @@ CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/i
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 中视新闻,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
+FOXnews,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 CNBC亚洲财经,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
 BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
 CNA,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
