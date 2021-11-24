@@ -1,25 +1,19 @@
 X直播电视台 youtube油管 频道
 
 测试©频道,#genre#
-Channel News Asia | d2k,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Channel News Asia | d2k,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA HD*,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA HD*,tvg-logo=\"https://www.skynetdth.com/images/channal_logo/channel_news_asia.png\",Channel News Asia
-CNA HD*,https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master.m3u8
+CNA HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 Channel News Asia,https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
 Channel News Asia,https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 CNA HD,http://45.126.83.51/uq2663/h/h29/index2.m3u8
 Channel newsAsia HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-Channel NewsAsia auto,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Channel NewsAsia HD\',http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_4.m3u8
-Channel NewsAsia FHD\',http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_5.m3u8
-Channel NewsAsia (auto)\',http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
-CNA| AU,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
-CNA,http://101.127.128.44:9981/stream/channelid/626306416?ticket=80A7312FC579AC3176CE07D0A400E309F8EFD55A&profile=pass
-Channel 5,http://101.127.128.44:9981/stream/channelid/1482377991?ticket=B42AF944A522EAED1E4E522B8C18D8393FE7EB6E&profile=pass
-Channel 8,http://101.127.128.44:9981/stream/channelid/1647051959?ticket=FFF3DE625D0C98EC22A4E0AE31BEBB61C188D657&profile=pass
+
+Channel NewsAsia HD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_4.m3u8
+Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_5.m3u8
+
+
 Channel 8,http://101.127.128.44:9981/stream/channelnumber/3
 Channel U,http://101.127.128.44:9981/stream/channelid/1677198652?ticket=5662DDBD243E9F47B210A6821DFC941BCCF8BD3D&profile=pass
 Suria,http://101.127.128.44:9981/stream/channelid/1785002562?ticket=17CA53CD53505137E23D86146C5EFF907860CB4B&profile=pass
