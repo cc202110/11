@@ -1,58 +1,9 @@
 X直播电视台 youtube油管 频道
 
 测试©频道,#genre#
-4,http://aziptv.live:80/Hdservers/Valendsuk/1804
-8,http://aziptv.live:80/Hdservers/Valendsuk/1808
-1,http://aziptv.live:80/Hdservers/Valendsuk/1801
-7,http://aziptv.live:80/Hdservers/Valendsuk/1807
-3,http://aziptv.live:80/Hdservers/Valendsuk/1803
-2,http://aziptv.live:80/Hdservers/Valendsuk/1802
-9,http://aziptv.live:80/Hdservers/Valendsuk/1809
-11,http://aziptv.live:80/Hdservers/Valendsuk/1811
-13,http://aziptv.live:80/Hdservers/Valendsuk/1813
-14,http://aziptv.live:80/Hdservers/Valendsuk/1814
-12,http://aziptv.live:80/Hdservers/Valendsuk/1812
-17,http://aziptv.live:80/Hdservers/Valendsuk/1817
-25,http://aziptv.live:80/Hdservers/Valendsuk/1825
-26,http://aziptv.live:80/Hdservers/Valendsuk/1826
-35,http://aziptv.live:80/Hdservers/Valendsuk/1835
-37号[1600*668],http://aziptv.live:80/Hdservers/Valendsuk/1837
-38,http://aziptv.live:80/Hdservers/Valendsuk/1838
-41,http://aziptv.live:80/Hdservers/Valendsuk/1841
-39,http://aziptv.live:80/Hdservers/Valendsuk/1839
-42,http://aziptv.live:80/Hdservers/Valendsuk/1842
-55,http://aziptv.live:80/Hdservers/Valendsuk/1855
-56,http://aziptv.live:80/Hdservers/Valendsuk/1856
-52,http://aziptv.live:80/Hdservers/Valendsuk/1852
-59,http://aziptv.live:80/Hdservers/Valendsuk/1859
-63,http://aziptv.live:80/Hdservers/Valendsuk/1863
-60,http://aziptv.live:80/Hdservers/Valendsuk/1860
-61,http://aziptv.live:80/Hdservers/Valendsuk/1861
-66,http://aziptv.live:80/Hdservers/Valendsuk/1866
-68,http://aziptv.live:80/Hdservers/Valendsuk/1868
-76,http://aziptv.live:80/Hdservers/Valendsuk/1876
-75,http://aziptv.live:80/Hdservers/Valendsuk/1875
-77,http://aziptv.live:80/Hdservers/Valendsuk/1877
-78,http://aziptv.live:80/Hdservers/Valendsuk/1878
-80,http://aziptv.live:80/Hdservers/Valendsuk/1880
-74,http://aziptv.live:80/Hdservers/Valendsuk/1874
-79号[1047*576],http://aziptv.live:80/Hdservers/Valendsuk/1879
-82,http://aziptv.live:80/Hdservers/Valendsuk/1882
-83,http://aziptv.live:80/Hdservers/Valendsuk/1883
-85,http://aziptv.live:80/Hdservers/Valendsuk/1885
-81,http://aziptv.live:80/Hdservers/Valendsuk/1881
-86,http://aziptv.live:80/Hdservers/Valendsuk/1886
-87,http://aziptv.live:80/Hdservers/Valendsuk/1887
-84,http://aziptv.live:80/Hdservers/Valendsuk/1884
-88,http://aziptv.live:80/Hdservers/Valendsuk/1888
-89,http://aziptv.live:80/Hdservers/Valendsuk/1889
-93,http://aziptv.live:80/Hdservers/Valendsuk/1893
-94,http://aziptv.live:80/Hdservers/Valendsuk/1894
-91,http://aziptv.live:80/Hdservers/Valendsuk/1891
-92号[720*405],http://aziptv.live:80/Hdservers/Valendsuk/1892
 
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-PIX4Khttp://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/119652.m3u8
+777,https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+PIX4K,http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/119652.m3u8
 Channel 8,http://analoquetv.online/streams/d/Channel8/playlist.m3u8
 Channel 5,http://analoquetv.online/streams/d/Channel5/playlist.m3u8
 CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
