@@ -1,52 +1,16 @@
 X直播电视台 youtube油管 频道
 
 测试©频道,#genre#
+Channel 8,http://analoquetv.online/streams/d/Channel8/playlist.m3u8
+Channel 5,http://analoquetv.online/streams/d/Channel5/playlist.m3u8
 CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
 CNA HD,http://45.126.83.51/uq2663/h/h29/index2.m3u8
-Channel newsAsia HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-Channel NewsAsia HD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_4.m3u8
 Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_5.m3u8
-
-
 Channel 8,http://101.127.128.44:9981/stream/channelnumber/3
-Vasantham,http://101.127.128.44:9981/stream/channelid/1434561421?ticket=571F978805B7C65F1F0EBBEB6F2E1F3289DD83C8&profile=pass
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/1
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/2
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/3
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/4
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/5
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/6
-
-Vasantham,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Vasantham,https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-Vasantham,Mediacorp 5
-Vasantham,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10001&key=84797b799ae18d1b
-Vasantham,Mediacorp 8
-Vasantham,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10002&key=84797b799ae18d1b
-Vasantham,Mediacorp U
-Vasantham,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10003&key=84797b799ae18d1b
-Vasantham,Mediacorp S
-Vasantham,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10004&key=84797b799ae18d1b
-Vasantham,Mediacorp Vasanatham
-Vasantham,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10005&key=84797b799ae18d1b
-Vasantham,Mediacorp cna
-Vasantham,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 8新闻台,https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 CH 8,http://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
-CH 8,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
-CH 8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
-CH 8,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
-CH 8,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-CH 8,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
-CH 8,VasanthamCH 8,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
-Channel 5,http://analoquetv.online/streams/d/Channel5/playlist.m3u8
-Channel 8,http://analoquetv.online/streams/d/Channel8/playlist.m3u8
-
 
 马来nonton,#genre#
 翡翠台,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37356
