@@ -10,7 +10,6 @@ Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48e
 Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_5.m3u8
 Channel 8,http://101.127.128.44:9981/stream/channelnumber/3
 8新闻台,https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
-CH 8,http://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 
 马来nonton,#genre#
 翡翠台,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37356
