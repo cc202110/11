@@ -4,8 +4,7 @@ X直播电视台 youtube油管 频道
 CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-Channel News Asia,https://d2ko4czujk9652.cloudfront.net/hls/clr4ctv_cnas/master.m3u8
-Channel News Asia,https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
+
 CNA HD,http://45.126.83.51/uq2663/h/h29/index2.m3u8
 Channel newsAsia HD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -15,16 +14,14 @@ Channel NewsAsia FHD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfb
 
 
 Channel 8,http://101.127.128.44:9981/stream/channelnumber/3
-Channel U,http://101.127.128.44:9981/stream/channelid/1677198652?ticket=5662DDBD243E9F47B210A6821DFC941BCCF8BD3D&profile=pass
-Suria,http://101.127.128.44:9981/stream/channelid/1785002562?ticket=17CA53CD53505137E23D86146C5EFF907860CB4B&profile=pass
 Vasantham,http://101.127.128.44:9981/stream/channelid/1434561421?ticket=571F978805B7C65F1F0EBBEB6F2E1F3289DD83C8&profile=pass
 Vasantham,http://101.127.128.44:9981/stream/channelnumber/1
 Vasantham,http://101.127.128.44:9981/stream/channelnumber/2
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/3 <
+Vasantham,http://101.127.128.44:9981/stream/channelnumber/3
 Vasantham,http://101.127.128.44:9981/stream/channelnumber/4
 Vasantham,http://101.127.128.44:9981/stream/channelnumber/5
-Vasantham,http://101.127.128.44:9981/stream/channelnumber/6 <
-Vasantham,CNA
+Vasantham,http://101.127.128.44:9981/stream/channelnumber/6
+
 Vasantham,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 Vasantham,https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 Vasantham,Mediacorp 5
@@ -41,18 +38,12 @@ Vasantham,Mediacorp cna
 Vasantham,http://96.44.140.132:18006/view.php?type=m3u8&id=c_10007&key=84797b799ae18d1b
 8新闻台,https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 CH 8,http://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
-CH 8,Channel 5
 CH 8,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
-CH 8,Channel 8
 CH 8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
-CH 8,Channel U
 CH 8,https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
-CH 8,OKTO on 5
 CH 8,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-CH 8,Suria
 CH 8,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
-CH 8,Vasantham
-CH 8,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
+CH 8,VasanthamCH 8,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
 Channel 5,http://analoquetv.online/streams/d/Channel5/playlist.m3u8
 Channel 8,http://analoquetv.online/streams/d/Channel8/playlist.m3u8
 
