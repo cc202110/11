@@ -21,98 +21,100 @@ HBOhits,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/591.m3u8
 TVB娱乐新闻台,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37359.m3u8
 中天亚洲台,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37358.m3u8
 TVB星河,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37360.m3u8
-TVBS亚洲,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37361
-天映经典,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37362
-Astro 爱奇艺,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37349
-Astro BOXOFFICE BOLLYONE,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37348
-GOshop,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37350
-Astro 小太阳,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37351
-Astro 双星,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37353
-Astro AEC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37352
-Astro 全佳,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37354
-Astro RANIA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37467.
-Astro AOD1,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37357
-Astro AOD2,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37365
-Astro AOD3,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37366
-Astro AOD4,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37367
+TVBS亚洲,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37361.m3u8
+天映经典,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37362.m3u8
+Astro 爱奇艺,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37349.m3u8
+Astro BOXOFFICE BOLLYONE,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37348.m3u8
+GOshop,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37350.m3u8
+Astro 小太阳,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37351.m3u8
+Astro 双星,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37353.m3u8
+Astro AEC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37352.m3u8
+Astro 全佳,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37354.m3u8
+Astro RANIA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37467.m3u8.m3u8
+Astro AOD1,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37357.m3u8
+Astro AOD2,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37365.m3u8
+Astro AOD3,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37366.m3u8
+Astro AOD4,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37367.m3u8
+.m3u8
+KBS world,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37369.m3u8
+ONE,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37370.m3u8
+OHK,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37371.m3u8
+TVN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37372.m3u8
+TVNMOVIES,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37376.m3u8
+HBO,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37374.m3u8
+CINEMAX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37375.m3u8
+77,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37377.m3u8
+.m3u8
+00,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37378.m3u8
+CGTN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37379.m3u8
+CNN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37380.m3u8
+BBCworld,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37381.m3u8
+ALJAZEERA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37382.m3u8
+SKYNEWS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37383.m3u8
+CNA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37384.m3u8
+CNBC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37385.m3u8
+Bloomberg,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37386.m3u8
+ABC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37387.m3u8
+国家地理悠人,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37388.m3u8
+国家地理,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37389.m3u8
+Discovery,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37391.m3u8
+Discovery韩国,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37390.m3u8
+SCI,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37392.m3u8
+HISTORY,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37393.m3u8
+动物星球,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37394.m3u8
+KIX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37408.m3u8
+HITS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37409.m3u8
+TLC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37410.m3u8
+FOOD,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37411.m3u8
+AFN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37412.m3u8
+CRIME+,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37415.m3u8
+HGTV,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37416.m3u8
+DMAX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37417.m3u8
+RACE,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37421.m3u8
+MTV,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37419.m3u8
+COLORS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37427.m3u8
+29号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37428.m3u8
+EUROSPORT,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37434.m3u8
+WWE摔角,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37435.m3u8
+GOLF,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37436.m3u8
+RUGBY PASS TV,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37437.m3u8
+ANIPLUS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37439.m3u8
+K+,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37440.m3u8
+DW,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37441.m3u8
+FRANCE24,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37442.m3u8
+BOOMERANG,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37453.m3u8
+Paramount,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37462.m3u8
+COLORS CINEPLEX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37455.m3u8
+95,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37395.m3u8
+96,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37396.m3u8
+97,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37397.m3u8
+98,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37398.m3u8
+99,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37399.m3u8
+3号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37402.m3u8
+2号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37401.m3u8
+1号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37400.m3u8
+5号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37404.m3u8
+6号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37405.m3u8
+GO SHOP1,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37336.m3u8
+GOSHOP GAAYA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37339.m3u8
+GOSHOP RUUMA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37338.m3u8
+33,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37333.m3u8
+Astro OASIS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37334.m3u8
+32,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37332.m3u8
+35,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37335.m3u8
+.m3u8
+37,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37337.m3u8
+.m3u8
+43,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37343.m3u8
+42,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37342.m3u8
+41,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37341.m3u8
+44,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37344.m3u8
+47,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37347.m3u8
+SUN MUSIC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37340.m3u8
+45,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37345.m3u8
+COLORS HD,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37346.m3u8
 
-KBS world,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37369
-ONE,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37370
-OHK,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37371
-TVN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37372
-TVNMOVIES,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37376
-HBO,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37374
-CINEMAX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37375
-77,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37377
 
-00,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37378
-CGTN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37379
-CNN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37380
-BBCworld,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37381
-ALJAZEERA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37382
-SKYNEWS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37383
-CNA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37384
-CNBC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37385
-Bloomberg,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37386
-ABC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37387
-国家地理悠人,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37388
-国家地理,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37389
-Discovery,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37391
-Discovery韩国,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37390
-SCI,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37392
-HISTORY,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37393
-动物星球,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37394
-KIX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37408
-HITS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37409
-TLC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37410
-FOOD,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37411
-AFN,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37412
-CRIME+,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37415
-HGTV,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37416
-DMAX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37417
-RACE,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37421
-MTV,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37419
-COLORS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37427
-29号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37428
-EUROSPORT,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37434
-WWE摔角,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37435
-GOLF,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37436
-RUGBY PASS TV,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37437
-ANIPLUS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37439
-K+,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37440
-DW,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37441
-FRANCE24,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37442
-BOOMERANG,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37453
-Paramount,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37462
-COLORS CINEPLEX,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37455
-95,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37395
-96,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37396
-97,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37397
-98,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37398
-99,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37399
-3号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37402
-2号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37401
-1号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37400
-5号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37404
-6号,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37405
-GO SHOP1,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37336
-GOSHOP GAAYA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37339
-GOSHOP RUUMA,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37338
-33,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37333
-Astro OASIS,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37334
-32,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37332
-35,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37335
-
-37,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37337
-
-43,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37343
-42,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37342
-41,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37341
-44,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37344
-47,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37347
-SUN MUSIC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37340
-45,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37345
-COLORS HD,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37346
 🎤新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
