@@ -18,9 +18,9 @@ ANIplus,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/2.m3u8
 ANIplus,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37439.m3u8
 HBOhits,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/591.m3u8
 翡翠台,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37356.m3u8
-TVB娱乐新闻台,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37359
-中天亚洲台,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37358
-TVB星河,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37360
+TVB娱乐新闻台,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37359.m3u8
+中天亚洲台,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37358.m3u8
+TVB星河,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37360.m3u8
 TVBS亚洲,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37361
 天映经典,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37362
 Astro 爱奇艺,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37349
