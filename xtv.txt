@@ -1,7 +1,17 @@
 X直播电视台 youtube油管 频道
 
 测试©频道,#genre#
-
+NHK G,vjms://122.155.180.8:8500:5021/live/cid=309
+NHK E,vjms://122.155.180.8:8500:5021/live/cid=318
+NHK BS1,vjms://122.155.180.8:8500:5021/live/cid=301
+NHK BSP,vjms://122.155.180.8:8500:5021/live/cid=303
+NIPPON TV,vjms://122.155.180.8:8500:5021/live/cid=312
+FUJI TV,vjms://122.155.180.8:8500:5021/live/cid=316
+TOKYO TV,vjms://122.155.180.8:8500:5021/live/cid=315
+东京放送,vjms://122.155.180.8:8500:5021/live/cid=314
+朝日放送,vjms://122.155.180.8:8500:5021/live/cid=321
+ANIMAX,vjms://122.155.180.8:8500:5021/live/cid=498
+STAR-2,vjms://122.155.180.8:8500:3502/live/cid=191
 Channel 8,http://analoquetv.online/streams/d/Channel8/playlist.m3u8
 Channel 5,http://analoquetv.online/streams/d/Channel5/playlist.m3u8
 CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
