@@ -14,6 +14,7 @@ Channel 8,http://101.127.128.44:9981/stream/channelnumber/3
 
 马来nonton,#genre#
 ax plus,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/2.m3u8
+axs,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/1.m3u8
 翡翠台,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37356
 TVB娱乐新闻台,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37359
 中天亚洲台,https://nonton.site:8443/IGRKg9OA4w/jshjbmd4567fg/37358
