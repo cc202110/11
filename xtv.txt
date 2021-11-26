@@ -111,9 +111,9 @@ CNA FHD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/in
 CNA FHD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_5.m3u8
 8新闻台,https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 
-马来nonton,#genre#
+断马来nonton,#genre#
 
-ANIplus,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/2.m3u8
+
 ANIplus,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37439.m3u8
 HBOhits,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/591.m3u8
 翡翠台,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37356.m3u8
