@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1 group-title="香港"  tvg-name="TVB Xing He HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河
+https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37360.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠华丽台
