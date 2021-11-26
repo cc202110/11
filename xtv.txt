@@ -1,6 +1,15 @@
 X直播电视台 youtube油管 频道
 
 硬件解码,#genre#
+
+翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
+無線新聞,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u8
+無線財經資訊台,http://live96.kglink.xyz:8080/live/tvb_finance/tvb-finance.m3u8
+ViuTV,http://live96.kglink.xyz:8080/live/viu_tv/viu-tv.m3u8
+有線新聞,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
+東森新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
+國家地理,http://live96.kglink.xyz:8080/live/natgeotv/ngc.m3u8
+now-sports,http://live96.kglink.xyz:8080/live/now_sports/now-sports.m3u8
 爆谷台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
 
 
