@@ -19,14 +19,14 @@ TVBS新闻台,rtmp://59.124.75.157/sat/tv551
 ELEVEN1,rtmp://59.124.75.157/sat/tv731
 ELEVEN2,rtmp://59.124.75.157/sat/tv741
 MoMo综合台,rtmp://59.124.75.157/sat/tv761
-博斯魅力,rtmp://59.124.75.157/sat/md011
-爱尔达体育1,rtmp://59.124.75.157/sat/md021
-爱尔达体育2台,rtmp://59.124.75.157/sat/md051
+爱尔达体育1,rtmp://59.124.75.157/sat/md011
+爱尔达体育2,rtmp://59.124.75.157/sat/md021
+博斯运动II,rtmp://59.124.75.157/sat/md051
 爱尔达体育1台,rtmp://59.124.75.157/sat/md011
 爱尔达体育2,rtmp://59.124.75.157/sat/md031
 爱尔达体育3,rtmp://59.124.75.157/sat/md041
-日本2rtmp://59.124.75.157/sat/jp011
-日本,rtmp://59.124.75.157/sat/jp031
+DDDD,rtmp://59.124.75.157/sat/jp011
+GAORA,rtmp://59.124.75.157/sat/jp031
 
 测试,#genre#
 TVB8,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/451449/live_194707653_5399055.m3u8
