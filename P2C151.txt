@@ -125,6 +125,32 @@ CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index
 辽宁卫视 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226929/index.m3u8
 
 ⚪台湾频道,#genre#
+有线体育台,rtmp://59.124.75.157/sat/hk011
+Sports Plus,rtmp://59.124.75.157/sat/hk021
+xxxs,rtmp://59.124.75.157/sat/hk031
+18台,rtmp://59.124.75.157/sat/hk041
+民视,rtmp://59.124.75.157/sat/tv051
+台视,rtmp://59.124.75.157/sat/tv071
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.157/sat/tv111
+TVBS欢乐台,rtmp://59.124.75.157/sat/tv421
+TVBS新闻台,rtmp://59.124.75.157/sat/tv551
+东森超视,rtmp://59.124.75.157/sat/tv331
+东森财经新闻,rtmp://59.124.75.157/sat/tv571
+纬来日本,rtmp://59.124.75.157/sat/tv771
+纬来育乐,rtmp://59.124.75.157/sat/tv701
+纬来体育,rtmp://59.124.75.157/sat/tv721
+ELEVEN1,rtmp://59.124.75.157/sat/tv731
+ELEVEN2,rtmp://59.124.75.157/sat/tv741
+MoMo综合台,rtmp://59.124.75.157/sat/tv761
+爱尔达体育1,rtmp://59.124.75.157/sat/md011
+爱尔达体育2,rtmp://59.124.75.157/sat/md021
+博斯运动II,rtmp://59.124.75.157/sat/md051
+爱尔达体育1台,rtmp://59.124.75.157/sat/md011
+爱尔达体育2,rtmp://59.124.75.157/sat/md031
+爱尔达体育3,rtmp://59.124.75.157/sat/md041
+DDDD,rtmp://59.124.75.157/sat/jp011
+GAORA,rtmp://59.124.75.157/sat/jp031
 星卫娱乐台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 靖天电影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
 靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
