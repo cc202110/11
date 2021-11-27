@@ -3,6 +3,7 @@ X直播电视台 youtube油管 频道
 测试,#genre#
 
 BT SPORT2,http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8
+FTV,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 硬件解码,#genre#
 
 翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
