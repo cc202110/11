@@ -1,8 +1,45 @@
 X直播电视台 youtube油管 频道
 
 测试,#genre#
+Astro AOD,http://190.2.133.47:8277/streams/d/aod_pye/playlist.m3u8
+Astro IQIYI,http://190.2.133.47:8277/streams/d/iqiyi_pye/playlist.m3u8
+Astro 双星,http://190.2.133.47:8278/streams/d/Shuangxing/playlist.m3u8
+Astro 全佳,http://190.2.133.47:8278/streams/d/Quanjia/playlist.m3u8
+Astro 小太阳,http://190.2.133.47:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Astro AEC,http://190.2.133.47:8277/streams/d/aec_pye/playlist.m3u8
+Astro Awani,http://190.2.133.47:8278/streams/d/Awani/playlist.m3u8
+Drama Sangat,http://190.2.133.47:8278/streams/d/Dsangat/playlist.m3u8
+Astro Ria,http://190.2.133.47:8278/streams/d/ria_pye/playlist.m3u8
+Astro Prima, http://190.2.133.47:8278/streams/d/Prima/playlist.m3u8
+Astro Oasis,http://190.2.133.47:8278/streams/d/Oasis/playlist.m3u8
+Astro Citra,http://190.2.133.47:8278/streams/d/Citra/playlist.m3u8
+Astro Awani,http://190.2.133.47:8278/streams/d/Awani/playlist.m3u8
+Naura HD,http://190.2.133.47:8278/streams/d/Naura/playlist.m3u8
+8TV,http://190.2.133.47:8278/streams/d/TV8/playlist.m3u8
+Bernama TV,http://190.2.133.47:8278/streams/d/Bernama/playlist.m3u8
+BOO,http://190.2.133.47:8278/streams/d/Boo/playlist.m3u8
+NTV 7,http://190.2.133.47:8278/streams/d/Rtmntv7/playlist.m3u8
+TV1,http://190.2.133.47:8278/streams/d/TV1/playlist.m3u8
+TV2,http://190.2.133.47:8278/streams/d/TV2/playlist.m3u8
+TV3,http://190.2.133.47:8278/streams/d/TV3/playlist.m3u8
+TV9,http://190.2.133.47:8278/streams/d/TV9/playlist.m3u8
+Oh!K hd,http://190.2.133.47:8278/streams/d/Ohk/playlist.m3u8
+Sony One50,http://190.2.133.47:8278/streams/d/SetOne/playlist.m3u8
+HGTV,http://190.2.133.47:8278/streams/d/HGTV/playlist.m3u8
+KBS WORLD,http://190.2.133.47:8278/streams/d/KBS/playlist.m3u8
+TVN HD,http://190.2.133.47:8278/streams/d/TVN/playlist.m3u8
+HBO Malaysia,http://190.2.133.47:8278/streams/d/Hbo/playlist.m3u8
+Celestial天映经典,http://190.2.133.47:8278/streams/d/Celestial2/playlist.m3u8
+Celestial天映频道,http://190.2.133.47:8278/streams/d/Celestial/playlist.m3u8
+ANIMAL PLANET,http://190.2.133.47:8278/streams/d/AnimalPlanet/playlist.m3u8
+NAT GEO wild,http://190.2.133.47:8278/streams/d/Natgeowild/playlist.m3u8
+Arena,http://190.2.133.47:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://190.2.133.47:8278/streams/d/rtm_pye/playlist.m3u8
+RTM Sports,http://190.2.133.47:8278/streams/d/rtm_pye/playlist.m3u8
 
 BT SPORT2,http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8
+FTV,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 FTV,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 硬件解码,#genre#
 
