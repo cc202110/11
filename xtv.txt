@@ -1,6 +1,7 @@
 X直播电视台 youtube油管 频道
 
 测试,#genre#
+TVB8,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/451449/live_194707653_5399055.m3u8
 Olive,https://onstyle-seezn.pip.cjenm.com/onstyle/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzMyODYsInBhdGgiOiIvb25zdHlsZS9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzMyOTg2NDMwNzI5NDYiLCJpYXQiOjE2MjI3MzI5ODZ9.cknI7stKmVvkBj2aRnM00rwZqFA_HZpXfM3tVP_P0YE
 Astro Warna,http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
 Astro AOD,http://190.2.133.47:8277/streams/d/aod_pye/playlist.m3u8
