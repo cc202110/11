@@ -1,6 +1,6 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-
+有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 
 
 
@@ -1547,14 +1547,15 @@ AXN,http://50.7.61.148:30080/Entry/axn
 
 香港备用,#genre#
 
-翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
-J2,http://live96.kglink.xyz:8080/live/now_sports/now-sports.m3u8
-無線新聞,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u8
-無線財經資訊台,http://live96.kglink.xyz:8080/live/tvb_finance/tvb-finance.m3u8
-ViuTV,http://live96.kglink.xyz:8080/live/viu_tv/viu-tv.m3u8
-有線新聞,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
-東森新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
-國家地理,http://live96.kglink.xyz:8080/live/natgeotv/ngc.m3u8
+翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u
+J2,http://live96.kglink.xyz:8080/live/now_sports/now-sports.m3u
+無線新聞,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u
+無線財經資訊台,http://live96.kglink.xyz:8080/live/tvb_finance/tvb-finance.m3u
+ViuTV,http://live96.kglink.xyz:8080/live/viu_tv/viu-tv.m3u
+有線新聞,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u
+東森新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u
+國家地理,http://live96.kglink.xyz:8080/live/natgeotv/ngc.m3u
+中天新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/ztxw.m3u
 
 台湾硬解,#genre#
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
