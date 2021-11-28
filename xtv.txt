@@ -1,12 +1,6 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 
-
-
-
-
-测试,#genre#
 TVB8,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/451449/live_194707653_5399055.m3u8
 Olive,https://onstyle-seezn.pip.cjenm.com/onstyle/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzMyODYsInBhdGgiOiIvb25zdHlsZS9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzMyOTg2NDMwNzI5NDYiLCJpYXQiOjE2MjI3MzI5ODZ9.cknI7stKmVvkBj2aRnM00rwZqFA_HZpXfM3tVP_P0YE
 
@@ -271,7 +265,7 @@ TVB明珠,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 凤凰资讯,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 
 凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-
+有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
@@ -1409,54 +1403,7 @@ NOW新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
 
 
 
-3港liud usa,#genre#
-凤凰卫视,http://lius.usa7.20212021.ga/tbs.php?id=2
-凤凰资讯台,http://lius.usa7.20212021.ga/tbs.php?id=3
-凤凰香港台,http://lius.usa7.20212021.ga/tbs.php?id=4
-TVB翡翠,http://lius.usa7.20212021.ga/tbs.php?id=1
-TVB明珠,http://lius.usa7.20212021.ga/tbs.php?id=13
-TVB J2,http://lius.usa7.20212021.ga/tbs.php?id=12
-Now新聞,http://lius.usa7.20212021.ga/tbs.php?id=16
-ViuTV,http://lius.usa7.20212021.ga/tbs.php?id=8
-耀才财经台,http://lius.usa7.20212021.ga/tbs.php?id=19
-無線新聞,http://lius.usa7.20212021.ga/tbs.php?id=9
-無線財經,http://lius.usa7.20212021.ga/tbs.php?id=10
-有線新聞,http://lius.usa7.20212021.ga/tbs.php?id=24
-有線財經,http://lius.usa7.20212021.ga/tbs.php?id=28
-有线体育,http://lius.usa7.20212021.ga/tbs.php?id=27
-有線電影,http://lius.usa7.20212021.ga/tbs.php?id=23
-有線18台,http://lius.usa7.20212021.ga/tbs.php?id=25
-有線603,http://lius.usa7.20212021.ga/tbs.php?id=26
-開电视,http://lius.usa7.20212021.ga/tbs.php?id=7
-星空卫视,http://lius.usa7.20212021.ga/tbs.php?id=18
-澳门莲花,http://lius.usa7.20212021.ga/tbs.php?id=30
-澳门卫视,http://lius.usa7.20212021.ga/tbs.php?id=31
-RTHK31,http://lius.usa7.20212021.ga/tbs.php?id=20
-RTHK32,http://lius.usa7.20212021.ga/tbs.php?id=21
-中視 ,http://lius.usa7.20212021.ga/tbs.php?id=82
-華視 ,http://lius.usa7.20212021.ga/tbs.php?id=86
-民視 ,http://lius.usa7.20212021.ga/tbs.php?id=84
-台視 ,http://lius.usa7.20212021.ga/tbs.php?id=83
-公視 ,http://lius.usa7.20212021.ga/tbs.php?id=85
-壹新闻,http://lius.usa7.20212021.ga/tbs.php?id=58
-TVBS ,http://lius.usa7.20212021.ga/tbs.php?id=95
-TVBS新聞,http://lius.usa7.20212021.ga/tbs.php?id=54
-TVBS精采,http://lius.usa7.20212021.ga/tbs.php?id=96
-TVBS歡樂,http://lius.usa7.20212021.ga/tbs.php?id=97
-寰宇新聞,http://lius.usa7.20212021.ga/tbs.php?id=63
-寰宇台灣,http://lius.usa7.20212021.ga/tbs.php?id=64
-年代新聞,http://lius.usa7.20212021.ga/tbs.php?id=61
-非凡新聞,http://lius.usa7.20212021.ga/tbs.php?id=62
-中天新聞,http://lius.usa7.20212021.ga/tbs.php?id=53
-東森新聞,http://lius.usa7.20212021.ga/tbs.php?id=55
-三立新聞,http://lius.usa7.20212021.ga/tbs.php?id=57
-三立都会,http://lius.usa7.20212021.ga/tbs.php?id=49
-三立台湾,http://lius.usa7.20212021.ga/tbs.php?id=51
-东森超视,http://lius.usa7.20212021.ga/tbs.php?id=69
-中視新聞,http://lius.usa7.20212021.ga/tbs.php?id=60
-民視新聞,http://lius.usa7.20212021.ga/tbs.php?id=59
-民視台灣,http://lius.usa7.20212021.ga/tbs.php?id=99
-民視第一,http://lius.usa7.20212021.ga/tbs.php?id=1008
+
 
 
 台湾59,#genre#
@@ -1509,13 +1456,13 @@ SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 AXN,http://50.7.61.148:30080/Entry/axn
 
 香港备用,#genre#
-
+有線新聞,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8  
 翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
 J2,http://live96.kglink.xyz:8080/live/now_sports/now-sports.m3u8
 無線新聞,http://live96.kglink.xyz:8080/live/tvb_news/tvb-news.m3u8
 無線財經資訊台,http://live96.kglink.xyz:8080/live/tvb_finance/tvb-finance.m3u8
 ViuTV,http://live96.kglink.xyz:8080/live/viu_tv/viu-tv.m3u8
-有線新聞,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8                     
+                   
 東森新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
 國家地理,http://live96.kglink.xyz:8080/live/natgeotv/ngc.m3u8
 中天新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/ztxw.m3u8
@@ -1733,11 +1680,59 @@ AXN电影,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 星空卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-
+?港liud usa,#genre#
+凤凰卫视,http://lius.usa7.20212021.ga/tbs.php?id=2
+凤凰资讯台,http://lius.usa7.20212021.ga/tbs.php?id=3
+凤凰香港台,http://lius.usa7.20212021.ga/tbs.php?id=4
+TVB翡翠,http://lius.usa7.20212021.ga/tbs.php?id=1
+TVB明珠,http://lius.usa7.20212021.ga/tbs.php?id=13
+TVB J2,http://lius.usa7.20212021.ga/tbs.php?id=12
+Now新聞,http://lius.usa7.20212021.ga/tbs.php?id=16
+ViuTV,http://lius.usa7.20212021.ga/tbs.php?id=8
+耀才财经台,http://lius.usa7.20212021.ga/tbs.php?id=19
+無線新聞,http://lius.usa7.20212021.ga/tbs.php?id=9
+無線財經,http://lius.usa7.20212021.ga/tbs.php?id=10
+有線新聞,http://lius.usa7.20212021.ga/tbs.php?id=24
+有線財經,http://lius.usa7.20212021.ga/tbs.php?id=28
+有线体育,http://lius.usa7.20212021.ga/tbs.php?id=27
+有線電影,http://lius.usa7.20212021.ga/tbs.php?id=23
+有線18台,http://lius.usa7.20212021.ga/tbs.php?id=25
+有線603,http://lius.usa7.20212021.ga/tbs.php?id=26
+開电视,http://lius.usa7.20212021.ga/tbs.php?id=7
+星空卫视,http://lius.usa7.20212021.ga/tbs.php?id=18
+澳门莲花,http://lius.usa7.20212021.ga/tbs.php?id=30
+澳门卫视,http://lius.usa7.20212021.ga/tbs.php?id=31
+RTHK31,http://lius.usa7.20212021.ga/tbs.php?id=20
+RTHK32,http://lius.usa7.20212021.ga/tbs.php?id=21
+中視 ,http://lius.usa7.20212021.ga/tbs.php?id=82
+華視 ,http://lius.usa7.20212021.ga/tbs.php?id=86
+民視 ,http://lius.usa7.20212021.ga/tbs.php?id=84
+台視 ,http://lius.usa7.20212021.ga/tbs.php?id=83
+公視 ,http://lius.usa7.20212021.ga/tbs.php?id=85
+壹新闻,http://lius.usa7.20212021.ga/tbs.php?id=58
+TVBS ,http://lius.usa7.20212021.ga/tbs.php?id=95
+TVBS新聞,http://lius.usa7.20212021.ga/tbs.php?id=54
+TVBS精采,http://lius.usa7.20212021.ga/tbs.php?id=96
+TVBS歡樂,http://lius.usa7.20212021.ga/tbs.php?id=97
+寰宇新聞,http://lius.usa7.20212021.ga/tbs.php?id=63
+寰宇台灣,http://lius.usa7.20212021.ga/tbs.php?id=64
+年代新聞,http://lius.usa7.20212021.ga/tbs.php?id=61
+非凡新聞,http://lius.usa7.20212021.ga/tbs.php?id=62
+中天新聞,http://lius.usa7.20212021.ga/tbs.php?id=53
+東森新聞,http://lius.usa7.20212021.ga/tbs.php?id=55
+三立新聞,http://lius.usa7.20212021.ga/tbs.php?id=57
+三立都会,http://lius.usa7.20212021.ga/tbs.php?id=49
+三立台湾,http://lius.usa7.20212021.ga/tbs.php?id=51
+东森超视,http://lius.usa7.20212021.ga/tbs.php?id=69
+中視新聞,http://lius.usa7.20212021.ga/tbs.php?id=60
+民視新聞,http://lius.usa7.20212021.ga/tbs.php?id=59
+民視台灣,http://lius.usa7.20212021.ga/tbs.php?id=99
+民視第一,http://lius.usa7.20212021.ga/tbs.php?id=1008
 
 7香港@Livetv,#genre#
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+
 無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
 無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
 Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
@@ -1762,7 +1757,7 @@ UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
 
 
-8台湾58,#genre#
+8v台湾58,#genre#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
