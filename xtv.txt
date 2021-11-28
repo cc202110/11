@@ -1,6 +1,7 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-
+FTV④,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FTV④,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 TVB8,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/451449/live_194707653_5399055.m3u8
 Olive,https://onstyle-seezn.pip.cjenm.com/onstyle/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzMyODYsInBhdGgiOiIvb25zdHlsZS9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzMyOTg2NDMwNzI5NDYiLCJpYXQiOjE2MjI3MzI5ODZ9.cknI7stKmVvkBj2aRnM00rwZqFA_HZpXfM3tVP_P0YE
 
@@ -1266,7 +1267,7 @@ CIBN时尚生活,http://117.148.179.183/PLTV/88888888/224/3221231489/index.m3u8
 CIBN微电影,http://117.148.179.157/PLTV/88888888/224/3221231586/index.m3u8
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-
+=============================================================================================================================================
 1港台45.92,#genre#
 
 星卫娱乐台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
@@ -1343,19 +1344,28 @@ ETtoday 综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epg
 冠军电视台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
 MOD桌面,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 海豚综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
-
-
+=============================================================================================================================================
+=============================================================================================================================================
 2IPTV2,#genre#
-
-翡翠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
-无线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
-J2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
 VIUtv,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=6
-
-RHK31,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=8
+翡翠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
+J2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
+无线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
 无线财经,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=5
+
+明珠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
+SKYsports,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=49
+香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=56
+TLC,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=59
+NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
+TVB经典台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=61
 TVB星河,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=3
+香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=62
+香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=63
+香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=57
+NOW新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
 C+,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=13
+RHK31,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=8
 RHK32,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=9
 有线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=10
 民视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=14
@@ -1367,36 +1377,29 @@ RHK32,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=9
 台视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=22
 中天新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=24
 东森新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=25
-26,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=26
+东森财经新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=26
 TVBS新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=28
-20,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=20
+民视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=20
 壹新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=31
+JET,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=37
+华视新闻资讯,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=27
+CATCHPLAY,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=40
+CNA,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=36
+BT SPORT3,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=51
+三立都会台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=52
+三立inews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=29
+三立live新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=30
+
+TVNMOVIES,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=41
 BBCnews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=32
 ABCnews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=33
 CNN,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=34
-华视新闻资讯,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=27
-三立inews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=29
-三立live新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=30
-JET,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=37
-TVNMOVIES,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=41
 NHKworld,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=35
-CNA,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=36
+
 WBFILM,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=43
 ASTRO SUPERSPORT,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=45
-CATCHPLAY,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=40
+
 BT SPORT2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=50
-BT SPORT3,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=51
-三立都会台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=52
-Preal,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
-SKYsports,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=49
-香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=56
-TLC,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=59
-NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
-TVB经典台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=61
-香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=62
-香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=63
-香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=57
-NOW新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
 
 
 
@@ -1404,6 +1407,10 @@ NOW新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
 
 
 
+
+
+=============================================================================================================================================
+=============================================================================================================================================
 
 
 台湾59,#genre#
@@ -1435,7 +1442,8 @@ MoMo综合台,rtmp://59.124.75.157/sat/tv761
 DDDD,rtmp://59.124.75.157/sat/jp011
 GAORA,rtmp://59.124.75.157/sat/jp031
 
-
+=============================================================================================================================================
+=============================================================================================================================================
 4台湾50.7,#genre#
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
@@ -1454,7 +1462,8 @@ JET综合,http://50.7.61.147:30080/Entry/jet
 SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
-
+=============================================================================================================================================
+=============================================================================================================================================
 香港备用,#genre#
 有線新聞,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8  
 翡翠台,http://live96.kglink.xyz:8080/live/tvb_jade/tvb-jade.m3u8
@@ -1466,7 +1475,8 @@ ViuTV,http://live96.kglink.xyz:8080/live/viu_tv/viu-tv.m3u8
 東森新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/dsxw.m3u8
 國家地理,http://live96.kglink.xyz:8080/live/natgeotv/ngc.m3u8
 中天新聞,http://live96.kglink.xyz:8080/live/tw_dsxw/ztxw.m3u8
-
+=============================================================================================================================================
+=============================================================================================================================================
 台湾硬解,#genre#
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
@@ -1537,7 +1547,8 @@ FOX频道,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 博斯运动II,http://211.23.114.106:8565/http/59.120.8.187:8081/hls/61/803/ch04.m3u8 
 ELEVEN SPORTS 1,http://211.23.114.106:8566/http/59.120.8.187:8078/hls/25/80/esport.m3u8 
 ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/esport2.m3u8 
-
+=============================================================================================================================================
+=============================================================================================================================================
 断马来nonton,#genre#
 
 
@@ -1640,7 +1651,8 @@ SUN MUSIC,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37340.m3u8
 45,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37345.m3u8
 COLORS HD,https://nonton.site:8443/live/Athayamanja/SHFTZRKFrF/37346.m3u8
 
-
+=============================================================================================================================================
+=============================================================================================================================================
 
 新加坡频道,#genre#
 Channel 8,http://analoquetv.online/streams/d/Channel8/playlist.m3u8
@@ -1650,7 +1662,8 @@ CNA FHD,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/in
 CNA FHD,http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_5.m3u8
 8新闻台,https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 
-
+=============================================================================================================================================
+=============================================================================================================================================
 台湾126,#genre#
 
 NOW新闻,http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
@@ -1667,7 +1680,8 @@ TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
 中天新闻,http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
 AXN电影,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 
-
+=============================================================================================================================================
+=============================================================================================================================================
 
 5TVB161大陆,#genre#
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
@@ -1679,7 +1693,8 @@ AXN电影,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 星空卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视 576,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-
+=============================================================================================================================================
+=============================================================================================================================================
 ?港liud usa,#genre#
 凤凰卫视,http://lius.usa7.20212021.ga/tbs.php?id=2
 凤凰资讯台,http://lius.usa7.20212021.ga/tbs.php?id=3
@@ -1728,7 +1743,8 @@ TVBS歡樂,http://lius.usa7.20212021.ga/tbs.php?id=97
 民視新聞,http://lius.usa7.20212021.ga/tbs.php?id=59
 民視台灣,http://lius.usa7.20212021.ga/tbs.php?id=99
 民視第一,http://lius.usa7.20212021.ga/tbs.php?id=1008
-
+=============================================================================================================================================
+=============================================================================================================================================
 7香港@Livetv,#genre#
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -1755,7 +1771,8 @@ VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
 UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
-
+=============================================================================================================================================
+=============================================================================================================================================
 
 8v台湾58,#genre#
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
@@ -1773,7 +1790,8 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
-
+=============================================================================================================================================
+=============================================================================================================================================
 
 11台湾@卡125,#genre#
 凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts
@@ -1830,7 +1848,8 @@ TVBS新聞台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 
-
+=============================================================================================================================================
+=============================================================================================================================================
 
 13江苏PLTV移动CDN修改版,#genre#
 4K花园娱乐 24M2160[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
@@ -1962,7 +1981,8 @@ NewTV明星大片 4M1080[1920*1080],http://223.110.243.152/ott.js.chinamobile.co
 江西风尚购物 4M1080[1920*1080],http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
 江苏好享购物 4M1080[1920*1080],http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080[3840*2144],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
-
+=============================================================================================================================================
+=============================================================================================================================================
 14卫视超清PLTV,#genre#
 CCTV1 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV2 8M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
@@ -2042,7 +2062,8 @@ SiTV都市剧场 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
 
-
+=============================================================================================================================================
+=============================================================================================================================================
 15福建PLTV移动CDN修改版,#genre#
 北京影视[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
@@ -2055,7 +2076,8 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 卡酷少儿[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
 卡酷少儿[1047*576],http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 北京通州[1280*720],http://pull.dayuntongzhou.com/live/tztv.m3u8
-
+=============================================================================================================================================
+=============================================================================================================================================
 16晴天TV-台灣,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
 人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
@@ -2654,8 +2676,9 @@ tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
 靖天戲劇台,mitv://ns2.hellotvvod.com:9906/dc313d1f150f4e32a241408a4dddb55a
 靖洋戲劇台,mitv://ns2.hellotvvod.com:9906/453a034ff3884c0f889f89332a61cb3b
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
-
-32p5pfccs,#genre#
+=============================================================================================================================================
+=============================================================================================================================================
+p5pfccs,#genre#
 HBO-HD,p5p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81
 HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
