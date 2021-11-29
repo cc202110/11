@@ -3,16 +3,6 @@ X直播电视台 youtube油管 频道
 
 
 
-
-
-
-
-
-
-
-
-
-
 🎤新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -28,8 +18,9 @@ CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/i
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+foxnews,https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-MovieSphere,https://moviesphere-plex.amagi.tv/playlist.m3u8
+
 
 🇨🇳CCTV央视,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
