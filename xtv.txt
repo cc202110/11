@@ -1,24 +1,7 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-Stingray Classic Rock 音乐,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-Stingray Flashback 70s 音乐,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-娛樂音樂,http://125.210.152.21:9120/live/GQYL.m3u8 
-TB音樂,http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-意大利電臺,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-HD音樂頻道,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-俄音樂CTP,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
-俄羅斯音樂臺,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-MY3美聲音樂,http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-HONOE音樂,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-俄羅斯頂級演出,http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
-MTV音樂頻道,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-美國綜藝電視,https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-烏克蘭M2音樂頻道,http://live.m2.tv/hls3/stream.m3u8
-DEEJAY,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
-ABC Vintera,http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-kroneHit,https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
+
+
 
 
 FTV④,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -935,6 +918,12 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 🎵音乐频道,#genre#
+HD音樂頻道,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+俄音樂CTP,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+HONOE音樂,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+DEEJAY,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
 M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
