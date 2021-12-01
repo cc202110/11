@@ -1,11 +1,11 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-1,http://flv3948069e.live.126.net/live/1733998627d2fb9e07fce539148c0fe4.flv
-2,http://flv3948069e.live.126.net/live/aa1905621006f9f1839886a8bf440448.flv
+now华剧台,http://flv3948069e.live.126.net/live/1733998627d2fb9e07fce539148c0fe4.flv
+now剧集台,http://flv3948069e.live.126.net/live/aa1905621006f9f1839886a8bf440448.flv
 
 
-3,http://flv3948069e.live.126.net/live/b3123acea165b7e2b420a89daddd7bd9.flv
-4,http://flv3948069e.live.126.net/live/cc4a6b3fb62941a9dcf9b59d08a546ad.flv
+爆谷台,http://flv3948069e.live.126.net/live/b3123acea165b7e2b420a89daddd7bd9.flv
+nowsportsPRIME,http://flv3948069e.live.126.net/live/cc4a6b3fb62941a9dcf9b59d08a546ad.flv
 
 
 🎤新闻©频道,#genre#
