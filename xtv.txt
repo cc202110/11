@@ -1,4 +1,23 @@
 X直播电视台 youtube油管 频道
+
+
+测试3,#genre#
+翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
+开电视,http://ai7499003.va1.aihost10.top/live/iptv_7.m3u8
+ViuTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
+无线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
+无线财经·资讯台,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
+J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
+明珠台,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
+NOW新闻台,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
+RTHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
+RTHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
+有线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_23.m3u8
+有线18台,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
+有线高清603台,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
+有线体育台,http://ai7499003.va1.aihost10.top/live/iptv_27.m3u8
+有线财经资讯台,http://ai7499003.va1.aihost10.top/live/iptv_28.m3u8
+
 测试2,#genre#
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
 翡翠台(繁体) ,http://iptv.tvfix.org/hls/jade.m3u8
