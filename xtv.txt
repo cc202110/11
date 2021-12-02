@@ -1,4 +1,21 @@
 X直播电视台 youtube油管 频道
+测试2,#genre#
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+翡翠台(繁体) ,http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(简体),http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台 ,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB为食台(2) ,http://iptv.tvfix.org/hls/tvbws2.m3u8
+美亚港版(粤语) ,http://iptv.tvfix.org/hls/mydy.m3u8
+美亚港版(国语) ,http://iptv.tvfix.org/hls/mydy2.m3u8
+TVB功夫(粤语),http://iptv.tvfix.org//hls/tvbkf.m3u8
+TVB功夫(国语),http://iptv.tvfix.org//hls/tvbkf2.m3u8
+TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河(国语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
+J2台,http://iptv.tvfix.org/hls/j2.m3u8
+
 测试1,#genre#
 影迷數位紀實台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv105
 民视台湾,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
