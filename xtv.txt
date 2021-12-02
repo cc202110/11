@@ -1,11 +1,15 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-now华剧台,http://flv3948069e.live.126.net/live/1733998627d2fb9e07fce539148c0fe4.flv
-now剧集台,http://flv3948069e.live.126.net/live/aa1905621006f9f1839886a8bf440448.flv
+HBO,http://183.178.58.115:8032/0.ts
+HBO HITS,http://183.178.58.115:8028/0.ts
+CINEMAX,http://183.178.58.115:8029/0.ts
 
+北京IPTV4K超[0*0],http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND 
+北京IPTV淘剧场[1920*1080],http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2%2C%2CEND 
+北京IPTV淘娱乐[1920*1080],http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND 
+橙子1台[1920*1080],http://103.140.229.13/BOBO/bibi.php?id=23318788 
+橙子1台[1920*1080],http://106.53.212.251/daili/bili.php?id=23318788 
 
-爆谷台,http://flv3948069e.live.126.net/live/b3123acea165b7e2b420a89daddd7bd9.flv
-nowsportsPRIME,http://flv3948069e.live.126.net/live/cc4a6b3fb62941a9dcf9b59d08a546ad.flv
 
 
 🎤新闻©频道,#genre#
