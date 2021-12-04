@@ -314,8 +314,7 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqgZw.png",淘萌宠
 
-#EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
-http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
@@ -437,13 +436,11 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://s3.jpg.cm/2021/09/15/IslAkE.png",Astro AEC
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6701
 
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 352
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6706
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 353
-http://iptv.tvmalaysia.cc:80/kl570/kl570/6704
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Prima HD
@@ -1071,7 +1068,11 @@ http://iptv.tvmalaysia.cc:80/kl570/kl570/8851
 
 
 
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 352
 
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 353
+
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://s3.jpg.cm/2021/09/15/IslAkE.png",Astro AEC
 
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://d3avoj45mekucs.cloudfront.net/xuan/files/38/38409a6a-44f0-437c-8f20-84ae8367bd65.jpg",Astro 爱奇艺
 
