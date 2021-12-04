@@ -151,181 +151,8 @@ MoMo综合台,rtmp://59.124.75.157/sat/tv761
 爱尔达体育3,rtmp://59.124.75.157/sat/md041
 DDDD,rtmp://59.124.75.157/sat/jp011
 GAORA,rtmp://59.124.75.157/sat/jp031
-星卫娱乐台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
-靖天电影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58
-靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54
-靖天综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50
-靖天映画,rtmp://45.92.126.226/channel/60c34395961593122ebaf994
-靖天映画,rtmp://45.92.126.226/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdbZnOLUpq%2FTXdZnOLUpYq2
-靖天欢乐台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
-靖洋卡通台,rtmp://45.88.148.178/channel/60c344bf961593122ebaf9a0
-靖天综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdbrZnOLDOG%
-靖天日本台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXDbrZnOLDOG%
-靖天电影台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d58?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdbrZnOLDOG%
 
-私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
-thrill,rtmp://45.92.126.226/channel/60c30d59961593122ebaf8e6
-HBO原创,rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc
-HBO强档,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce
-FOX MOVIES,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8
-天映经典频道,rtmp://45.88.148.178/channel/61002e1ff0618408855f3711
-CATCHPLAY电影台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2
-东森戏剧,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88
-东森戏剧,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d88?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXDbrZnOLUpog%2FTXBYZnOLUpog%
-光影欧洲,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
-TVB星河(粤语),rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d7a
 
-动物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdZnBOLUPOG2
-动物星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c
-国家地理,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6
-探索频道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e
-探索频道,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAncOLDqY
-探索科学,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72
-探索动力,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74
-
-爱尔达体育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
-ELEVEN2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d62
-纬来育乐,rtmp://45.92.126.226/channel/60c31357961593122ebaf8f8
-博斯高球2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cd0
-KIX,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
-
-凤凰中文,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
-凤凰资讯,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
-凤凰香港,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
-CNBC亚洲财经,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d44
-BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
-NHK,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
-CNA,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
-NHK WORLD JAPAN,rtmp://45.88.148.178/channel/60c2f52d961593122ebaf8d2
-euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
-TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
-好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
-好消息2,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82
-
-中视新闻,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900
-中视新闻,rtmp://45.92.126.226/channel/60c316c5961593122ebaf900?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdZnOLDqY
-中视经典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
-民视,rtmp://45.92.126.226/channel/60c317bd961593122ebaf90a
-公视2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdbZnOLDBog%2FTXdZnOLDq3
-公视3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
-台视新闻,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
-台视新闻,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdZnBOLDPog%2FTXdZnOLUpmg2F
-台视新闻,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
-台视财经,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910c48
-寰宇财经台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
-
-JET综合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
-美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
-TVBS精采台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
-Z频道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
-华视教育体育文化,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c4e
-ETtoday 综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXYdBAgnc
-客家频道,rtmp://45.92.126.226/channel/61003b23f0618408855f3748
-台视台语台,rtmp://45.92.126.226/channel/60c31796961593122ebaf908
-冠军电视台,rtmp://45.92.126.226/channel/611a83133e4da143c015987c
-MOD桌面,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
-海豚综合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d76
-
-民視,p2p://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
-人間衛視,p2p://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
-台視,p2p://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
-大愛,p5p://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
-中視,p5p://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
-霹靂台灣台,p5p://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
-華視,p5p://ns2.hellotvvod.com:9906/fd73b217be314cf198807cc5d1d911b6
-公視,p5p://ns2.hellotvvod.com:9906/a1c2ecbcd3b64f3eb72ac9191b337cda
-公視台語台,p5p://ns2.hellotvvod.com:9906/cc76c2a0dc1f4fe0b4ca8f0c0f6e31d9
-好消息,p5p://ns2.hellotvvod.com:9906/7df332eeb26546bf94a972d4c2d1ad4e
-原住民電視台,p5p://ns2.hellotvvod.com:9906/aa08defb0c824c2286623855624a0e07
-客家電視台,p5p://ns2.hellotvvod.com:9906/bcf16a66476d4c88a5ea6b7d40a56e7c
-國家地理頻道,p5p://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
-探索頻道,p5p://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
-TLC旅遊生活,p5p://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
-動物星球,p5p://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
-CN卡通頻道,p5p://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
-迪士尼頻道,p5p://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
-MOMO親子台,p5p://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
-東森幼幼台,p5p://ns2.hellotvvod.com:9906/a5729018eb3d44c4b4033e72ea4af060
-緯來綜合台,p5p://ns2.hellotvvod.com:9906/30dab7cccf3842838ef7edfdabcf57c2
-八大第一台,p5p://ns2.hellotvvod.com:9906/7826fa652c474b55888ef85c30901584
-八大綜合台,p5p://ns2.hellotvvod.com:9906/578cc70bac494161901e5c735312762c
-三立台灣台,p5p://ns2.hellotvvod.com:9906/ba70eb94fd0e4b2aae6fb9ece2203391
-三立都會台,p5p://ns2.hellotvvod.com:9906/24f879b52a0d45d886005e8acdd9a8ab
-東森綜合台,p5p://ns2.hellotvvod.com:9906/8c962bcce29840f4a4f0109bfd7fe5c0
-超視,p5p://ns2.hellotvvod.com:9906/941259e9297d4a229c678f08b19f60f1
-中天綜合台,p5p://ns2.hellotvvod.com:9906/a23f89fde21341f3b172046c02ad688c
-中天娛樂台,p5p://ns2.hellotvvod.com:9906/c23914b1e52c44a9b665e51f535d5b37
-東森戲劇台,p5p://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
-八大戲劇台,p5p://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
-TVBS歡樂台,p5p://ns2.hellotvvod.com:9906/b4b85eca20d7462fae595d8033c6a9ce
-緯來戲劇台,p5p://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
-高點綜合台,p5p://ns2.hellotvvod.com:9906/ab09bd3fc7f3412ea9d38b3cf68302b0
-壹電視新聞台,p5p://ns2.hellotvvod.com:9906/c111818e11e8420aaad164543387473c
-年代新聞,p5p://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
-東森新聞台,p5p://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
-中天新聞台,p5p://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
-民視新聞台,p5p://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
-三立新聞台,p5p://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
-TVBS新聞台,p5p://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
-TVBS,p5p://ns2.hellotvvod.com:9906/95ef54ef56944f0a947ea0e87f6f15bc
-東森財經新聞台,p5p://ns2.hellotvvod.com:9906/e992de48ddda440ebc55984766d0ab8f
-非凡新聞台,p5p://ns2.hellotvvod.com:9906/3801d29839174353a940a8c0cfae6e47
-衛視電影台,p5p://ns2.hellotvvod.com:9906/e7682ac33dfd41fc8f028f1652b6117f
-東森電影台,p5p://ns2.hellotvvod.com:9906/e40a4dbcfc66445a83f8c06d53ac3b53
-緯來電影台,p5p://ns2.hellotvvod.com:9906/67d49ff2fc594674a3969022f0c55ded
-龍祥電影,p5p://ns2.hellotvvod.com:9906/2c5a71766368419ca7a962ce66cf5da3
-HBO,p5p://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
-東森洋片台,p5p://ns2.hellotvvod.com:9906/ab1aa48cd1a34f488845642592c39418
-AXN,p5p://ns2.hellotvvod.com:9906/5c910d743fe847e8b406bf7d180130a0
-好萊塢電影台,p5p://ns2.hellotvvod.com:9906/fb9f46f4cb454b13a15aac8e025f8477
-CINEMAX,p5p://ns2.hellotvvod.com:9906/3d4d75d8f386474d8dbb84c7a3704a7f
-緯來育樂台,p5p://ns2.hellotvvod.com:9906/ed2847f9731a48e19afc2ba479a73939
-緯來體育台,p5p://ns2.hellotvvod.com:9906/cd64bcebb70d4b489bf734c5b3369002
-ELEVEN體育1台,p5p://ns2.hellotvvod.com:9906/0c9c4a9fc07c41bb8537828dd9162e81
-ELEVEN體育2台,p5p://ns2.hellotvvod.com:9906/a610acb66f3749bb953d78899b7205d2
-緯來日本,p5p://ns2.hellotvvod.com:9906/f89c51e091594bb1bcce0ba7b3e17973
-國興衛視,p5p://ns2.hellotvvod.com:9906/7ed90f5183e64e4f8b422c951ff275b0
-FOX,p5p://ns2.hellotvvod.com:9906/f769b6fdc80742349bd8214c8839d9d3
-Z頻道,p5p://ns2.hellotvvod.com:9906/653db001ea4a4599ad4be5a98f9adf8c
-Animax,p5p://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
-MTV,p5p://ns2.hellotvvod.com:9906/aad098bade95418a8046acceb0558aa3
-八大娛樂台,p5p://ns2.hellotvvod.com:9906/cdb80c12a4854752b4cfb570d448ac05
-三立iNEWS,p5p://ns2.hellotvvod.com:9906/49035f1ad8b84fa7822c0ff660d89f09
-非凡商業台,p5p://ns2.hellotvvod.com:9906/ab4d36f3d889496a92747157c7e4c732
-公視3台,p5p://ns2.hellotvvod.com:9906/6ba6fe3a051e4113b82eb6d32fbb7114
-大愛2台,p5p://ns2.hellotvvod.com:9906/4523b0956bb34141bfb61460ea9494ed
-ELTV生活英語台,p5p://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
-靖洋卡通Nice Bingo,p5p://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
-靖天卡通台,p5p://ns2.hellotvvod.com:9906/bb214f3596dd4b1c8bae816edff835be
-Cbeebies,p5p://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
-達文西頻道,p5p://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
-Nick Jr.,p5p://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
-國會頻道1,p5p://ns2.hellotvvod.com:9906/3b86853022324c3da4928922ba545877
-國會頻道2,p5p://ns2.hellotvvod.com:9906/7350ee5ff93341a08945bc1c8d95cd1c
-MTV Live,p5p://ns2.hellotvvod.com:9906/5b5d21a03d37495aac99f37ee515efab
-Mezzo Live,p5p://ns2.hellotvvod.com:9906/5a39267c43dd41b1821aef0622730115
-CLASSICA 古典樂,p5p://ns2.hellotvvod.com:9906/391c8cb09e224e84ab588144e0632a30
-CMusic,p5p://ns2.hellotvvod.com:9906/0914d00bdeb748778ea50ce5c008a18b
-愛爾達體育1台,p5p://ns2.hellotvvod.com:9906/db6bd5a732984d83a8fdb9d0536886c8
-愛爾達體育2台,p5p://ns2.hellotvvod.com:9906/bc49344900a546d39b5083025db6243f
-愛爾達體育3台,p5p://ns2.hellotvvod.com:9906/4f3f4387a8174b8f8aaed89e2901442c
-TRACE Sport Stars,p5p://ns2.hellotvvod.com:9906/57536d1b23f34f28bb4d8c065d2e67e5
-博斯高球,p5p://ns2.hellotvvod.com:9906/9eb73e0317034672b4e2bdb0d695387f
-博斯高球二台,p5p://ns2.hellotvvod.com:9906/c612218b5c0d4349a1b4049e89913c75
-博斯網球台,p5p://ns2.hellotvvod.com:9906/47176ac49fed4e74a62d30b037ce81d3
-博斯魅力網,p5p://ns2.hellotvvod.com:9906/8f1d2f23e9964ef6b99f7b7228c199dc
-博斯無限台,p5p://ns2.hellotvvod.com:9906/91e038793b5f45f194ab304ab843b741
-博斯無限二台,p5p://ns2.hellotvvod.com:9906/3367cde8bd924944b2b7bbbaef5be87e
-博斯運動,p5p://ns2.hellotvvod.com:9906/b57a5306d5da4dcea75af2d436968097
-智林體育台,p5p://ns2.hellotvvod.com:9906/8b30925a0d704bcd8286add181bafdb9
-博斯運動二台,p5p://ns2.hellotvvod.com:9906/d4f401d6d6e144dfbb8c944a41b15772
-OUTDOOR,p5p://ns2.hellotvvod.com:9906/ed9355bc07124e1e8a1c5dae6d87c300
-HBO Family,p5p://ns2.hellotvvod.com:9906/2230c4128071467e8e995408f20c1c3c
-HBO強檔鉅獻,p5p://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
-HBO原創鉅獻,p5p://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314
-國家地理高畫質野生頻道,p5p://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
-BBC Earth,p5p://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
-Discovery Asia,p5p://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
 ⚪香港频道,#genre#
 凤凰中文蓝光,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯蓝光,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -354,25 +181,6 @@ TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-
-⚪原生解码外网,#genre#
-设置原生解码，
-翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
-翡翠台E,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
-J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-明珠台,https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台Y,https://cdn-cn.hkdtmb.com/hls/84b/index.m3u8
-无线新闻,https://cdn-cn.hkdtmb.com/hls/83/index.m3u8
-无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
-无线财经,https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
-无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn-cn.hkdtmb.com/hls/99/index.m3u8
-ViuTV6,https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
-RHK31,https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
-RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
-香港开电视,https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
 
 ⚪港台外网,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
@@ -807,56 +615,12 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 선거방송[1280*720][1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
 ⚪海外頻道,#genre#
-CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
-BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-Astro Prima, http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Naura HD,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-TV1,http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Oh!K hd,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-KBS WORLD,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-HBO Malaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-Celestial天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-Celestial天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
-
-
-WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-
-
+BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
+FTV④,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FTV④,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 
 ⚪体育频道,#genre#
@@ -890,69 +654,6 @@ TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
 
-⚪埋堆堆台,#genre#
-埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
-埋堆堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8 
-埋堆堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8 
-埋堆堆04,http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8 
-埋堆堆05,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8 
-埋堆堆06,http://121.12.115.162/txdirect.hls.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8 
-埋堆堆07,http://121.12.115.162/txdirect.hls.huya.com/src/1199564000752-1199564000752-5446556123794505728-2399128124960-10057-A-0-1.m3u8 
-埋堆堆08,http://121.12.115.162/txdirect.hls.huya.com/src/1199563995848-1199563995848-5446535061274886144-2399128115152-10057-A-0-1.m3u8 
-埋堆堆09,http://121.12.115.162/txdirect.hls.huya.com/src/1199563493628-1199563493628-5444378042799489024-2399127110712-10057-A-0-1.m3u8 
-埋堆堆10,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478721-1199563478721-5444314017722007552-2399127080898-10057-A-0-1.m3u8 
-埋堆堆11,http://121.12.115.162/txdirect.hls.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.m3u8 
-埋堆堆12,http://121.12.115.162/txdirect.hls.huya.com/src/1199561245453-1199561245453-5434722204698804224-2399122614362-10057-A-0-1.m3u8 
-埋堆堆13,http://121.12.115.162/txdirect.hls.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.m3u8 
-埋堆堆14,http://121.12.115.162/txdirect.hls.huya.com/src/1199561153241-1199561153241-5434326157174505472-2399122429938-10057-A-0-1.m3u8 
-埋堆堆17,http://121.12.115.162/txdirect.hls.huya.com/src/1199561179116-1199561179116-5434437289453289472-2399122481688-10057-A-0-1.m3u8 
-埋堆堆18,http://121.12.115.162/txdirect.hls.huya.com/src/1199561185543-1199561185543-5434464893208100864-2399122494542-10057-A-0-1.m3u8 
-埋堆堆19,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8 
-埋堆堆20,http://121.12.115.162/txdirect.hls.huya.com/src/1199564060588-1199564060588-5446813117457629184-2399128244632-10057-A-0-1.m3u8 
-埋堆堆21,http://121.12.115.162/txdirect.hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8 
-埋堆堆22,http://121.12.115.162/txdirect.hls.huya.com/src/1199561185548-1199561185548-5434464914682937344-2399122494552-10057-A-0-1.m3u8 
-埋堆堆23,http://121.12.115.162/txdirect.hls.huya.com/src/1199563492830-1199563492830-5444374615415586816-2399127109116-10057-A-0-1.m3u8 
-埋堆堆24,http://121.12.115.162/txdirect.hls.huya.com/src/1199563484986-1199563484986-5444340925692116992-2399127093428-10057-A-0-1.m3u8 
-埋堆堆25,http://121.12.115.162/txdirect.hls.huya.com/src/1199561217760-1199561217760-5434603264169476096-2399122558976-10057-A-0-1.m3u8 
-埋堆堆26,http://121.12.115.162/txdirect.hls.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.m3u8 
-埋堆堆27,http://121.12.115.162/txdirect.hls.huya.com/src/1199563491091-1199563491091-5444367146467459072-2399127105638-10057-A-0-1.m3u8 
-埋堆堆28,http://121.12.115.162/txdirect.hls.huya.com/src/1199563478540-1199563478540-5444313240332926976-2399127080536-10057-A-0-1.m3u8 
-埋堆堆29,http://121.12.115.162/txdirect.hls.huya.com/src/1199561235975-1199561235975-5434681496998772736-2399122595406-10057-A-0-1.m3u8 
-埋堆堆30,http://121.12.115.162/txdirect.hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8 
-埋堆堆31,http://121.12.115.162/txdirect.hls.huya.com/src/1199563461114-1199563461114-5444238396232826880-2399127045684-10057-A-0-1.m3u8 
-埋堆堆32,http://121.12.115.162/txdirect.hls.huya.com/src/1199563489752-1199563489752-5444361395506249728-2399127102960-10057-A-0-1.m3u8 
-埋堆堆33,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.m3u8 
-埋堆堆34,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.m3u8 
-埋堆堆35,http://121.12.115.162/txdirect.hls.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.m3u8 
-埋堆堆37,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277694-1199561277694-5434860678739394560-2399122678844-10057-A-0-1.m3u8 
-埋堆堆38,http://121.12.115.162/txdirect.hls.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.m3u8 
-埋堆堆39,http://121.12.115.162/txdirect.hls.huya.com/src/1199563483195-1199563483195-5444333233405689856-2399127089846-10057-A-0-1.m3u8 
-埋堆堆40,http://121.12.115.162/txdirect.hls.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.m3u8 
-埋堆堆41,http://121.12.115.162/txdirect.hls.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.m3u8 
-埋堆堆42,http://121.12.115.162/txdirect.hls.huya.com/src/1199561278783-1199561278783-5434865355958779904-2399122681022-10057-A-0-1.m3u8 
-埋堆堆43,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8 
-埋堆堆44,http://121.12.115.162/txdirect.hls.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.m3u8 
-埋堆堆45,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8 
-埋堆堆46,http://121.12.115.162/txdirect.hls.huya.com/src/1199561223732-1199561223732-5434628913714167808-2399122570920-10057-A-0-1.m3u8 
-埋堆堆47,http://121.12.115.162/txdirect.hls.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.m3u8 
-埋堆堆48,http://121.12.115.162/txdirect.hls.huya.com/src/1199563489431-1199563489431-5444360016821747712-2399127102318-10057-A-0-1.m3u8 
-埋堆堆49,http://121.12.115.162/txdirect.hls.huya.com/src/1199561277677-1199561277677-5434860605724950528-2399122678810-10057-A-0-1.m3u8 
-埋堆堆50,http://121.12.115.162/txdirect.hls.huya.com/src/1199561240090-1199561240090-5434699170789195776-2399122603636-10057-A-0-1.m3u8 
-埋堆堆51,http://121.12.115.162/txdirect.hls.huya.com/src/1199561178473-1199561178473-5434434527789318144-2399122480402-10057-A-0-1.m3u8 
-埋堆堆53,http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8 
-埋堆堆54,http://121.12.115.162/txdirect.hls.huya.com/src/1199563551865-1199563551865-5444628168809906176-2399127227186-10057-A-0-1.m3u8 
-埋堆堆56,http://121.12.115.162/txdirect.hls.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.m3u8 
-埋堆堆57,http://121.12.115.162/txdirect.hls.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.m3u8 
-埋堆堆58,http://121.12.115.162/txdirect.hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8 
-埋堆堆59,http://121.12.115.162/txdirect.hls.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8 
-埋堆堆60,http://121.12.115.162/txdirect.hls.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8 
-埋堆堆61,http://121.12.115.162/txdirect.hls.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.m3u8 
-埋堆堆63,http://121.12.115.162/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8 
-埋堆堆64,http://121.12.115.162/txdirect.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8 
-埋堆堆65,http://121.12.115.162/txdirect.hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8 
-埋堆堆66,http://121.12.115.162/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8 
-埋堆堆67,http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8 
-埋堆堆68,http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 
 ⚪影视轮播,#genre#
 斗鱼5,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
