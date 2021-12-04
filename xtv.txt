@@ -1,6 +1,7 @@
 X直播电视台 youtube油管 频道
 
 测试,#genre#
+sports,http://shorturl.at/nzKO0
 BBCearth,http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 
 
