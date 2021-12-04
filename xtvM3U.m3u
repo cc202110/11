@@ -25,6 +25,12 @@ rtmp://59.124.75.157/sat/hk011
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线18
 18台,rtmp://59.124.75.157/sat/hk041
 
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线603hd
+有线高清603台,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
+
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png"",Now Sports Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+
 #EXTINF:-1 group-title="香港" tvg-logo="https://news.now.com/revamp2014/images/logo.png",Now新闻332台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png",Now直播331台
@@ -59,8 +65,7 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 
 
-#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png"",Now Sports Prime
-http://livetv.dnsfor.me/channel.12.m3u8
+
 
 #EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQimw.png",经典功夫台
 http://103.140.229.13/BOBO/bibi.php?id=21715386
