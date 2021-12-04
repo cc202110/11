@@ -438,71 +438,656 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 
 
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://s3.jpg.cm/2021/09/15/IslAkE.png",Astro AEC
-http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://d3avoj45mekucs.cloudfront.net/xuan/files/38/38409a6a-44f0-437c-8f20-84ae8367bd65.jpg",Astro 爱奇艺
-http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://s3.jpg.cm/2021/09/15/IslX9Q.png",Astro 双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6701
+
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 352
-http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6706
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 353
-http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6704
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Astro Boo
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8872
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6724
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Awesome TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6713
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6729
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6714
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6715
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="马来西亚",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6693
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6694
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="马来西亚",Animax
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6696
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6716
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6742
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6738
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Makkal TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6732
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Jaya Max
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Chutti TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Bernama News
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6750
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="马来西亚",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6751
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",BollyOne HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6754
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6757
+#EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="马来西亚",DMAX HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Colors HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6769
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="马来西亚",tvN Movies
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6845
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="马来西亚",tvN HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6844
+#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="马来西亚",TVB Classic
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6839
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Sun Music
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6831
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="马来西亚",Sky News HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",One HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6817
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="马来西亚",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6814
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="马来西亚",Nick Jr
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",KBS World HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6803
+#EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="马来西亚",Hits HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6800
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="马来西亚",HGTV HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TV 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TV 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TV 3
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7266
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TV 3 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TV 9
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7185
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",BERNAMA
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ShowCase Movies
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Galaxy Premium
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8838
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cinemax FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7062
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",HBO FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7067
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="马来西亚",HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7068
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="马来西亚",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7069
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="马来西亚",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7070
+#EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="马来西亚",Hits Movies
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7066
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="马来西亚",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7071
+#EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="马来西亚",Warner TV HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7072
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="马来西亚",tVN movies HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",National Geographic HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7075
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="马来西亚",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7080
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="马来西亚",History FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7079
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7078
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="马来西亚",Animal Planet
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7077
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="马来西亚",HGTV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Era FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Hot FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Hitz FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Sinar FM
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",THR GEGAR
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7174
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="马来西亚",Cinema World
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7219
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Thrill
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7220
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="马来西亚",AXN
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Fox Crime
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7225
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="马来西亚",FOX
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",KiX
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Celestial Movies
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
+#EXTINF:-1 tvg-id="6156" tvg-name="BlueAntEntertainment" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BlueAntEntertainment.png" group-title="马来西亚",Blue Ant Entertainment
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8860
+#EXTINF:-1 tvg-id="6182" tvg-name="BlueAntExtreme" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png" group-title="马来西亚",Blue Ant Extreme
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Sony One
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8863
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="马来西亚",TvN
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8865
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="马来西亚",Didik TV (NTV 7)
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8922
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Tom & Jerry HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8986
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",STARZ KIDS&FAMILY
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",மக்கள் தொலைக்காட்சி
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8995
+#EXTINF:-1 tvg-id="7226" tvg-name="StarMoviesHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="马来西亚",Star Movies HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8997
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="马来西亚",foxmoviebeta
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9007
+#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="马来西亚",Crime & Investigation.
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Fox Family Movie
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Arena HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Arena 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",EPL LIVE 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",EPL LIVE 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6708
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASSP 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO SUPERSPORT 2 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASSP 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASSP 3 (LIVE EPL ONLY)
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6712
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASSP 4
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Astro Supersport 5
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9029
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="马来西亚",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6717
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",beIN MAX
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",WWE Network
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6821
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TSN 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8923
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TSN 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8924
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TSN 3
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8925
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Grandsta
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6572
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Premier 
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6574
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Variety 
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Variety 
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Variety 
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6581
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",DSTV: SuperSport Motorspo
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",BT Sport 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6610
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",BT Sport 2
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6611
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",BT Sport 3
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6612
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6614
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6617
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6618
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/kl570/kl570/6619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",MUTV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",LFC TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",FS 1
+http://iptv.tvmalaysia.cc:80/kl570/kl570/9003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Disney XD FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7198
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="马来西亚",Boomerang
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7199
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="马来西亚",Nickelodeon
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Universal Kids FHD
+http://iptv.tvmalaysia.cc:80/kl570/kl570/7205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Thousand Faces of Dun
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Project Power (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The New Mutants (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Chalte Chalte (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Neighbors 2: Sorority Ris
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Manap Karaoke (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Man santan ( 2020 )
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",-Malay Audio- The SpongeB
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Bigfoot Family (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Death of Me (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Drag Me to Hell (2009)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Flypaper (2011)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Meet Joe Black (1998)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Pet (2016)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Seized (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Unhinged (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Aku Kaya The Movie (2003)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Code of Thieves (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cun! (2011)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Raatchasi (2019)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Bhoothnath (2008)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Bhoothnath Returns (2014)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Triggered (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Antidote (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Clouds (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cuties (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Holidate (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Phineas and Ferb The Movi
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Possessor Uncut (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Ravers (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Rebecca (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Relic (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Rogue City (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Sputnik (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Call (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Words on Bathroom Walls (
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",A Babysitter\\\'s Guide t
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",A Night of Horror: Nightm
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Ben 10 Versus the Univers
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",BLACKPINK: Light Up the S
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Broil (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Clownery (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Come Away (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cut Throat City (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Fishbowl (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Ginny Weds Sunny (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Kick (2014)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Love and Monsters (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Nobody Sleeps in the Wood
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Nocturne (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Over the Moon (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Pasal Kau!
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Psy 3: W imię zasad (2020
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Robert the Bruce (2019)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Save Yourselves! (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Mortuary Collection (
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Other Side of Hope (2
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Secrets We Keep (2020
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Trial of the Chicago 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Wolf of Snow Hollow (
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Villain (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Gemerlapan (1997)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Hilang Akal (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Hingga Hujung Nyawa (2004
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Mon dan Jin Pakai Toncit 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Isteriku CEO ( 2018 )
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Jebat (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Jejaka Terhangat (2015)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Kalut Nak Raya (2017)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",7 Perhentian (2004)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",15 Puasa (2004)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",16 Puasa (2017)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",17 Puasa (2019)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Anak Perjanjian Syaitan (
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Baik Punya Cilok (2005)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Banglasia 2.0 (2019)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Biar Betul (2004)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Budok Kuba (2019)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cinta Paling Agung (2015)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cuci (2009)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Gadoh (2009)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Kimchi Untuk Awak (2017)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Magika (2010)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Paku Pontianak (2013)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Pisau Cukur (2009)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Putera (1994)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Saka Zain Jusoh (2019)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Sayang Suria (2015)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Sekali Lagi (2011)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Simfoni Duniaku (1994)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Sinaran (2015)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Surga Yang Tak Dirindukan
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Tempatkan Dia Di Syurga (
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",V3: Samseng Jalanan (2010
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Fatman (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Kelaster (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Run (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Last Warrior (2017)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon: Nobita and the 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon The Movie - Nobi
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon: Nobita and the 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon: Nobita in the W
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon: Nobita\\\'s Din
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon: Nobita The Grea
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon: Nobita and the 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Doraemon: Nobita and the 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Mama Tak Akan Sama
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Bini Aku Dari Neraka Raya
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Bukan Cerita Cinta Kita (
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cinta Sticky Note (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cruise Cinta (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Hantu Rumah Sakit Jiwa (2
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Iman Ke Syurga (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Istanbul Aku Datang! (201
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Kerantung (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Khalifahkan Aku
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",KL Special Force (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Lamaran Perfect (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",PONTIANAK DAN DOT DOT (20
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Alien Invasion (2018)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Cagefighter: Worlds Colli
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Don\\\'t Listen (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Freaky (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Hachi: A Dog\\\'s Tale (2
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Jingle Jangle: A Christma
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Inc. (2001)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Munich (2005)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Upin & Ipin: Keris Siaman
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Active Shooter (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Black Beauty (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Chick Fight (2021)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Come Play (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",It Cuts Deep (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",A Deadly Place (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Echo Boomers (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Jiu Jitsu (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Last Three Days (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Loco (2020)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Pahuna: The Little Visito
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Playhouse (2021)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Box (2009)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Boy in the Striped Py
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Transcendence (2014)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Turbo (2013)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",What Happened to Mr Cha? 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Dalil Cinta ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Laskar Pelangi 2: Edensor
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",10 Tips Tipu Bini (2021)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Zack Snyder\\\'s Justice 
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",PK (2014)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The BFG (2016)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",The Ten Commandments (200
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Veer-Zaara (2004)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Weathering with You (2019
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Wreck-It Ralph (2012)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Godzilla vs. Kong (2021)
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",18 Puasa Di Kampung Pisan
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Kampong Pisang Musikal Ra
+http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/8976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",RRI NET
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",SCTV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",TransTV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Trans 7
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Indosiar
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8845
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",ANTV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Metro TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8848
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="马来西亚",CNBC Indonesia
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",Kompas TV
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="马来西亚",CNN Indonesia
+http://iptv.tvmalaysia.cc:80/kl570/kl570/8851
+
+
+
+
+
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://d3avoj45mekucs.cloudfront.net/xuan/files/38/38409a6a-44f0-437c-8f20-84ae8367bd65.jpg",Astro 爱奇艺
+
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://s3.jpg.cm/2021/09/15/IslX9Q.png",Astro 双星
+
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",Astro 欢喜
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro 全佳
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",Astro 小太阳
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Drama-Sangat-2020.png",Drama Sangat
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",Astro Ria
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://en.wikipedia.org/wiki/Astro_Prima#/media/File:Astro_Prima_HD.png",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://en.wikipedia.org/wiki/Astro_Oasis#/media/File:Astro_Oasis_HD.png",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://en.wikipedia.org/wiki/Astro_Citra#/media/File:Astro_Citra_HD.png",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",Naura HD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",Bernama TV
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",BOO
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",NTV 7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png",Oh!K hd
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png",Sony One50
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png",HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png",KBS WORLD
-http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png",TVN HD
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png",ANIMAL PLANET
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png",NAT GEO wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚",Sukan
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="日本" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png",NHK WORLD TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="日本",NHK Chinese Vision[1280*7
