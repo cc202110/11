@@ -1,5 +1,27 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
+1,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
+12,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
+9,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
+13,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
+10,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
+16,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
+20,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
+21,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
+25,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
+26,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
+28,http://ai7499003.va1.aihost10.top/live/iptv_28.m3u8
+49,http://ai7499003.va1.aihost10.top/live/iptv_49.m3u8
+57,http://ai7499003.va1.aihost10.top/live/iptv_57.m3u8
+54,http://ai7499003.va1.aihost10.top/live/iptv_54.m3u8
+59,http://ai7499003.va1.aihost10.top/live/iptv_59.m3u8
+60,http://ai7499003.va1.aihost10.top/live/iptv_60.m3u8
+63,http://ai7499003.va1.aihost10.top/live/iptv_63.m3u8
+97,http://ai7499003.va1.aihost10.top/live/iptv_97.m3u8
+95,http://ai7499003.va1.aihost10.top/live/iptv_95.m3u8
+99,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
+
+sport,http://45.232.196.7:5000/live/PremiereFCHD1/1080p.m3u8
 双星,http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
 
 
@@ -127,6 +149,7 @@ TVB为食台(2) ,http://iptv.tvfix.org/hls/tvbws2.m3u8
 美亚港版(国语) ,http://iptv.tvfix.org/hls/mydy2.m3u8
 TVB功夫(粤语),http://iptv.tvfix.org//hls/tvbkf.m3u8
 TVB功夫(国语),http://iptv.tvfix.org//hls/tvbkf2.m3u8
+
 TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
 TVB星河(国语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
 J2台,http://iptv.tvfix.org/hls/j2.m3u8
