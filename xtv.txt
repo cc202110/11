@@ -1,6 +1,6 @@
 X直播电视台 youtube油管 频道
 
-测试,#genre#
+印度183,#genre#
 12,http://183.178.58.115:8012/0.ts
 11,http://183.178.58.115:8011/0.ts
 10,http://183.178.58.115:8010/0.ts
@@ -26,7 +26,7 @@ X直播电视台 youtube油管 频道
 32,http://183.178.58.115:8032/0.ts
 33,http://183.178.58.115:8033/0.ts
 34,http://183.178.58.115:8034/0.ts
-50号[1920*1080],http://183.178.58.115:8050/0.ts
+50,http://183.178.58.115:8050/0.ts
 sports,http://shorturl.at/nzKO0
 BBCearth,http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/index.m3u8
 
