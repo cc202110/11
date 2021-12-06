@@ -1268,7 +1268,7 @@ K K_开心影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 杰森·斯坦森,http://121.51.249.99/txdirect.hls.huya.com/src/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.m3u8
 卧底,http://121.51.249.99/txdirect.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.m3u8
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 🐮NEWTV,#genre#
 NewTV潮妈辣婆,http://117.148.179.43/PLTV/88888888/224/3221229725/index.m3u8
 NewTV潮妈辣婆,http://117.148.179.16/PLTV/88888888/224/3221229031/index.m3u8
@@ -1334,18 +1334,18 @@ CIBN微电影,http://117.148.179.157/PLTV/88888888/224/3221231586/index.m3u8
 =============================================================================================================================================
 =============================================================================================================================================
 2IPTV2,#genre#
-TLC,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=59
-VIUtv,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=6
-翡翠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
-J2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
-无线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
-无线财经,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=5
+TLC,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=59
+VIUtv,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=6
+翡翠台,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=1
+J2,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=2
+无线新闻台,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=4
+无线财经,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=5
 
-明珠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
-SKYsports,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=49
-香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=56
+明珠台,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=54
+SKYsports,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=49
+香港开电视,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=56
 
-NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
+NOW sports prime,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=60
 TVB经典台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=61
 TVB星河,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=3
 香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=62
