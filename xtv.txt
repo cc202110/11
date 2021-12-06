@@ -1334,7 +1334,9 @@ CIBN微电影,http://117.148.179.157/PLTV/88888888/224/3221231586/index.m3u8
 =============================================================================================================================================
 =============================================================================================================================================
 2IPTV2,#genre#
+美亚电影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 TLC,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=59
+
 VIUtv,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=6
 翡翠台,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=1
 J2,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=2
