@@ -13,7 +13,7 @@ NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
 VIUTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
 
 
-港台外ai7,#genre#
+原生港台外ai7,#genre#
 翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
 J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 无线新闻,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
