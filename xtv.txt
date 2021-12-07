@@ -44,13 +44,13 @@ SKYnews,http://66.90.88.132:8080/hls/ph00212/index.m3u8
 KIX,http://66.90.88.132:8080/hls/ph00237/index.m3u8
 HBOHITS,http://66.90.88.132:8080/hls/ph00232/index.m3u8
 WBTV,http://66.90.88.132:8080/hls/ph00235/index.m3u8
-HBOIGNATURE,http://66.90.88.132:8080/hls/ph00234/index.m3u8
 HBO,http://66.90.88.132:8080/hls/ph00231/index.m3u8
+HBOSignature,http://66.90.88.132:8080/hls/ph00234/index.m3u8
 HBOFAMILY,http://66.90.88.132:8080/hls/ph00233/index.m3u8
 CINEMAX,http://66.90.88.132:8080/hls/ph00238/index.m3u8
-NATIONAL,http://66.90.88.132:8080/hls/ph00242/index.m3u8
+国家地理,http://66.90.88.132:8080/hls/ph00242/index.m3u8
 DISCOVER ASIA,http://66.90.88.132:8080/hls/ph00240/index.m3u8
-NATIONAL WILD,http://66.90.88.132:8080/hls/ph00243/index.m3u8
+国家地理野生,http://66.90.88.132:8080/hls/ph00243/index.m3u8
 AXN,http://66.90.88.132:8080/hls/ph00236/index.m3u8
 DMAX,http://66.90.88.132:8080/hls/ph00241/index.m3u8
 TLC,http://66.90.88.132:8080/hls/ph00244/index.m3u8
