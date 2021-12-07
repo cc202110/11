@@ -1,6 +1,6 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
-BBCNEWS,http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+BBCNEWS,https://edge-1183-ch-gv.filmon.com/live/3268.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe84549871c5a1456b1baad8bb5fbd213d8aa52330ee26f065601964b490beb89cfb0d7f61cf82dc6fbf300179177001c23ac68474f07f09b829afc1f39b1073f089b744de5632d711c47b855a661f09f8a089112d7ad248d6022358fe8b6188db588807451245b8715ddddf40cbb780f7a3090a01b67b5533b313f664a824d67d4bad22a8b43a1b169cfbe90ddd702907
 J,http://122.155.180.8:5021/live/495.m3u8
 
 英超nba,#genre#
