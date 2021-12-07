@@ -1299,20 +1299,20 @@ CIBN微电影,http://117.148.179.157/PLTV/88888888/224/3221231586/index.m3u8
 =============================================================================================================================================
 =============================================================================================================================================
 港台iptv,#genre#
-美亚电影台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-TLC,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=59
+美亚电影台,http://iptv2.phoves.com.cn/mytv/mitv.php?id=2
+TLC,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=59
 
-VIUtv,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=6
-翡翠台,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=1
-J2,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=2
-无线新闻台,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=4
+VIUtv,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=6
+翡翠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
+J2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
+无线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
 无线财经,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=5
 
-明珠台,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=54
-SKYsports,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=49
-香港开电视,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=56
+明珠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
+SKYsports,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=49
+香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=56
 
-NOW sports prime,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=60
+NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
 TVB经典台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=61
 TVB星河,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=3
 香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=62
