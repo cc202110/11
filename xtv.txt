@@ -5,13 +5,16 @@ J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
 无线新闻,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
 明珠台,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
 无线财经,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
-NOWSPORTS,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
+NOW新闻台,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
+
 RHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
 RHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
-有线18,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
-有线18HD,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
-有线体育台,http://ai7499003.va1.aihost10.top/live/iptv_27.m3u8
+有线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_23.m3u8
 有线财经资讯,http://ai7499003.va1.aihost10.top/live/iptv_28.m3u8
+有线18,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
+有线603HD,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
+有线体育台,http://ai7499003.va1.aihost10.top/live/iptv_27.m3u8
+
 VIUTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
 开电视,http://ai7499003.va1.aihost10.top/live/iptv_7.m3u8
 三立都会,http://ai7499003.va1.aihost10.top/live/iptv_49.m3u8
@@ -24,8 +27,11 @@ TVBS欢乐台,http://ai7499003.va1.aihost10.top/live/iptv_97.m3u8
 TVBS,http://ai7499003.va1.aihost10.top/live/iptv_95.m3u8
 民视台湾台,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
 
-sport,http://45.232.196.7:5000/live/PremiereFCHD1/1080p.m3u8
-双星,http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
+
+
+
+
+
 
 
 台湾66,#genre#
@@ -127,29 +133,15 @@ SONYMAX,http://183.178.58.115:8027/0.ts
 
 
 
-香港ai74,#genre#
-翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
-开电视,http://ai7499003.va1.aihost10.top/live/iptv_7.m3u8
-ViuTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
-无线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
-无线财经·资讯台,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
-J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
-明珠台,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
-NOW新闻台,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
-RTHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
-RTHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
-有线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_23.m3u8
-有线18台,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
-有线高清603台,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
-有线体育台,http://ai7499003.va1.aihost10.top/live/iptv_27.m3u8
-有线财经资讯台,http://ai7499003.va1.aihost10.top/live/iptv_28.m3u8
+
 
 香港iptv,#genre#
+J2台,http://iptv.tvfix.org/hls/j2.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
-翡翠台(繁体) ,http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(繁体) ,http://iptv.tvfix.org/hls/.m3u8
 翡翠台(简体),http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+翡翠台华丽台(繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台华丽台(简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
 TVB为食台 ,http://iptv.tvfix.org/hls/tvbws.m3u8
 TVB为食台(2) ,http://iptv.tvfix.org/hls/tvbws2.m3u8
@@ -157,10 +149,9 @@ TVB为食台(2) ,http://iptv.tvfix.org/hls/tvbws2.m3u8
 美亚港版(国语) ,http://iptv.tvfix.org/hls/mydy2.m3u8
 TVB功夫(粤语),http://iptv.tvfix.org//hls/tvbkf.m3u8
 TVB功夫(国语),http://iptv.tvfix.org//hls/tvbkf2.m3u8
-
 TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
 TVB星河(国语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
-J2台,http://iptv.tvfix.org/hls/j2.m3u8
+
 
 
 
@@ -349,42 +340,9 @@ CGTN俄语 FHD,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
 辽宁卫视 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226767/index.m3u8
 辽宁卫视 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226929/index.m3u8
 
-🌞原生解码,#genre#
-设置原生解码,原生解码
-翡翠台,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
-翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
-J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-明珠台,https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台Y,https://cdn-cn.hkdtmb.com/hls/84b/index.m3u8
-无线新闻,https://cdn-cn.hkdtmb.com/hls/83/index.m3u8
-无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
-无线财经,https://cdn-cn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn-cn.hkdtmb.com/hls/99/index.m3u8
-ViuTV6,https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
-RHK31,https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
-RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
-香港开电视,https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
-中天新闻,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
-RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-RHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台,https://cdn.hkdtmb.com/hls/81b/index.m3u8
-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84b/index.m3u8
-无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
-无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
-香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香港国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 
 
-
-🛰️港台頻道,#genre#
+🛰️香港頻道,#genre#
 TVB翡翠,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB翡翠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -423,25 +381,25 @@ TVB明珠,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 有线新闻,http://live96.kglink.xyz:8080/live/hkc_news/hkc-news.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+
 TVB8,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/451449/live_194707653_5399055.m3u8
-TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
 
 TVB泰国,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-TVB18台,
-经典电影台,http://pullhls3948069e.live.126.net/live/baogu-superstars-movies-hd/playlist.m3u8
+
 美亚电影,
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
-
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 
+
+
+
+
+🛰️台湾頻道,#genre#
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
 华视,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8 
@@ -636,6 +594,7 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 
 🇲🇾马来西亚,#genre#
+ASTOR 双星,http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
 ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
 ASTRO Warna HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6740
 Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
@@ -1022,6 +981,7 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
 咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 广东体育,http://nettvpro.live/hls/zjkp.php?id=8
+sport,http://45.232.196.7:5000/live/PremiereFCHD1/1080p.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 FOX,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
