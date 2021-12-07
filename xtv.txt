@@ -1,4 +1,7 @@
 X直播电视台 youtube油管 频道
+测试,#genre#
+J,http://122.155.180.8:5021/live/495.m3u8
+
 英超nba,#genre#
 
 STAR SPORTS1,http://183.178.58.115:8016/0.ts
