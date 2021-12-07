@@ -48,7 +48,7 @@ TVBS,http://ai7499003.va1.aihost10.top/live/iptv_95.m3u8
 
 
 
-台湾66,#genre#
+原生台湾66,#genre#
 Aljazeera,http://66.90.88.132:8080/hls/ph00204/index.m3u8
 DW,http://66.90.88.132:8080/hls/ph00206/index.m3u8
 NHK,http://66.90.88.132:8080/hls/ph00203/index.m3u8
@@ -1381,7 +1381,7 @@ BT SPORT2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=50
 =============================================================================================================================================
 
 
-台湾59,#genre#
+软解台湾59,#genre#
 
 有线体育台,rtmp://59.124.75.157/sat/hk011
 Sports Plus,rtmp://59.124.75.157/sat/hk021
