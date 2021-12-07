@@ -1,5 +1,6 @@
 X直播电视台 youtube油管 频道
 测试,#genre#
+BBCNEWS,http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 J,http://122.155.180.8:5021/live/495.m3u8
 
 英超nba,#genre#
