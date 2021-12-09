@@ -1,19 +1,6 @@
 X直播电视台 youtube油管 频道
 
 测试,#genre#
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/321456/321456/7222
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/529231/529231/7222
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/penang189/penang189/7222
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/kl570/kl570/7222
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7222
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/624850/624850/7222
-Celestial Movies,http://iptv.tvmalaysia.cc:80/529231/529231/7235
-Celestial Movies,http://iptv.tvmalaysia.cc:80/penang189/penang189/7235
-Celestial Movies,http://iptv.tvmalaysia.cc:80/624850/624850/7235
-Celestial Movies,http://iptv.tvmalaysia.cc:80/321456/321456/7235
-Celestial Movies,http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7235
-Celestial Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
-Celestial Movies (480p) [Geo-blocked],http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 
 
@@ -340,11 +327,11 @@ CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226191/i
 CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/index.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
-凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 无线新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 有线新闻台,https://api.leonardpark.dev/live/icable/109
-CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+CNN,http://211.23.114.106:8549/http/116.50.42.19:8081/hls/68/810/ch29.m3u8
 FOXnews,https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
