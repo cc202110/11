@@ -1,5 +1,25 @@
 X直播电视台 youtube油管 频道
+
 测试,#genre#
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/321456/321456/7222
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/529231/529231/7222
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/penang189/penang189/7222
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/kl570/kl570/7222
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7222
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/624850/624850/7222
+Celestial Movies,http://iptv.tvmalaysia.cc:80/529231/529231/7235
+Celestial Movies,http://iptv.tvmalaysia.cc:80/penang189/penang189/7235
+Celestial Movies,http://iptv.tvmalaysia.cc:80/624850/624850/7235
+Celestial Movies,http://iptv.tvmalaysia.cc:80/321456/321456/7235
+Celestial Movies,http://iptv.tvmalaysia.cc:80/jalan8/jalan8/7235
+Celestial Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
+Celestial Movies (480p) [Geo-blocked],http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+
+
+
+
+巴西,#genre#
 A&E HD,http://livetv2021.site:8080/9897876765/6576567/6647
 AgroMais HD,http://livetv2021.site:8080/9897876765/6576567/642
 AMC HD,http://livetv2021.site:8080/9897876765/6576567/71
