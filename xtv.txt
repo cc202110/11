@@ -1,6 +1,15 @@
 X直播电视台 youtube油管 频道
 
 测试,#genre#
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
+凤凰中文,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+凤凰中文HD,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰中文HD,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文HD,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文HD,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
 SEX KOP,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 DJT,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 AdriaMusic,https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
