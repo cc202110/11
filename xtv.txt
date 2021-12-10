@@ -1,9 +1,9 @@
 X直播电视台 youtube油管 频道
 
 测试,#genre#
-
-
-
+SEX KOP,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+DJT,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
+AdriaMusic,https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
 
 
 巴西,#genre#
