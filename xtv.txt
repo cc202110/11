@@ -9,157 +9,7 @@ DJT,https://srv1.adriatelekom.com/DJTelevision/index.m3u8
 AdriaMusic,https://srv1.adriatelekom.com/AdriaMusicTV/mono.m3u8
 
 
-巴西,#genre#
-A&E HD,http://livetv2021.site:8080/9897876765/6576567/6647
-AgroMais HD,http://livetv2021.site:8080/9897876765/6576567/642
-AMC HD,http://livetv2021.site:8080/9897876765/6576567/71
-AMC HEVC,http://livetv2021.site:8080/9897876765/6576567/72
-Animal Planet HD,http://livetv2021.site:8080/9897876765/6576567/929
-Arte 1 HD,http://livetv2021.site:8080/9897876765/6576567/129
-Arte 1 HEVC,http://livetv2021.site:8080/9897876765/6576567/128
-AXN HD,http://livetv2021.site:8080/9897876765/6576567/6698
-Baby TV HD,http://livetv2021.site:8080/9897876765/6576567/644
-Band HD,http://livetv2021.site:8080/9897876765/6576567/110
-Band HD+,http://livetv2021.site:8080/9897876765/6576567/111
-Band News HD,http://livetv2021.site:8080/9897876765/6576567/931
-Band Sports HD,http://livetv2021.site:8080/9897876765/6576567/102
-Band Sports HEVC,http://livetv2021.site:8080/9897876765/6576567/103
-Boomerang HD,http://livetv2021.site:8080/9897876765/6576567/6657
-Canal Brasil FHD,http://livetv2021.site:8080/9897876765/6576567/118
-Canal Brasil HD,http://livetv2021.site:8080/9897876765/6576567/117
-Canal do Boi HD,http://livetv2021.site:8080/9897876765/6576567/6661
-Canal Sony HD,http://livetv2021.site:8080/9897876765/6576567/6651
-Cartoon Network HD,http://livetv2021.site:8080/9897876765/6576567/6664
-CNN BRASIL HD,http://livetv2021.site:8080/9897876765/6576567/8833
-Combate HD,http://livetv2021.site:8080/9897876765/6576567/119
-Combate HEVC,http://livetv2021.site:8080/9897876765/6576567/120
-Comedy Central HD,http://livetv2021.site:8080/9897876765/6576567/8834
-CONMEBOL TV 1,http://livetv2021.site:8080/9897876765/6576567/8835
-CONMEBOL TV 2,http://livetv2021.site:8080/9897876765/6576567/8836
-CONMEBOL TV 3,http://livetv2021.site:8080/9897876765/6576567/8837
-CONMEBOL TV 4,http://livetv2021.site:8080/9897876765/6576567/734
-Cultura HD,http://livetv2021.site:8080/9897876765/6576567/105
-Disc. Home & Health FHD HVEC,http://livetv2021.site:8080/9897876765/6576567/8838
-Disc. Home & Health HD,http://livetv2021.site:8080/9897876765/6576567/8839
-Discovery Channel HD,http://livetv2021.site:8080/9897876765/6576567/6655
-Discovery Kids HD,http://livetv2021.site:8080/9897876765/6576567/6656
-Discovery Science HD,http://livetv2021.site:8080/9897876765/6576567/78
-Discovery Theater HD,http://livetv2021.site:8080/9897876765/6576567/6662
-Discovery World HD,http://livetv2021.site:8080/9897876765/6576567/6663
-Disney Channel,http://livetv2021.site:8080/9897876765/6576567/8841
-Disney Junior HD,http://livetv2021.site:8080/9897876765/6576567/8842
-DOG TV HD,http://livetv2021.site:8080/9897876765/6576567/6654
-E! HD,http://livetv2021.site:8080/9897876765/6576567/107
-ESPN Brasil HD,http://livetv2021.site:8080/9897876765/6576567/166
-ESPN Extra HD,http://livetv2021.site:8080/9897876765/6576567/6626
-ESPN HD,http://livetv2021.site:8080/9897876765/6576567/167
-ESPN2 HD,http://livetv2021.site:8080/9897876765/6576567/6618
-Fashion TV HD,http://livetv2021.site:8080/9897876765/6576567/6643
-Film & Arts HEVC,http://livetv2021.site:8080/9897876765/6576567/74
-Fish TV FHD,http://livetv2021.site:8080/9897876765/6576567/109
-Fish TV HD,http://livetv2021.site:8080/9897876765/6576567/108
-Food Network HD,http://livetv2021.site:8080/9897876765/6576567/8843
-FOX Sports 2 HD,http://livetv2021.site:8080/9897876765/6576567/100
-FOX Sports 2 HEVC,http://livetv2021.site:8080/9897876765/6576567/101
-FOX Sports HD,http://livetv2021.site:8080/9897876765/6576567/98
-France 24 HD,http://livetv2021.site:8080/9897876765/6576567/6622
-Futura HD,http://livetv2021.site:8080/9897876765/6576567/75
-FX HD,http://livetv2021.site:8080/9897876765/6576567/8844
-GloboNews HD,http://livetv2021.site:8080/9897876765/6576567/169
-Gloob HD,http://livetv2021.site:8080/9897876765/6576567/172
-GNT HD,http://livetv2021.site:8080/9897876765/6576567/6625
-HBO Family HD,http://livetv2021.site:8080/9897876765/6576567/130
-HBO HD,http://livetv2021.site:8080/9897876765/6576567/125
-HBO Mundi HD,http://livetv2021.site:8080/9897876765/6576567/8473
-HBO POP HD,http://livetv2021.site:8080/9897876765/6576567/132
-HBO Signature HD,http://livetv2021.site:8080/9897876765/6576567/131
-HBO Xtreme HD,http://livetv2021.site:8080/9897876765/6576567/8474
-HBO+ HD,http://livetv2021.site:8080/9897876765/6576567/127
-HBO2 HD,http://livetv2021.site:8080/9897876765/6576567/126
-History 2 HD,http://livetv2021.site:8080/9897876765/6576567/6645
-History HD,http://livetv2021.site:8080/9897876765/6576567/6649
-ID HD,http://livetv2021.site:8080/9897876765/6576567/6665
-JP News UHD,http://livetv2021.site:8080/9897876765/6576567/7132
-Lifetime HD,http://livetv2021.site:8080/9897876765/6576567/8845
-Like HD,http://livetv2021.site:8080/9897876765/6576567/106
-Mais na Tela HD,http://livetv2021.site:8080/9897876765/6576567/171
-Megapix HD,http://livetv2021.site:8080/9897876765/6576567/8846
-MTV 00's HD,http://livetv2021.site:8080/9897876765/6576567/6894
-MTV HD,http://livetv2021.site:8080/9897876765/6576567/8847
-MTV LIVE HD,http://livetv2021.site:8080/9897876765/6576567/6646
-Multishow HD,http://livetv2021.site:8080/9897876765/6576567/6642
-Music Box Brazil HD,http://livetv2021.site:8080/9897876765/6576567/6659
-Music Box HD,http://livetv2021.site:8080/9897876765/6576567/79
-Nat Geo Kids HD,http://livetv2021.site:8080/9897876765/6576567/6658
-NatGeo Kids HD,http://livetv2021.site:8080/9897876765/6576567/77
-NatGeo Wild HD,http://livetv2021.site:8080/9897876765/6576567/8849
-National Geographic FHD HVEC,http://livetv2021.site:8080/9897876765/6576567/8850
-National Geographic HD,http://livetv2021.site:8080/9897876765/6576567/8851
-NHK HD,http://livetv2021.site:8080/9897876765/6576567/645
-Nick Jr. HD,http://livetv2021.site:8080/9897876765/6576567/6621
-Nickelodeon HD,http://livetv2021.site:8080/9897876765/6576567/6620
-OFF HD,http://livetv2021.site:8080/9897876765/6576567/170
-Pai Eterno HD,http://livetv2021.site:8080/9897876765/6576567/112
-Playboy TV UHD,http://livetv2021.site:8080/9897876765/6576567/901
-Premiere 2 HD,http://livetv2021.site:8080/9897876765/6576567/124
-Premiere 3 HD,http://livetv2021.site:8080/9897876765/6576567/6624
-Premiere 4 HD,http://livetv2021.site:8080/9897876765/6576567/419
-Premiere 5 HD,http://livetv2021.site:8080/9897876765/6576567/136
-Premiere Clubes HD,http://livetv2021.site:8080/9897876765/6576567/122
-Premiere Clubes HEVC,http://livetv2021.site:8080/9897876765/6576567/123
-Prime Box Brazil HD,http://livetv2021.site:8080/9897876765/6576567/6660
-Rede Massa - SBT HD,http://livetv2021.site:8080/9897876765/6576567/54
-Rede Vida HD,http://livetv2021.site:8080/9897876765/6576567/133
-RIC TV - RECORDTV,http://livetv2021.site:8080/9897876765/6576567/137
-Sabor & Arte HD,http://livetv2021.site:8080/9897876765/6576567/6619
-Sextreme HD,http://livetv2021.site:8080/9897876765/6576567/8852
-Sexy Hot HD,http://livetv2021.site:8080/9897876765/6576567/8853
-Space HD,http://livetv2021.site:8080/9897876765/6576567/6672
-Sportv HD,http://livetv2021.site:8080/9897876765/6576567/56
-SporTV2 HD,http://livetv2021.site:8080/9897876765/6576567/6623
-SporTV3 HD,http://livetv2021.site:8080/9897876765/6576567/113
-SporTV3 HEVC,http://livetv2021.site:8080/9897876765/6576567/114
-STAR CHANNEL HD,http://livetv2021.site:8080/9897876765/6576567/58
-STAR CHANNEL HEVC,http://livetv2021.site:8080/9897876765/6576567/57
-STAR HITS 2 HD,http://livetv2021.site:8080/9897876765/6576567/902
-STAR HITS HD,http://livetv2021.site:8080/9897876765/6576567/930
-STAR LIFE HD,http://livetv2021.site:8080/9897876765/6576567/6744
-Studio Universal HD,http://livetv2021.site:8080/9897876765/6576567/733
-SYFY HD,http://livetv2021.site:8080/9897876765/6576567/8854
-TBS HD,http://livetv2021.site:8080/9897876765/6576567/76
-Telecine Action 2K,http://livetv2021.site:8080/9897876765/6576567/8766
-Telecine Action HEVC,http://livetv2021.site:8080/9897876765/6576567/61
-Telecine Action,http://livetv2021.site:8080/9897876765/6576567/8765
-Telecine Cult HD,http://livetv2021.site:8080/9897876765/6576567/607
-Telecine Fun HD,http://livetv2021.site:8080/9897876765/6576567/63
-Telecine Pipoca HD,http://livetv2021.site:8080/9897876765/6576567/65
-Telecine Premium HD,http://livetv2021.site:8080/9897876765/6576567/59
-Telecine Touch HD,http://livetv2021.site:8080/9897876765/6576567/2
-Telecine Touch HEVC,http://livetv2021.site:8080/9897876765/6576567/62
-TLC HD,http://livetv2021.site:8080/9897876765/6576567/6652
-TNT HD,http://livetv2021.site:8080/9897876765/6576567/168
-Trace Brazuca HD,http://livetv2021.site:8080/9897876765/6576567/139
-Travel Box Brazil HD,http://livetv2021.site:8080/9897876765/6576567/6644
-TV Aparecida,http://livetv2021.site:8080/9897876765/6576567/6671
-TV Brasil HD,http://livetv2021.site:8080/9897876765/6576567/643
-TV Novo Tempo HD,http://livetv2021.site:8080/9897876765/6576567/6648
-TV Rá Tim Bum HD,http://livetv2021.site:8080/9897876765/6576567/95
-Universal TV HD,http://livetv2021.site:8080/9897876765/6576567/121
-VENUS HD,http://livetv2021.site:8080/9897876765/6576567/8855
-Viva FHD,http://livetv2021.site:8080/9897876765/6576567/116
-Viva HD,http://livetv2021.site:8080/9897876765/6576567/115
-Warner Channel HD,http://livetv2021.site:8080/9897876765/6576567/6650
-Woohoo 4K,http://livetv2021.site:8080/9897876765/6576567/70
-Woohoo HD,http://livetv2021.site:8080/9897876765/6576567/69
-Zoomoo HD,http://livetv2021.site:8080/9897876765/6576567/6670
-英超nba,#genre#
 
-STAR SPORTS1,http://183.178.58.115:8016/0.ts
-STAR SPORTS2 ,http://183.178.58.115:8018/0.ts
-STAR SPORTS1 S,http://183.178.58.115:8019/0.ts
-STAR SPORTS2 S,http://183.178.58.115:8021/0.ts
-NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
-VIUTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
 
 
 港台ai7,#genre#
@@ -260,36 +110,7 @@ TVBS,http://66.90.88.132:8080/hls/ph00316/index.m3u8
 凤凰香港,http://66.90.88.132:8080/hls/ph00453/index.m3u8
 
 
-印度183,#genre#
 
-HBO,http://183.178.58.115:8032/0.ts
-HBOHITS,http://183.178.58.115:8028/0.ts
-HBOSignature,http://183.178.58.115:8031/0.ts
-CINEMAX,http://183.178.58.115:8029/0.ts
-COMEDY,http://183.178.58.115:8033/0.ts
-
-STAR SPORTS1,http://183.178.58.115:8016/0.ts
-STAR SPORTS2 ,http://183.178.58.115:8018/0.ts
-STAR SPORTS1 S,http://183.178.58.115:8019/0.ts
-STAR SPORTS2 S,http://183.178.58.115:8021/0.ts
-12,http://183.178.58.115:8012/0.ts
-11,http://183.178.58.115:8011/0.ts
-10,http://183.178.58.115:8010/0.ts
-14,http://183.178.58.115:8014/0.ts
-13,http://183.178.58.115:8013/0.ts
-15,http://183.178.58.115:8015/0.ts
-17,http://183.178.58.115:8017/0.ts
-20,http://183.178.58.115:8020/0.ts
-34,http://183.178.58.115:8034/0.ts
-50,http://183.178.58.115:8050/0.ts
-22,http://183.178.58.115:8022/0.ts
-23,http://183.178.58.115:8023/0.ts
-25,http://183.178.58.115:8025/0.ts
-24,http://183.178.58.115:8024/0.ts
-26,http://183.178.58.115:8026/0.ts
-SONYMAX,http://183.178.58.115:8027/0.ts
-
-&PICTURES,http://183.178.58.115:8030/0.ts
 
 
 
@@ -573,6 +394,34 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 
 
 🛰️台湾頻道,#genre#
+
+民视,rtmp://59.124.75.157/sat/tv051
+台视,rtmp://59.124.75.157/sat/tv071
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.157/sat/tv111
+TVBS欢乐台,rtmp://59.124.75.157/sat/tv421
+TVBS新闻台,rtmp://59.124.75.157/sat/tv551
+东森超视,rtmp://59.124.75.157/sat/tv331
+东森财经新闻,rtmp://59.124.75.157/sat/tv571
+纬来日本,rtmp://59.124.75.157/sat/tv771
+纬来育乐,rtmp://59.124.75.157/sat/tv701
+纬来体育,rtmp://59.124.75.157/sat/tv721
+ELEVEN1,rtmp://59.124.75.157/sat/tv731
+ELEVEN2,rtmp://59.124.75.157/sat/tv741
+MoMo综合台,rtmp://59.124.75.157/sat/tv761
+爱尔达体育1,rtmp://59.124.75.157/sat/md011
+爱尔达体育2,rtmp://59.124.75.157/sat/md021
+博斯运动II,rtmp://59.124.75.157/sat/md051
+爱尔达体育1台,rtmp://59.124.75.157/sat/md011
+爱尔达体育2,rtmp://59.124.75.157/sat/md031
+爱尔达体育3,rtmp://59.124.75.157/sat/md041
+DDDD,rtmp://59.124.75.157/sat/jp011
+GAORA,rtmp://59.124.75.157/sat/jp031
+有线体育台,rtmp://59.124.75.157/sat/hk011
+Sports Plus,rtmp://59.124.75.157/sat/hk021
+xxxs,rtmp://59.124.75.157/sat/hk031
+18台,rtmp://59.124.75.157/sat/hk041
+
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
 华视,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8 
@@ -1122,6 +971,187 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 선거방송[1280*720][1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
 
+🇮🇳印度,#genre#
+
+HBO,http://183.178.58.115:8032/0.ts
+HBOHITS,http://183.178.58.115:8028/0.ts
+HBOSignature,http://183.178.58.115:8031/0.ts
+CINEMAX,http://183.178.58.115:8029/0.ts
+COMEDY,http://183.178.58.115:8033/0.ts
+
+STAR SPORTS1,http://183.178.58.115:8016/0.ts
+STAR SPORTS2 ,http://183.178.58.115:8018/0.ts
+STAR SPORTS1 S,http://183.178.58.115:8019/0.ts
+STAR SPORTS2 S,http://183.178.58.115:8021/0.ts
+12,http://183.178.58.115:8012/0.ts
+11,http://183.178.58.115:8011/0.ts
+10,http://183.178.58.115:8010/0.ts
+14,http://183.178.58.115:8014/0.ts
+13,http://183.178.58.115:8013/0.ts
+15,http://183.178.58.115:8015/0.ts
+17,http://183.178.58.115:8017/0.ts
+20,http://183.178.58.115:8020/0.ts
+34,http://183.178.58.115:8034/0.ts
+50,http://183.178.58.115:8050/0.ts
+22,http://183.178.58.115:8022/0.ts
+23,http://183.178.58.115:8023/0.ts
+25,http://183.178.58.115:8025/0.ts
+24,http://183.178.58.115:8024/0.ts
+26,http://183.178.58.115:8026/0.ts
+SONYMAX,http://183.178.58.115:8027/0.ts
+
+&PICTURES,http://183.178.58.115:8030/0.ts
+
+
+
+🇧🇷巴西,#genre#
+ESPN Brasil HD,http://livetv2021.site:8080/9897876765/6576567/166
+ESPN Extra HD,http://livetv2021.site:8080/9897876765/6576567/6626
+ESPN HD,http://livetv2021.site:8080/9897876765/6576567/167
+ESPN2 HD,http://livetv2021.site:8080/9897876765/6576567/6618
+FOX Sports 2 HD,http://livetv2021.site:8080/9897876765/6576567/100
+FOX Sports 2 HEVC,http://livetv2021.site:8080/9897876765/6576567/101
+FOX Sports HD,http://livetv2021.site:8080/9897876765/6576567/98
+HBO Family HD,http://livetv2021.site:8080/9897876765/6576567/130
+HBO HD,http://livetv2021.site:8080/9897876765/6576567/125
+HBO Mundi HD,http://livetv2021.site:8080/9897876765/6576567/8473
+HBO POP HD,http://livetv2021.site:8080/9897876765/6576567/132
+HBO Signature HD,http://livetv2021.site:8080/9897876765/6576567/131
+HBO Xtreme HD,http://livetv2021.site:8080/9897876765/6576567/8474
+HBO+ HD,http://livetv2021.site:8080/9897876765/6576567/127
+HBO2 HD,http://livetv2021.site:8080/9897876765/6576567/126
+MTV 00's HD,http://livetv2021.site:8080/9897876765/6576567/6894
+MTV HD,http://livetv2021.site:8080/9897876765/6576567/8847
+MTV LIVE HD,http://livetv2021.site:8080/9897876765/6576567/6646
+A&E HD,http://livetv2021.site:8080/9897876765/6576567/6647
+AgroMais HD,http://livetv2021.site:8080/9897876765/6576567/642
+AMC HD,http://livetv2021.site:8080/9897876765/6576567/71
+AMC HEVC,http://livetv2021.site:8080/9897876765/6576567/72
+Animal Planet HD,http://livetv2021.site:8080/9897876765/6576567/929
+Arte 1 HD,http://livetv2021.site:8080/9897876765/6576567/129
+Arte 1 HEVC,http://livetv2021.site:8080/9897876765/6576567/128
+AXN HD,http://livetv2021.site:8080/9897876765/6576567/6698
+Baby TV HD,http://livetv2021.site:8080/9897876765/6576567/644
+Band HD,http://livetv2021.site:8080/9897876765/6576567/110
+Band HD+,http://livetv2021.site:8080/9897876765/6576567/111
+Band News HD,http://livetv2021.site:8080/9897876765/6576567/931
+Band Sports HD,http://livetv2021.site:8080/9897876765/6576567/102
+Band Sports HEVC,http://livetv2021.site:8080/9897876765/6576567/103
+Boomerang HD,http://livetv2021.site:8080/9897876765/6576567/6657
+Canal Brasil FHD,http://livetv2021.site:8080/9897876765/6576567/118
+Canal Brasil HD,http://livetv2021.site:8080/9897876765/6576567/117
+Canal do Boi HD,http://livetv2021.site:8080/9897876765/6576567/6661
+Canal Sony HD,http://livetv2021.site:8080/9897876765/6576567/6651
+Cartoon Network HD,http://livetv2021.site:8080/9897876765/6576567/6664
+CNN BRASIL HD,http://livetv2021.site:8080/9897876765/6576567/8833
+Combate HD,http://livetv2021.site:8080/9897876765/6576567/119
+Combate HEVC,http://livetv2021.site:8080/9897876765/6576567/120
+Comedy Central HD,http://livetv2021.site:8080/9897876765/6576567/8834
+CONMEBOL TV 1,http://livetv2021.site:8080/9897876765/6576567/8835
+CONMEBOL TV 2,http://livetv2021.site:8080/9897876765/6576567/8836
+CONMEBOL TV 3,http://livetv2021.site:8080/9897876765/6576567/8837
+CONMEBOL TV 4,http://livetv2021.site:8080/9897876765/6576567/734
+Cultura HD,http://livetv2021.site:8080/9897876765/6576567/105
+Disc. Home & Health FHD HVEC,http://livetv2021.site:8080/9897876765/6576567/8838
+Disc. Home & Health HD,http://livetv2021.site:8080/9897876765/6576567/8839
+Discovery Channel HD,http://livetv2021.site:8080/9897876765/6576567/6655
+Discovery Kids HD,http://livetv2021.site:8080/9897876765/6576567/6656
+Discovery Science HD,http://livetv2021.site:8080/9897876765/6576567/78
+Discovery Theater HD,http://livetv2021.site:8080/9897876765/6576567/6662
+Discovery World HD,http://livetv2021.site:8080/9897876765/6576567/6663
+Disney Channel,http://livetv2021.site:8080/9897876765/6576567/8841
+Disney Junior HD,http://livetv2021.site:8080/9897876765/6576567/8842
+DOG TV HD,http://livetv2021.site:8080/9897876765/6576567/6654
+E! HD,http://livetv2021.site:8080/9897876765/6576567/107
+
+Fashion TV HD,http://livetv2021.site:8080/9897876765/6576567/6643
+Film & Arts HEVC,http://livetv2021.site:8080/9897876765/6576567/74
+Fish TV FHD,http://livetv2021.site:8080/9897876765/6576567/109
+Fish TV HD,http://livetv2021.site:8080/9897876765/6576567/108
+Food Network HD,http://livetv2021.site:8080/9897876765/6576567/8843
+
+France 24 HD,http://livetv2021.site:8080/9897876765/6576567/6622
+Futura HD,http://livetv2021.site:8080/9897876765/6576567/75
+FX HD,http://livetv2021.site:8080/9897876765/6576567/8844
+GloboNews HD,http://livetv2021.site:8080/9897876765/6576567/169
+Gloob HD,http://livetv2021.site:8080/9897876765/6576567/172
+GNT HD,http://livetv2021.site:8080/9897876765/6576567/6625
+
+History 2 HD,http://livetv2021.site:8080/9897876765/6576567/6645
+History HD,http://livetv2021.site:8080/9897876765/6576567/6649
+ID HD,http://livetv2021.site:8080/9897876765/6576567/6665
+JP News UHD,http://livetv2021.site:8080/9897876765/6576567/7132
+Lifetime HD,http://livetv2021.site:8080/9897876765/6576567/8845
+Like HD,http://livetv2021.site:8080/9897876765/6576567/106
+Mais na Tela HD,http://livetv2021.site:8080/9897876765/6576567/171
+Megapix HD,http://livetv2021.site:8080/9897876765/6576567/8846
+
+Multishow HD,http://livetv2021.site:8080/9897876765/6576567/6642
+Music Box Brazil HD,http://livetv2021.site:8080/9897876765/6576567/6659
+Music Box HD,http://livetv2021.site:8080/9897876765/6576567/79
+Nat Geo Kids HD,http://livetv2021.site:8080/9897876765/6576567/6658
+NatGeo Kids HD,http://livetv2021.site:8080/9897876765/6576567/77
+NatGeo Wild HD,http://livetv2021.site:8080/9897876765/6576567/8849
+National Geographic FHD HVEC,http://livetv2021.site:8080/9897876765/6576567/8850
+National Geographic HD,http://livetv2021.site:8080/9897876765/6576567/8851
+NHK HD,http://livetv2021.site:8080/9897876765/6576567/645
+Nick Jr. HD,http://livetv2021.site:8080/9897876765/6576567/6621
+Nickelodeon HD,http://livetv2021.site:8080/9897876765/6576567/6620
+OFF HD,http://livetv2021.site:8080/9897876765/6576567/170
+Pai Eterno HD,http://livetv2021.site:8080/9897876765/6576567/112
+Playboy TV UHD,http://livetv2021.site:8080/9897876765/6576567/901
+Premiere 2 HD,http://livetv2021.site:8080/9897876765/6576567/124
+Premiere 3 HD,http://livetv2021.site:8080/9897876765/6576567/6624
+Premiere 4 HD,http://livetv2021.site:8080/9897876765/6576567/419
+Premiere 5 HD,http://livetv2021.site:8080/9897876765/6576567/136
+Premiere Clubes HD,http://livetv2021.site:8080/9897876765/6576567/122
+Premiere Clubes HEVC,http://livetv2021.site:8080/9897876765/6576567/123
+Prime Box Brazil HD,http://livetv2021.site:8080/9897876765/6576567/6660
+Rede Massa - SBT HD,http://livetv2021.site:8080/9897876765/6576567/54
+Rede Vida HD,http://livetv2021.site:8080/9897876765/6576567/133
+RIC TV - RECORDTV,http://livetv2021.site:8080/9897876765/6576567/137
+Sabor & Arte HD,http://livetv2021.site:8080/9897876765/6576567/6619
+Sextreme HD,http://livetv2021.site:8080/9897876765/6576567/8852
+Sexy Hot HD,http://livetv2021.site:8080/9897876765/6576567/8853
+Space HD,http://livetv2021.site:8080/9897876765/6576567/6672
+Sportv HD,http://livetv2021.site:8080/9897876765/6576567/56
+SporTV2 HD,http://livetv2021.site:8080/9897876765/6576567/6623
+SporTV3 HD,http://livetv2021.site:8080/9897876765/6576567/113
+SporTV3 HEVC,http://livetv2021.site:8080/9897876765/6576567/114
+STAR CHANNEL HD,http://livetv2021.site:8080/9897876765/6576567/58
+STAR CHANNEL HEVC,http://livetv2021.site:8080/9897876765/6576567/57
+STAR HITS 2 HD,http://livetv2021.site:8080/9897876765/6576567/902
+STAR HITS HD,http://livetv2021.site:8080/9897876765/6576567/930
+STAR LIFE HD,http://livetv2021.site:8080/9897876765/6576567/6744
+Studio Universal HD,http://livetv2021.site:8080/9897876765/6576567/733
+SYFY HD,http://livetv2021.site:8080/9897876765/6576567/8854
+TBS HD,http://livetv2021.site:8080/9897876765/6576567/76
+Telecine Action 2K,http://livetv2021.site:8080/9897876765/6576567/8766
+Telecine Action HEVC,http://livetv2021.site:8080/9897876765/6576567/61
+Telecine Action,http://livetv2021.site:8080/9897876765/6576567/8765
+Telecine Cult HD,http://livetv2021.site:8080/9897876765/6576567/607
+Telecine Fun HD,http://livetv2021.site:8080/9897876765/6576567/63
+Telecine Pipoca HD,http://livetv2021.site:8080/9897876765/6576567/65
+Telecine Premium HD,http://livetv2021.site:8080/9897876765/6576567/59
+Telecine Touch HD,http://livetv2021.site:8080/9897876765/6576567/2
+Telecine Touch HEVC,http://livetv2021.site:8080/9897876765/6576567/62
+TLC HD,http://livetv2021.site:8080/9897876765/6576567/6652
+TNT HD,http://livetv2021.site:8080/9897876765/6576567/168
+Trace Brazuca HD,http://livetv2021.site:8080/9897876765/6576567/139
+Travel Box Brazil HD,http://livetv2021.site:8080/9897876765/6576567/6644
+TV Aparecida,http://livetv2021.site:8080/9897876765/6576567/6671
+TV Brasil HD,http://livetv2021.site:8080/9897876765/6576567/643
+TV Novo Tempo HD,http://livetv2021.site:8080/9897876765/6576567/6648
+TV Rá Tim Bum HD,http://livetv2021.site:8080/9897876765/6576567/95
+Universal TV HD,http://livetv2021.site:8080/9897876765/6576567/121
+VENUS HD,http://livetv2021.site:8080/9897876765/6576567/8855
+Viva FHD,http://livetv2021.site:8080/9897876765/6576567/116
+Viva HD,http://livetv2021.site:8080/9897876765/6576567/115
+Warner Channel HD,http://livetv2021.site:8080/9897876765/6576567/6650
+Woohoo 4K,http://livetv2021.site:8080/9897876765/6576567/70
+Woohoo HD,http://livetv2021.site:8080/9897876765/6576567/69
+Zoomoo HD,http://livetv2021.site:8080/9897876765/6576567/6670
+
 🇺🇳海外頻道,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
@@ -1559,10 +1589,7 @@ BT SPORT2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=50
 
 软解台湾59,#genre#
 
-有线体育台,rtmp://59.124.75.157/sat/hk011
-Sports Plus,rtmp://59.124.75.157/sat/hk021
-xxxs,rtmp://59.124.75.157/sat/hk031
-18台,rtmp://59.124.75.157/sat/hk041
+
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
 中视,rtmp://59.124.75.157/sat/tv091
@@ -1585,7 +1612,10 @@ MoMo综合台,rtmp://59.124.75.157/sat/tv761
 爱尔达体育3,rtmp://59.124.75.157/sat/md041
 DDDD,rtmp://59.124.75.157/sat/jp011
 GAORA,rtmp://59.124.75.157/sat/jp031
-
+有线体育台,rtmp://59.124.75.157/sat/hk011
+Sports Plus,rtmp://59.124.75.157/sat/hk021
+xxxs,rtmp://59.124.75.157/sat/hk031
+18台,rtmp://59.124.75.157/sat/hk041
 =============================================================================================================================================
 =============================================================================================================================================
 4台湾50.7,#genre#
