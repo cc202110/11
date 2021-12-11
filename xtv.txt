@@ -139,6 +139,24 @@ TVB星河(国语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
 
 
 
+🎵音乐频道,#genre#
+MTV 00's HD,http://livetv2021.site:8080/9897876765/6576567/6894
+MTV HD,http://livetv2021.site:8080/9897876765/6576567/8847
+MTV LIVE HD,http://livetv2021.site:8080/9897876765/6576567/6646
+HD音樂頻道,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+俄音樂CTP,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
+HONOE音樂,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
+M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+CMT Equal Play,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 🎤新闻©频道,#genre#
@@ -1005,6 +1023,29 @@ SONYMAX,http://183.178.58.115:8027/0.ts
 
 
 🇧🇷巴西,#genre#
+
+
+HBO Family HD,http://livetv2021.site:8080/9897876765/6576567/130
+HBO HD,http://livetv2021.site:8080/9897876765/6576567/125
+HBO Mundi HD,http://livetv2021.site:8080/9897876765/6576567/8473
+HBO POP HD,http://livetv2021.site:8080/9897876765/6576567/132
+HBO Signature HD,http://livetv2021.site:8080/9897876765/6576567/131
+HBO Xtreme HD,http://livetv2021.site:8080/9897876765/6576567/8474
+Warner Channel HD,http://livetv2021.site:8080/9897876765/6576567/6650
+AXN HD,http://livetv2021.site:8080/9897876765/6576567/6698
+SYFY HD,http://livetv2021.site:8080/9897876765/6576567/8854
+Universal TV HD,http://livetv2021.site:8080/9897876765/6576567/121
+MTV 00's HD,http://livetv2021.site:8080/9897876765/6576567/6894
+MTV HD,http://livetv2021.site:8080/9897876765/6576567/8847
+MTV LIVE HD,http://livetv2021.site:8080/9897876765/6576567/6646
+Discovery Channel HD,http://livetv2021.site:8080/9897876765/6576567/6655
+Discovery Kids HD,http://livetv2021.site:8080/9897876765/6576567/6656
+E! HD,http://livetv2021.site:8080/9897876765/6576567/107
+TLC HD,http://livetv2021.site:8080/9897876765/6576567/6652
+Fashion TV HD,http://livetv2021.site:8080/9897876765/6576567/6643
+History 2 HD,http://livetv2021.site:8080/9897876765/6576567/6645
+History HD,http://livetv2021.site:8080/9897876765/6576567/6649
+
 ESPN Brasil HD,http://livetv2021.site:8080/9897876765/6576567/166
 ESPN Extra HD,http://livetv2021.site:8080/9897876765/6576567/6626
 ESPN HD,http://livetv2021.site:8080/9897876765/6576567/167
@@ -1012,17 +1053,12 @@ ESPN2 HD,http://livetv2021.site:8080/9897876765/6576567/6618
 FOX Sports 2 HD,http://livetv2021.site:8080/9897876765/6576567/100
 FOX Sports 2 HEVC,http://livetv2021.site:8080/9897876765/6576567/101
 FOX Sports HD,http://livetv2021.site:8080/9897876765/6576567/98
-HBO Family HD,http://livetv2021.site:8080/9897876765/6576567/130
-HBO HD,http://livetv2021.site:8080/9897876765/6576567/125
-HBO Mundi HD,http://livetv2021.site:8080/9897876765/6576567/8473
-HBO POP HD,http://livetv2021.site:8080/9897876765/6576567/132
-HBO Signature HD,http://livetv2021.site:8080/9897876765/6576567/131
-HBO Xtreme HD,http://livetv2021.site:8080/9897876765/6576567/8474
+
+
+
+
 HBO+ HD,http://livetv2021.site:8080/9897876765/6576567/127
 HBO2 HD,http://livetv2021.site:8080/9897876765/6576567/126
-MTV 00's HD,http://livetv2021.site:8080/9897876765/6576567/6894
-MTV HD,http://livetv2021.site:8080/9897876765/6576567/8847
-MTV LIVE HD,http://livetv2021.site:8080/9897876765/6576567/6646
 A&E HD,http://livetv2021.site:8080/9897876765/6576567/6647
 AgroMais HD,http://livetv2021.site:8080/9897876765/6576567/642
 AMC HD,http://livetv2021.site:8080/9897876765/6576567/71
@@ -1030,7 +1066,7 @@ AMC HEVC,http://livetv2021.site:8080/9897876765/6576567/72
 Animal Planet HD,http://livetv2021.site:8080/9897876765/6576567/929
 Arte 1 HD,http://livetv2021.site:8080/9897876765/6576567/129
 Arte 1 HEVC,http://livetv2021.site:8080/9897876765/6576567/128
-AXN HD,http://livetv2021.site:8080/9897876765/6576567/6698
+
 Baby TV HD,http://livetv2021.site:8080/9897876765/6576567/644
 Band HD,http://livetv2021.site:8080/9897876765/6576567/110
 Band HD+,http://livetv2021.site:8080/9897876765/6576567/111
@@ -1054,17 +1090,14 @@ CONMEBOL TV 4,http://livetv2021.site:8080/9897876765/6576567/734
 Cultura HD,http://livetv2021.site:8080/9897876765/6576567/105
 Disc. Home & Health FHD HVEC,http://livetv2021.site:8080/9897876765/6576567/8838
 Disc. Home & Health HD,http://livetv2021.site:8080/9897876765/6576567/8839
-Discovery Channel HD,http://livetv2021.site:8080/9897876765/6576567/6655
-Discovery Kids HD,http://livetv2021.site:8080/9897876765/6576567/6656
+
 Discovery Science HD,http://livetv2021.site:8080/9897876765/6576567/78
 Discovery Theater HD,http://livetv2021.site:8080/9897876765/6576567/6662
 Discovery World HD,http://livetv2021.site:8080/9897876765/6576567/6663
 Disney Channel,http://livetv2021.site:8080/9897876765/6576567/8841
 Disney Junior HD,http://livetv2021.site:8080/9897876765/6576567/8842
 DOG TV HD,http://livetv2021.site:8080/9897876765/6576567/6654
-E! HD,http://livetv2021.site:8080/9897876765/6576567/107
 
-Fashion TV HD,http://livetv2021.site:8080/9897876765/6576567/6643
 Film & Arts HEVC,http://livetv2021.site:8080/9897876765/6576567/74
 Fish TV FHD,http://livetv2021.site:8080/9897876765/6576567/109
 Fish TV HD,http://livetv2021.site:8080/9897876765/6576567/108
@@ -1077,8 +1110,7 @@ GloboNews HD,http://livetv2021.site:8080/9897876765/6576567/169
 Gloob HD,http://livetv2021.site:8080/9897876765/6576567/172
 GNT HD,http://livetv2021.site:8080/9897876765/6576567/6625
 
-History 2 HD,http://livetv2021.site:8080/9897876765/6576567/6645
-History HD,http://livetv2021.site:8080/9897876765/6576567/6649
+
 ID HD,http://livetv2021.site:8080/9897876765/6576567/6665
 JP News UHD,http://livetv2021.site:8080/9897876765/6576567/7132
 Lifetime HD,http://livetv2021.site:8080/9897876765/6576567/8845
@@ -1124,7 +1156,7 @@ STAR HITS 2 HD,http://livetv2021.site:8080/9897876765/6576567/902
 STAR HITS HD,http://livetv2021.site:8080/9897876765/6576567/930
 STAR LIFE HD,http://livetv2021.site:8080/9897876765/6576567/6744
 Studio Universal HD,http://livetv2021.site:8080/9897876765/6576567/733
-SYFY HD,http://livetv2021.site:8080/9897876765/6576567/8854
+
 TBS HD,http://livetv2021.site:8080/9897876765/6576567/76
 Telecine Action 2K,http://livetv2021.site:8080/9897876765/6576567/8766
 Telecine Action HEVC,http://livetv2021.site:8080/9897876765/6576567/61
@@ -1135,7 +1167,7 @@ Telecine Pipoca HD,http://livetv2021.site:8080/9897876765/6576567/65
 Telecine Premium HD,http://livetv2021.site:8080/9897876765/6576567/59
 Telecine Touch HD,http://livetv2021.site:8080/9897876765/6576567/2
 Telecine Touch HEVC,http://livetv2021.site:8080/9897876765/6576567/62
-TLC HD,http://livetv2021.site:8080/9897876765/6576567/6652
+
 TNT HD,http://livetv2021.site:8080/9897876765/6576567/168
 Trace Brazuca HD,http://livetv2021.site:8080/9897876765/6576567/139
 Travel Box Brazil HD,http://livetv2021.site:8080/9897876765/6576567/6644
@@ -1143,11 +1175,11 @@ TV Aparecida,http://livetv2021.site:8080/9897876765/6576567/6671
 TV Brasil HD,http://livetv2021.site:8080/9897876765/6576567/643
 TV Novo Tempo HD,http://livetv2021.site:8080/9897876765/6576567/6648
 TV Rá Tim Bum HD,http://livetv2021.site:8080/9897876765/6576567/95
-Universal TV HD,http://livetv2021.site:8080/9897876765/6576567/121
+
 VENUS HD,http://livetv2021.site:8080/9897876765/6576567/8855
 Viva FHD,http://livetv2021.site:8080/9897876765/6576567/116
 Viva HD,http://livetv2021.site:8080/9897876765/6576567/115
-Warner Channel HD,http://livetv2021.site:8080/9897876765/6576567/6650
+
 Woohoo 4K,http://livetv2021.site:8080/9897876765/6576567/70
 Woohoo HD,http://livetv2021.site:8080/9897876765/6576567/69
 Zoomoo HD,http://livetv2021.site:8080/9897876765/6576567/6670
@@ -1216,21 +1248,6 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-🎵音乐频道,#genre#
-HD音樂頻道,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-俄音樂CTP,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
-HONOE音樂,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-V2BEAT,http://de1se01.v2beat.live/playlist.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-
-M2O音乐台,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-CMT Equal Play,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
