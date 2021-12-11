@@ -634,61 +634,14 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 
 🇲🇾马来西亚,#genre#
+
 ASTOR 双星,http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
-ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
-ASTRO Warna HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6740
-Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
-Astro Boo,http://iptv.tvmalaysia.cc:80/kl570/kl570/8872
-ASTRO Naura HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6724
-Awesome TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/9016
-ASTRO Oasis HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6725
-ASTRO Aura HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6713
-ASTRO Rania HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6729
-ASTRO Awani HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6714
-ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6715
-Asian Food Network HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6693
-Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6694
-Animax,http://iptv.tvmalaysia.cc:80/kl570/kl570/6696
 ASTRO AEC HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6701
 ASTRO AOD 353 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6704
 ASTRO AOD 355 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6706
-ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/kl570/kl570/6716
-ASTRO Zee Tamil HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6742
-ASTRO Vinmeen HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6739
-ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6738
-Makkal TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6806
-ASTRO Sun TV HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6733
-ASTRO Star Vijay HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6732
-Jaya Max,http://iptv.tvmalaysia.cc:80/kl570/kl570/6802
-Chutti TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6762
-ASTRO Oh!K HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6726
-Bernama News,http://iptv.tvmalaysia.cc:80/kl570/kl570/6750
-Bloomberg TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6751
-BollyOne HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6754
-Cartoon Network HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6757
-DMAX HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6778
-Colors HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6769
-tvN Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/6845
-tvN HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6844
+Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/kl570/kl570/7222
+Celestial Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
 TVB Classic,http://iptv.tvmalaysia.cc:80/kl570/kl570/6839
-TV-AlHijrah,http://iptv.tvmalaysia.cc:80/kl570/kl570/6834
-Sun Music,http://iptv.tvmalaysia.cc:80/kl570/kl570/6831
-Sky News HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6826
-One HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6817
-Nickelodeon HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6814
-Nick Jr,http://iptv.tvmalaysia.cc:80/kl570/kl570/6813
-KBS World HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6803
-Hits HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6800
-HGTV HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6798
-TV 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/7177
-TV 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/7178
-TV 3,http://iptv.tvmalaysia.cc:80/kl570/kl570/7266
-TV 3 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8750
-TV 9,http://iptv.tvmalaysia.cc:80/kl570/kl570/7185
-BERNAMA,http://iptv.tvmalaysia.cc:80/kl570/kl570/7190
-ShowCase Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/9030
-Galaxy Premium,http://iptv.tvmalaysia.cc:80/kl570/kl570/8838
-Cinemax FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7062
 HBO FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7067
 HBO Hits FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7068
 HBO Signature FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7069
@@ -696,41 +649,10 @@ HBO Family FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7070
 Hits Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7066
 Red By HBO HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7071
 Warner TV HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7072
-tVN movies HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7074
-National Geographic HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7075
-Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7081
-Nat Geo People HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7080
-History FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7079
-Discovery Channel HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7078
-Animal Planet,http://iptv.tvmalaysia.cc:80/kl570/kl570/7077
-HGTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7076
-Era FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7169
-Hot FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7170
-Hitz FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7171
-Sinar FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7172
-THR GEGAR,http://iptv.tvmalaysia.cc:80/kl570/kl570/7174
-Cinema World,http://iptv.tvmalaysia.cc:80/kl570/kl570/7219
-Thrill,http://iptv.tvmalaysia.cc:80/kl570/kl570/7220
-AXN,http://iptv.tvmalaysia.cc:80/kl570/kl570/7223
-Fox Crime,http://iptv.tvmalaysia.cc:80/kl570/kl570/7225
-FOX,http://iptv.tvmalaysia.cc:80/kl570/kl570/7227
-KiX,http://iptv.tvmalaysia.cc:80/kl570/kl570/7229
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/kl570/kl570/7222
-Celestial Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
-Blue Ant Entertainment,http://iptv.tvmalaysia.cc:80/kl570/kl570/8860
-Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/kl570/kl570/8861
-Sony One,http://iptv.tvmalaysia.cc:80/kl570/kl570/8863
 TvN,http://iptv.tvmalaysia.cc:80/kl570/kl570/8865
-Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/kl570/kl570/8922
-Tom & Jerry HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8986
-STARZ KIDS&FAMILY,http://iptv.tvmalaysia.cc:80/kl570/kl570/8991
-மக்கள் தொலைக்காட்சி,http://iptv.tvmalaysia.cc:80/kl570/kl570/8995
-Star Movies HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8997
-foxmoviebeta,http://iptv.tvmalaysia.cc:80/kl570/kl570/9007
-Crime & Investigation.,http://iptv.tvmalaysia.cc:80/kl570/kl570/9009
-Fox Family Movie,http://iptv.tvmalaysia.cc:80/kl570/kl570/9027
-ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
-Arena 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/9028
+tvN HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6844
+tvN movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7074
+tvN Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/6845
 EPL LIVE 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/9022
 EPL LIVE 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/9023
 ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6708
@@ -774,170 +696,98 @@ UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/kl570/kl570/6619
 MUTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7236
 LFC TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7237
 FS 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/9003
+ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6727
+ASTRO Warna HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6740
+Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
+Astro Boo,http://iptv.tvmalaysia.cc:80/kl570/kl570/8872
+ASTRO Naura HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6724
+Awesome TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/9016
+ASTRO Oasis HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6725
+ASTRO Aura HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6713
+ASTRO Rania HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6729
+ASTRO Awani HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6714
+ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6715
+Asian Food Network HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6693
+Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6694
+Animax,http://iptv.tvmalaysia.cc:80/kl570/kl570/6696
+
+
+ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/kl570/kl570/6716
+ASTRO Zee Tamil HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6742
+ASTRO Vinmeen HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6739
+ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6738
+Makkal TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6806
+ASTRO Sun TV HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6733
+ASTRO Star Vijay HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6732
+Jaya Max,http://iptv.tvmalaysia.cc:80/kl570/kl570/6802
+Chutti TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6762
+ASTRO Oh!K HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6726
+Bernama News,http://iptv.tvmalaysia.cc:80/kl570/kl570/6750
+Bloomberg TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6751
+BollyOne HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6754
+Cartoon Network HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6757
+DMAX HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6778
+Colors HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6769
+
+
+TV-AlHijrah,http://iptv.tvmalaysia.cc:80/kl570/kl570/6834
+Sun Music,http://iptv.tvmalaysia.cc:80/kl570/kl570/6831
+Sky News HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6826
+One HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6817
+Nickelodeon HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6814
+Nick Jr,http://iptv.tvmalaysia.cc:80/kl570/kl570/6813
+KBS World HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6803
+Hits HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6800
+HGTV HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6798
+TV 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/7177
+TV 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/7178
+TV 3,http://iptv.tvmalaysia.cc:80/kl570/kl570/7266
+TV 3 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8750
+TV 9,http://iptv.tvmalaysia.cc:80/kl570/kl570/7185
+BERNAMA,http://iptv.tvmalaysia.cc:80/kl570/kl570/7190
+ShowCase Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/9030
+Galaxy Premium,http://iptv.tvmalaysia.cc:80/kl570/kl570/8838
+Cinemax FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7062
+
+
+National Geographic HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7075
+Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7081
+Nat Geo People HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7080
+History FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7079
+Discovery Channel HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7078
+Animal Planet,http://iptv.tvmalaysia.cc:80/kl570/kl570/7077
+HGTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7076
+Era FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7169
+Hot FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7170
+Hitz FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7171
+Sinar FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7172
+THR GEGAR,http://iptv.tvmalaysia.cc:80/kl570/kl570/7174
+Cinema World,http://iptv.tvmalaysia.cc:80/kl570/kl570/7219
+Thrill,http://iptv.tvmalaysia.cc:80/kl570/kl570/7220
+AXN,http://iptv.tvmalaysia.cc:80/kl570/kl570/7223
+Fox Crime,http://iptv.tvmalaysia.cc:80/kl570/kl570/7225
+FOX,http://iptv.tvmalaysia.cc:80/kl570/kl570/7227
+KiX,http://iptv.tvmalaysia.cc:80/kl570/kl570/7229
+
+Blue Ant Entertainment,http://iptv.tvmalaysia.cc:80/kl570/kl570/8860
+Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/kl570/kl570/8861
+Sony One,http://iptv.tvmalaysia.cc:80/kl570/kl570/8863
+
+Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/kl570/kl570/8922
+Tom & Jerry HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8986
+STARZ KIDS&FAMILY,http://iptv.tvmalaysia.cc:80/kl570/kl570/8991
+மக்கள் தொலைக்காட்சி,http://iptv.tvmalaysia.cc:80/kl570/kl570/8995
+Star Movies HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8997
+foxmoviebeta,http://iptv.tvmalaysia.cc:80/kl570/kl570/9007
+Crime & Investigation.,http://iptv.tvmalaysia.cc:80/kl570/kl570/9009
+Fox Family Movie,http://iptv.tvmalaysia.cc:80/kl570/kl570/9027
+ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
+Arena 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/9028
+
 Disney XD FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7198
 Boomerang,http://iptv.tvmalaysia.cc:80/kl570/kl570/7199
 Nickelodeon,http://iptv.tvmalaysia.cc:80/kl570/kl570/7201
 Universal Kids FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7205
-The Thousand Faces of Dunjia (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/325.mp4
-Project Power (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/327.mp4
-The New Mutants (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/328.mp4
-Chalte Chalte (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/329.mp4
-Neighbors 2: Sorority Rising (2016),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/330.mp4
-Manap Karaoke (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/331.mp4
-Man santan ( 2020 ),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/337.mp4
--Malay Audio- The SpongeBob Movie: Sponge on the Run (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/338.mp4
-Bigfoot Family (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/339.mp4
-Death of Me (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/340.mp4
-Drag Me to Hell (2009),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/341.mp4
-Flypaper (2011),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/342.mp4
-Meet Joe Black (1998),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/343.mp4
-Pet (2016),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/344.mp4
-Seized (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/345.mp4
-Unhinged (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/346.mp4
-Aku Kaya The Movie (2003),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/423.mp4
-Code of Thieves (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/425.mp4
-Cun! (2011),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/426.mp4
-Raatchasi (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6564.mp4
-Bhoothnath (2008),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6567.mp4
-Bhoothnath Returns (2014),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6568.mp4
-Triggered (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6643.mp4
-Antidote (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6644.mp4
-Clouds (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6645.mp4
-Cuties (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6646.mp4
-Holidate (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6647.mp4
-Phineas and Ferb The Movie: Candace Against the Universe (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6648.mp4
-Possessor Uncut (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6649.mp4
-Ravers (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6650.mp4
-Rebecca (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6651.mp4
-Relic (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6652.mp4
-Rogue City (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6653.mp4
-Sputnik (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6654.mp4
-The Call (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6655.mp4
-Words on Bathroom Walls (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6656.mp4
-A Babysitter\'s Guide to Monster Hunting (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6664.mp4
-A Night of Horror: Nightmare Radio (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6665.mp4
-Ben 10 Versus the Universe: The Movie (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6666.mkv
-BLACKPINK: Light Up the Sky (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6667.mp4
-Broil (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6668.mp4
-Clownery (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6669.mp4
-Come Away (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6670.mp4
-Cut Throat City (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6671.mp4
-Fishbowl (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6672.mp4
-Ginny Weds Sunny (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6673.mp4
-Kick (2014),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6675.mp4
-Love and Monsters (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6676.mp4
-Nobody Sleeps in the Woods Tonight (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6677.mp4
-Nocturne (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6678.mp4
-Over the Moon (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6679.mp4
-Pasal Kau!,http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6681.mkv
-Psy 3: W imię zasad (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6682.mp4
-Robert the Bruce (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6683.mp4
-Save Yourselves! (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6684.mp4
-The Mortuary Collection (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6685.mp4
-The Other Side of Hope (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6686.mp4
-The Secrets We Keep (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6687.mp4
-The Trial of the Chicago 7 (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6688.mp4
-The Wolf of Snow Hollow (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6689.mp4
-Villain (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6690.mp4
-Gemerlapan (1997),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6980.mp4
-Hilang Akal (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6981.mp4
-Hingga Hujung Nyawa (2004),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6982.mp4
-Mon dan Jin Pakai Toncit (2013),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6983.mp4
-Isteriku CEO ( 2018 ),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6984.mp4
-Jebat (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6985.mkv
-Jejaka Terhangat (2015),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6986.mp4
-Kalut Nak Raya (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6987.mp4
-7 Perhentian (2004),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6988.mp4
-15 Puasa (2004),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6989.mp4
-16 Puasa (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6990.mp4
-17 Puasa (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6991.mp4
-Anak Perjanjian Syaitan (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6993.mkv
-Baik Punya Cilok (2005),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6994.mp4
-Banglasia 2.0 (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6995.mp4
-Biar Betul (2004),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6996.mp4
-Budok Kuba (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/6999.mp4
-Cinta Paling Agung (2015),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7000.mkv
-Cuci (2009),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7001.mp4
-Gadoh (2009),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7003.mp4
-Kimchi Untuk Awak (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7004.mp4
-Magika (2010),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7005.mp4
-Paku Pontianak (2013),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7007.mp4
-Pisau Cukur (2009),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7008.mp4
-Putera (1994),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7009.mp4
-Saka Zain Jusoh (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7010.mp4
-Sayang Suria (2015),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7011.mp4
-Sekali Lagi (2011),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7012.mp4
-Simfoni Duniaku (1994),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7013.mp4
-Sinaran (2015),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7014.mp4
-Surga Yang Tak Dirindukan 2 (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7015.mp4
-Tempatkan Dia Di Syurga ( 2010 ),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7016.mp4
-V3: Samseng Jalanan (2010),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7017.mp4
-Fatman (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7018.mp4
-Kelaster (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7020.mkv
-Run (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7021.mp4
-The Last Warrior (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7023.mp4
-Doraemon: Nobita and the Winged Braves (2001),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7025.mp4
-Doraemon The Movie - Nobita Dan Kerajaan Robot,http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7026.mp4
-Doraemon: Nobita and the Windmasters (2003),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7027.mp4
-Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey (2004),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7085.mp4
-Doraemon: Nobita\'s Dinosaur (2006),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7086.mp4
-Doraemon: Nobita The Great New Adventure Into The Underworld,http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7087.mp4
-Doraemon: Nobita and the Steel Troops (1986),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7088.mp4
-Doraemon: Nobita and the Island of Miracles ~Animal Adventure~ (2012),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7089.mp4
-Mama Tak Akan Sama,http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7090.mp4
-Bini Aku Dari Neraka Raya (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7093.mp4
-Bukan Cerita Cinta Kita (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7094.mp4
-Cinta Sticky Note (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7095.mp4
-Cruise Cinta (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7096.mp4
-Hantu Rumah Sakit Jiwa (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7097.mp4
-Iman Ke Syurga (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7099.mp4
-Istanbul Aku Datang! (2012),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7100.mp4
-Kerantung (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7101.mp4
-Khalifahkan Aku,http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7102.mp4
-KL Special Force (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7103.mp4
-Lamaran Perfect (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7104.mp4
-PONTIANAK DAN DOT DOT (2016),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7110.mp4
-Alien Invasion (2018),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7119.mp4
-Cagefighter: Worlds Collide (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7122.mp4
-Don\'t Listen (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7125.mp4
-Freaky (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7127.mp4
-Hachi: A Dog\'s Tale (2009),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7128.mp4
-Jingle Jangle: A Christmas Journey (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7131.mp4
-Inc. (2001),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7134.mp4
-Munich (2005),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7135.mp4
-Upin & Ipin: Keris Siamang Tunggal (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7141.mkv
-Active Shooter (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7268.mp4
-Black Beauty (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7270.mp4
-Chick Fight (2021),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7271.mp4
-Come Play (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7272.mp4
-It Cuts Deep (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7273.mp4
-A Deadly Place (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7274.mp4
-Echo Boomers (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7275.mp4
-Jiu Jitsu (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7276.mp4
-Last Three Days (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7277.mp4
-Loco (2020),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7278.mp4
-Pahuna: The Little Visitors (2017),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7279.mp4
-Playhouse (2021),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7280.mp4
-The Box (2009),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7281.mp4
-The Boy in the Striped Pyjamas (2008),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7282.mp4
-Transcendence (2014),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7298.mp4
-Turbo (2013),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7299.mp4
-What Happened to Mr Cha? (2021),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7301.mp4
-Dalil Cinta ( 2010 ),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7002.mp4
-Laskar Pelangi 2: Edensor (2013),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7105.mp4
-10 Tips Tipu Bini (2021),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7308.mkv
-Zack Snyder\'s Justice League (2021),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7309.mp4
-PK (2014),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7310.mp4
-The BFG (2016),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7311.mp4
-The Ten Commandments (2007),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7312.mp4
-Veer-Zaara (2004),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7317.mp4
-Weathering with You (2019),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7323.mp4
-Wreck-It Ralph (2012),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7327.mp4
-Godzilla vs. Kong (2021),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7332.mp4
-18 Puasa Di Kampung Pisang,http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/7334.mkv
-Kampong Pisang Musikal Raya Istimewa (2021),http://iptv.tvmalaysia.cc:80/movie/kl570/kl570/8976.mp4
-RRI NET,http://iptv.tvmalaysia.cc:80/kl570/kl570/8841
-SCTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8842
 TransTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8843
 Trans 7,http://iptv.tvmalaysia.cc:80/kl570/kl570/8844
 Indosiar,http://iptv.tvmalaysia.cc:80/kl570/kl570/8845
@@ -951,16 +801,15 @@ CNN Indonesia,http://iptv.tvmalaysia.cc:80/kl570/kl570/8851
 🇯🇵日本頻道,#genre#
 
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-GEM,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-Animax Japan (Vietnamese Subs)[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 CGNTV Japan[1280*720],http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
 New Japan Pro Wrestling World[1280*720],https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 日本购物1[1280*720],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 Weather News[1280*720],https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-Animax HD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-AnimaxHD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+Animax,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
 
 🇰🇷韩国頻道,#genre#
@@ -1131,7 +980,6 @@ Nick Jr. HD,http://livetv2021.site:8080/9897876765/6576567/6621
 Nickelodeon HD,http://livetv2021.site:8080/9897876765/6576567/6620
 OFF HD,http://livetv2021.site:8080/9897876765/6576567/170
 Pai Eterno HD,http://livetv2021.site:8080/9897876765/6576567/112
-Playboy TV UHD,http://livetv2021.site:8080/9897876765/6576567/901
 Premiere 2 HD,http://livetv2021.site:8080/9897876765/6576567/124
 Premiere 3 HD,http://livetv2021.site:8080/9897876765/6576567/6624
 Premiere 4 HD,http://livetv2021.site:8080/9897876765/6576567/419
@@ -1143,8 +991,6 @@ Rede Massa - SBT HD,http://livetv2021.site:8080/9897876765/6576567/54
 Rede Vida HD,http://livetv2021.site:8080/9897876765/6576567/133
 RIC TV - RECORDTV,http://livetv2021.site:8080/9897876765/6576567/137
 Sabor & Arte HD,http://livetv2021.site:8080/9897876765/6576567/6619
-Sextreme HD,http://livetv2021.site:8080/9897876765/6576567/8852
-Sexy Hot HD,http://livetv2021.site:8080/9897876765/6576567/8853
 Space HD,http://livetv2021.site:8080/9897876765/6576567/6672
 Sportv HD,http://livetv2021.site:8080/9897876765/6576567/56
 SporTV2 HD,http://livetv2021.site:8080/9897876765/6576567/6623
