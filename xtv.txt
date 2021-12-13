@@ -429,16 +429,30 @@ CGTN俄语 FHD,http://39.135.129.166/PLTV/88888888/224/3221226772/1.m3u8
 明珠台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
 明珠台,http://nettvpro.live/hls/zjkp.php?id=12
 
-翡翠台华丽台,http://185.180.221.194:8278/367b06ceb0/playlist.m3u8?tid=MA6A9167860491678604&ct=18393&tsum=a91c02b45da772304fb1d530514e52a7
 
 J2,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+
+J2台,http://iptv.tvfix.org/hls/j2.m3u8
+无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
+翡翠台,http://iptv.tvfix.org/hls/.m3u8
+翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台华丽台(繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台华丽台(简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台 ,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB为食台(2) ,http://iptv.tvfix.org/hls/tvbws2.m3u8
 美亚港版(粤语) ,http://iptv.tvfix.org/hls/mydy.m3u8
 美亚港版(国语) ,http://iptv.tvfix.org/hls/mydy2.m3u8
+TVB功夫(粤语),http://iptv.tvfix.org//hls/tvbkf.m3u8
+TVB功夫(国语),http://iptv.tvfix.org//hls/tvbkf2.m3u8
 TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河(国语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
+
 
 星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
