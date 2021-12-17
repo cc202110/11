@@ -2201,8 +2201,8 @@ SITV动漫秀场4M1080[1920*1080],http://223.110.245.146/ott.js.chinamobile.com/
 =============================================================================================================================================
 晴台灣,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
-人間衛視,mitv://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
-台視,mitv://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
+人間衛視, p2p://ns2.hellotvvod.com:9906/eec8f95a22de4a0ea2907a53ad0e62d2
+台視,p2p://ns2.hellotvvod.com:9906/0cde14d20638479189443549d1b1005f
 大愛,mitv://ns2.hellotvvod.com:9906/47e0000522814c6aac7d54c8bec91445
 中視,mitv://ns2.hellotvvod.com:9906/21fe3c316a13445a8a5b1f4afd39a5b1
 霹靂台灣台,mitv://ns2.hellotvvod.com:9906/85d6caf44ce4449e8600dc86d1c7be21
