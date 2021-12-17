@@ -2810,7 +2810,7 @@ CCTV6,mitv://ns2.hellotvvod.com:9906/fcb1a15023a1447c88064e0e21c1bf4c
 BOO,mitv://ns2.hellotvvod.com:9906/fd66b38ae9014f8183ac6b160b94548b
 tvN Movies HD,mitv://ns2.hellotvvod.com:9906/93226f918c0a4231bdff4910da8fa8e1
 
-晴戲劇,#genre#
+$c_start 戏剧$c_end
 東森戲劇台,p2p://ns2.hellotvvod.com:9906/8ad6da5302064e3a8b67ccc9848614e5
 八大戲劇台,p5p://ns2.hellotvvod.com:9906/ea7f77bf68254477b2a29793cf65f55a
 緯來戲劇台,p5p://ns2.hellotvvod.com:9906/c4d3341645874d9fab6329a7f83f5121
