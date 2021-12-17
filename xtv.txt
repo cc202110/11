@@ -1,6 +1,6 @@
 X直播电视台 youtube油管 频道
 
-测试,#genre#
+$c_start 测试$c_end
 
 
 
