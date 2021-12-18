@@ -5,21 +5,21 @@ $c_start 测试$c_end
 
 🎤新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
-CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225986/index.m3u8
+
 CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226191/index.m3u8
 CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/index.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=.
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
 
 有线新闻台,https://api.leonardpark.dev/live/icable/109
-BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 BBCWorldNews,http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 FOXnews,https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 CBC News,https://1111296894.rsc.cdn77.org/LS-ATL-54548-8/index.m3u8
@@ -382,11 +382,6 @@ ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/espo
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-
-无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-无线新闻直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
@@ -404,35 +399,6 @@ Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-外港台ai7,#genre#
-J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
-翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
-无线新闻,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
-明珠台,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
-无线财经,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
-NOW新闻台,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
-
-RHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
-RHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
-有线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_23.m3u8
-有线财经资讯,http://ai7499003.va1.aihost10.top/live/iptv_28.m3u8
-有线18,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
-有线603HD,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
-有线体育台,http://ai7499003.va1.aihost10.top/live/iptv_27.m3u8
-
-VIUTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
-开电视,http://ai7499003.va1.aihost10.top/live/iptv_7.m3u8
-三立都会,http://ai7499003.va1.aihost10.top/live/iptv_49.m3u8
-三立livenews,http://ai7499003.va1.aihost10.top/live/iptv_57.m3u8
-TVBS新闻,http://ai7499003.va1.aihost10.top/live/iptv_54.m3u8
-民视新闻,http://ai7499003.va1.aihost10.top/live/iptv_59.m3u8
-中视新闻,http://ai7499003.va1.aihost10.top/live/iptv_60.m3u8
-寰宇新闻,http://ai7499003.va1.aihost10.top/live/iptv_63.m3u8
-TVBS欢乐台,http://ai7499003.va1.aihost10.top/live/iptv_97.m3u8
-TVBS,http://ai7499003.va1.aihost10.top/live/iptv_95.m3u8
-民视台湾台,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
-
 
 中视,http://50.7.61.148:30080/Entry/ctv
 台视,http://50.7.61.148:30080/Entry/ttv
@@ -467,11 +433,8 @@ NHK,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 
-台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民视,http://seb.sason.top/ptv/ftv.php?id=ms
-民视第一 HD,http://seb.sason.top/ptv/ftv.php?id=dy
 民视新闻 HD,http://seb.sason.top/sc/msxw_fhd.m3u8
-民视台湾 HD,http://seb.sason.top/ptv/ftv.php?id=tw
+
 民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
 民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
 民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -1367,101 +1330,6 @@ TVB星河(国语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
 =============================================================================================================================================
 ¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥
 
-*港台iptv,#genre#
-美亚电影台,http://iptv2.phoves.com.cn/mytv/mitv.php?id=2
-TLC,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=59
-
-VIUtv,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=6
-翡翠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=1
-J2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=2
-无线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=4
-无线财经,http://iptv5.phoves.com.cn/iptv/api/wotv.php?id=5
-
-明珠台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=54
-SKYsports,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=49
-香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=56
-
-NOW sports prime,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=60
-TVB经典台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=61
-TVB星河,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=3
-香港开电视,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=62
-香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=63
-香港国际财经台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=57
-NOW新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=65
-C+,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=13
-RHK31,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=8
-RHK32,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=9
-有线新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=10
-民视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=14
-台湾旅游,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=18
-民视台湾台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=16
-民视第一台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=15
-民视综艺,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=17
-中视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=21
-台视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=22
-中天新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=24
-东森新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=25
-东森财经新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=26
-TVBS新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=28
-民视新闻台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=20
-壹新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=31
-JET,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=37
-华视新闻资讯,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=27
-CATCHPLAY,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=40
-CNA,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=36
-BT SPORT3,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=51
-三立都会台,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=52
-三立inews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=29
-三立live新闻,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=30
-
-TVNMOVIES,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=41
-BBCnews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=32
-ABCnews,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=33
-CNN,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=34
-NHKworld,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=35
-
-WBFILM,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=43
-ASTRO SUPERSPORT,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=45
-
-BT SPORT2,http://iptv2.phoves.com.cn/iptv/api/wotv.php?id=50
-
-=============================================================================================================================================
-=============================================================================================================================================
-
-外港台ai7,#genre#
-翡翠台,http://ai7499003.va1.aihost10.top/live/iptv_1.m3u8
-J2,http://ai7499003.va1.aihost10.top/live/iptv_12.m3u8
-无线新闻,http://ai7499003.va1.aihost10.top/live/iptv_9.m3u8
-明珠台,http://ai7499003.va1.aihost10.top/live/iptv_13.m3u8
-无线财经,http://ai7499003.va1.aihost10.top/live/iptv_10.m3u8
-NOW新闻台,http://ai7499003.va1.aihost10.top/live/iptv_16.m3u8
-
-RHK31,http://ai7499003.va1.aihost10.top/live/iptv_20.m3u8
-RHK32,http://ai7499003.va1.aihost10.top/live/iptv_21.m3u8
-有线新闻台,http://ai7499003.va1.aihost10.top/live/iptv_23.m3u8
-有线财经资讯,http://ai7499003.va1.aihost10.top/live/iptv_28.m3u8
-有线18,http://ai7499003.va1.aihost10.top/live/iptv_25.m3u8
-有线603HD,http://ai7499003.va1.aihost10.top/live/iptv_26.m3u8
-有线体育台,http://ai7499003.va1.aihost10.top/live/iptv_27.m3u8
-
-VIUTV,http://ai7499003.va1.aihost10.top/live/iptv_8.m3u8
-开电视,http://ai7499003.va1.aihost10.top/live/iptv_7.m3u8
-三立都会,http://ai7499003.va1.aihost10.top/live/iptv_49.m3u8
-三立livenews,http://ai7499003.va1.aihost10.top/live/iptv_57.m3u8
-TVBS新闻,http://ai7499003.va1.aihost10.top/live/iptv_54.m3u8
-民视新闻,http://ai7499003.va1.aihost10.top/live/iptv_59.m3u8
-中视新闻,http://ai7499003.va1.aihost10.top/live/iptv_60.m3u8
-寰宇新闻,http://ai7499003.va1.aihost10.top/live/iptv_63.m3u8
-TVBS欢乐台,http://ai7499003.va1.aihost10.top/live/iptv_97.m3u8
-TVBS,http://ai7499003.va1.aihost10.top/live/iptv_95.m3u8
-民视台湾台,http://ai7499003.va1.aihost10.top/live/iptv_99.m3u8
-
-
-
-
-
-=============================================================================================================================================
-=============================================================================================================================================
 
 
 软解台湾59,#genre#
@@ -1521,7 +1389,7 @@ TLC,http://50.7.61.147:30080/Entry/tlc
 
 =============================================================================================================================================
 =============================================================================================================================================
-台湾硬解,#genre#
+台湾221,#genre#
 台视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8 
 中视,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8 
 华视,http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8 
@@ -1600,7 +1468,7 @@ ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/espo
 =============================================================================================================================================
 =============================================================================================================================================
 
-5TVB161大陆,#genre#
+TVB161大陆,#genre#
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
@@ -1724,70 +1592,6 @@ TVBS新聞台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 =============================================================================================================================================
 =============================================================================================================================================
 
-挂原生台湾66,#genre#
-Aljazeera,http://66.90.88.132:8080/hls/ph00204/index.m3u8
-DW,http://66.90.88.132:8080/hls/ph00206/index.m3u8
-NHK,http://66.90.88.132:8080/hls/ph00203/index.m3u8
-BBCWORLDNEWS,http://66.90.88.132:8080/hls/ph00202/index.m3u8
-TV5MONDE,http://66.90.88.132:8080/hls/ph00207/index.m3u8
-TRTWORLD,http://66.90.88.132:8080/hls/ph00205/index.m3u8
-KBSWORLD,http://66.90.88.132:8080/hls/ph00208/index.m3u8
-CNA,http://66.90.88.132:8080/hls/ph00211/index.m3u8
-FRANCE24,http://66.90.88.132:8080/hls/ph00209/index.m3u8
-RT,http://66.90.88.132:8080/hls/ph00210/index.m3u8
-CNN,http://66.90.88.132:8080/hls/ph00201/index.m3u8
-SKYnews,http://66.90.88.132:8080/hls/ph00212/index.m3u8
-KIX,http://66.90.88.132:8080/hls/ph00237/index.m3u8
-HBOHITS,http://66.90.88.132:8080/hls/ph00232/index.m3u8
-WBTV,http://66.90.88.132:8080/hls/ph00235/index.m3u8
-HBO,http://66.90.88.132:8080/hls/ph00231/index.m3u8
-HBOSignature,http://66.90.88.132:8080/hls/ph00234/index.m3u8
-HBOFAMILY,http://66.90.88.132:8080/hls/ph00233/index.m3u8
-CINEMAX,http://66.90.88.132:8080/hls/ph00238/index.m3u8
-国家地理,http://66.90.88.132:8080/hls/ph00242/index.m3u8
-DISCOVER ASIA,http://66.90.88.132:8080/hls/ph00240/index.m3u8
-国家地理野生,http://66.90.88.132:8080/hls/ph00243/index.m3u8
-AXN,http://66.90.88.132:8080/hls/ph00236/index.m3u8
-DMAX,http://66.90.88.132:8080/hls/ph00241/index.m3u8
-TLC,http://66.90.88.132:8080/hls/ph00244/index.m3u8
-BLOOMBERG,http://66.90.88.132:8080/hls/ph00247/index.m3u8
-ANIMAL,http://66.90.88.132:8080/hls/ph00245/index.m3u8
-AFN,http://66.90.88.132:8080/hls/ph00246/index.m3u8
-CNBC,http://66.90.88.132:8080/hls/ph00248/index.m3u8
-DISCOVER,http://66.90.88.132:8080/hls/ph00239/index.m3u8
-BBCEARTH,http://66.90.88.132:8080/hls/ph00249/index.m3u8
-HISTORY2,http://66.90.88.132:8080/hls/ph00251/index.m3u8
-HISTORY,http://66.90.88.132:8080/hls/ph00250/index.m3u8
-BEINSPRTS,http://66.90.88.132:8080/hls/ph00281/index.m3u8
-CN卡通,http://66.90.88.132:8080/hls/ph00307/index.m3u8
-华视,http://66.90.88.132:8080/hls/ph00305/index.m3u8
-台视,http://66.90.88.132:8080/hls/ph00304/index.m3u8
-民视,http://66.90.88.132:8080/hls/ph00302/index.m3u8
-中视,http://66.90.88.132:8080/hls/ph00303/index.m3u8
-公视,http://66.90.88.132:8080/hls/ph00306/index.m3u8
-DISNEP,http://66.90.88.132:8080/hls/ph00308/index.m3u8
-东森电影,http://66.90.88.132:8080/hls/ph00311/index.m3u8
-BABY,http://66.90.88.132:8080/hls/ph00310/index.m3u8
-东森洋片,http://66.90.88.132:8080/hls/ph00312/index.m3u8
-龙翔时代,http://66.90.88.132:8080/hls/ph00314/index.m3u8
-CN卡通,http://66.90.88.132:8080/hls/ph00313/index.m3u8
-纬来电影,http://66.90.88.132:8080/hls/ph00315/index.m3u8
-ANIMAX,http://66.90.88.132:8080/hls/ph00309/index.m3u8
-TVBS欢乐台,http://66.90.88.132:8080/hls/ph00317/index.m3u8
-TVBS新闻台,http://66.90.88.132:8080/hls/ph00318/index.m3u8
-东森新闻,http://66.90.88.132:8080/hls/ph00319/index.m3u8
-非凡新闻,http://66.90.88.132:8080/hls/ph00321/index.m3u8
-民视新闻,http://66.90.88.132:8080/hls/ph00322/index.m3u8
-中视新闻,http://66.90.88.132:8080/hls/ph00323/index.m3u8
-华视新闻资讯,http://66.90.88.132:8080/hls/ph00325/index.m3u8
-台视新闻,http://66.90.88.132:8080/hls/ph00324/index.m3u8
-三立新闻,http://66.90.88.132:8080/hls/ph00320/index.m3u8
-TVBS,http://66.90.88.132:8080/hls/ph00316/index.m3u8
-凤凰资讯,http://66.90.88.132:8080/hls/ph00452/index.m3u8
-凤凰香港,http://66.90.88.132:8080/hls/ph00453/index.m3u8
-
-=============================================================================================================================================
-=============================================================================================================================================
 
 江苏PLTV移动CDN修改版,#genre#
 
