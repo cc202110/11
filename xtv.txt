@@ -1,7 +1,26 @@
 X直播电视台 youtube油管 频道
 $c_start 测试$c_end
 测试,#genre#
-
+11,http://211.21.12.236:11935/live/cs11.stream/playlist.m3u8
+12,http://211.21.12.236:11935/live/cs12.stream/playlist.m3u8
+15,http://211.21.12.236:11935/live/cs15.stream/playlist.m3u8
+13,http://211.21.12.236:11935/live/cs13.stream/playlist.m3u8
+14,http://211.21.12.236:11935/live/cs14.stream/playlist.m3u8
+16,http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8
+18,http://211.21.12.236:11935/live/cs18.stream/playlist.m3u8
+17,http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8
+21,http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8
+20,http://211.21.12.236:11935/live/cs20.stream/playlist.m3u8
+19,http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8
+22,http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8
+23,http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
+24,http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
+26,http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8
+27,http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8
+25,http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
+28,http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
+29,http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8
+MTV,http://31.173.178.110:8004/play/a0bk/index.m3u8
 
 🎤新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
