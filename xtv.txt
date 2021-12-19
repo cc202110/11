@@ -1,6 +1,7 @@
 X直播电视台 youtube油管 频道
 $c_start 测试$c_end
 测试1,#genre#
+BEIN SPORTS,http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 BEINSPORTS,http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 国家地理,http://220.135.55.74:8501/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 动物星球,http://220.135.55.74:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
