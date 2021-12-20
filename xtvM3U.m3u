@@ -341,15 +341,6 @@ http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="日本",NHK
-http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/15/Isln7u.png" group-title="海外",FRANCE24
-http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="海外",TV5monde
-http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
@@ -1132,44 +1123,18 @@ https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="韩国",선거방송[1280*720][1280*720]
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAXHD.png",Animax HD[1280*720]
+#EXTINF:-1 group-title="日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAXHD.png",Animax HD
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAXHD.png",AnimaxHD[1280*720]
+#EXTINF:-1 group-title="日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAXHD.png",AnimaxHD
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1 group-title="海外",KBS World[1024*576][1024*
+#EXTINF:-1 group-title="韩国",KBS World[1024*576][1024*
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png",Channel V[1280*720]
-http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png",Outdoor
-http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png",AFC
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png",FOX
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png",国家地理
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png",DWNews
-https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png",FOXHD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png",FOXMovie
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png",Outdoor
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png",Baby TV Eng
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 group-title="海外",Kids TV
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png",Disney Channel
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png",Disney Junior
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
+
+#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",SKYnews
+#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",SKYnews
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WWE_white_logo.svg/240px-WWE_white_logo.svg.png",WWE摔角
-http://194.233.73.66:2082/freehitv/freehitv/38
+
 
 #EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影5_斗鱼
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
