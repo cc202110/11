@@ -173,7 +173,7 @@ WAKUWAKUJAPAN,http://220.135.55.74:8572/http/61.221.81.94:8088/hls/72/814/ch46.m
 55号[960*540],http://212.95.133.2/ub.php?id=55
 56号[1024*576],http://212.95.133.2/ub.php?id=56
 53,http://212.95.133.2/ub.php?id=53
-57,http://212.95.133.2/ub.php?id=57
+BOOMERANG,http://212.95.133.2/ub.php?id=57
 59,http://212.95.133.2/ub.php?id=59
 61,http://212.95.133.2/ub.php?id=61
 64,http://212.95.133.2/ub.php?id=64
