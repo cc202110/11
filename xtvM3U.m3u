@@ -119,7 +119,7 @@ rtmp://59.124.75.157/sat/md011
 rtmp://59.124.75.157/sat/md031
 #EXTINF:-1 tvg-id="7213" tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="台湾",爱尔达体育3
 rtmp://59.124.75.157/sat/md041
-#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="港澳台",BOOMERANG中文
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="台湾",BOOMERANG中文
 http://212.95.133.2/ub.php?id=57
 #EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾",台视
 http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
