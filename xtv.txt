@@ -1,10 +1,12 @@
 X直播电视台 youtube油管 频道
 $c_start 测试$c_end
 ceshi2,#genre#
+香港有线新闻,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=044f9b2390c94d7c9e754c2db6629370
+博斯网球,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=37f1d61feb9e453285f04c9f135a5254
 凤凰卫视中文,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=b3d4e9673d7441fbb7b85ca236ab10b6
 凤凰卫视,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=5e3298e28ede4dac836c488b82503181
 凤凰卫视香港,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=39c0330cf15846aa88919c8faf1a8d12
-香港有线新闻,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=044f9b2390c94d7c9e754c2db6629370
+
 有线18台,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=14c4735585bd4ed2995da292140a2a80
 有线财经信息,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=e72907ddb7384eb480a5ff9729871a0c
 有线603,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=ca4ef8da41414bfdaf96f593a6c373a1
@@ -137,7 +139,7 @@ Eleven Sports1,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=ccf2337d3eae4455b84
 爱尔达体育3,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=43cecad14f7247c9b334a76718732a5c
 博斯高球2,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=581d51a722d143a89e1c09fddcf5992d
 博斯高球1,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=ca5251d046c649f69ec21c2839ba5370
-博斯网球  ,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=37f1d61feb9e453285f04c9f135a5254
+博斯网球,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=37f1d61feb9e453285f04c9f135a5254
 Outdoor,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=2fd27ea680e942aebc6bd7ed5b34955c
 GOLF,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=c5d0fe3a967c4c92b3f0c8c233f56d48
 FIGHT,http://45.11.92.153/lbq/GetPlayUrl2228.php?id=6136e9cf13d646cca309b2466aacfcbd
@@ -493,6 +495,18 @@ TVBS歡樂,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14
 有線財經,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH149/149
 
 测试1,#genre#
+寰宇新闻台湾台,http://212.95.133.2/ub.php?id=87
+星卫娱乐台,http://212.95.133.2/ub.php?id=89
+卫视电影台,http://212.95.133.2/ub.php?id=93
+BBCearth,http://212.95.133.2/ub.php?id=97
+AMC,http://212.95.133.2/ub.php?id=92
+高点综合,http://212.95.133.2/ub.php?id=99
+民视综艺,http://212.95.133.2/ub.php?id=98
+人间卫视,http://212.95.133.2/ub.php?id=101
+八大娱乐,http://212.95.133.2/ub.php?id=105
+CN,http://212.95.133.2/ub.php?id=107
+MTV,http://212.95.133.2/ub.php?id=106
+HISTORY,http://212.95.133.2/ub.php?id=116
 东森电影,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsdy&upt=7e4f8041b306488a
 东森洋片,http://host496323.us.ooqr.com/pltv/gdgz.php?id=dsyp&upt=7e4f8041b306488a
 looksports2,http://84.42.140.147:8890/hdmi
@@ -552,8 +566,17 @@ WAKUWAKUJAPAN,http://220.135.55.74:8572/http/61.221.81.94:8088/hls/72/814/ch46.m
 龙华电影,http://220.135.55.74:8575/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
 
 测试,#genre#
-
-
+三立台湾台,http://212.95.133.2/ub.php?id=35
+民视第一台,http://212.95.133.2/ub.php?id=34
+民视台湾台,http://212.95.133.2/ub.php?id=36
+JET,http://212.95.133.2/ub.php?id=41
+纬来日本,http://212.95.133.2/ub.php?id=46
+靖天资讯台,http://212.95.133.2/ub.php?id=49
+DISNEP,http://212.95.133.2/ub.php?id=47
+中天综合,http://212.95.133.2/ub.php?id=54
+FOXNEWS,http://212.95.133.2/ub.php?id=1510
+FOXBUSINESS,http://212.95.133.2/ub.php?id=1511
+SPORTS,http://212.95.133.2/ub.php?id=1506
 三立inews,http://212.95.133.2/ub.php?id=8
 台式新闻,http://212.95.133.2/ub.php?id=1
 三立live新闻,http://212.95.133.2/ub.php?id=4
@@ -567,14 +590,7 @@ WAKUWAKUJAPAN,http://220.135.55.74:8572/http/61.221.81.94:8088/hls/72/814/ch46.m
 台视,http://212.95.133.2/ub.php?id=27
 31,http://212.95.133.2/ub.php?id=31
 30,http://212.95.133.2/ub.php?id=30
-三立台湾台,http://212.95.133.2/ub.php?id=35
-民视第一台,http://212.95.133.2/ub.php?id=34
-民视台湾台,http://212.95.133.2/ub.php?id=36
-JET,http://212.95.133.2/ub.php?id=41
-纬来日本,http://212.95.133.2/ub.php?id=46
-靖天资讯台,http://212.95.133.2/ub.php?id=49
-DISNEP,http://212.95.133.2/ub.php?id=47
-中天综合,http://212.95.133.2/ub.php?id=54
+
 55号[960*540],http://212.95.133.2/ub.php?id=55
 星空卫视,http://212.95.133.2/ub.php?id=56
 53,http://212.95.133.2/ub.php?id=53
@@ -589,18 +605,7 @@ VIUTV,http://212.95.133.2/ub.php?id=72
 八大戏剧,http://212.95.133.2/ub.php?id=81
 民视旅游,http://212.95.133.2/ub.php?id=78
 79,http://212.95.133.2/ub.php?id=79
-寰宇新闻台湾台,http://212.95.133.2/ub.php?id=87
-星卫娱乐台,http://212.95.133.2/ub.php?id=89
-卫视电影台,http://212.95.133.2/ub.php?id=93
-BBCearth,http://212.95.133.2/ub.php?id=97
-AMC,http://212.95.133.2/ub.php?id=92
-高点综合,http://212.95.133.2/ub.php?id=99
-民视综艺,http://212.95.133.2/ub.php?id=98
-人间卫视,http://212.95.133.2/ub.php?id=101
-八大娱乐,http://212.95.133.2/ub.php?id=105
-CN,http://212.95.133.2/ub.php?id=107
-MTV,http://212.95.133.2/ub.php?id=106
-HISTORY,http://212.95.133.2/ub.php?id=116
+
 119号[1024*576],http://212.95.133.2/ub.php?id=119
 120号[960*540],http://212.95.133.2/ub.php?id=120
 纬来体育,http://212.95.133.2/ub.php?id=118
@@ -873,9 +878,7 @@ TURBO,http://212.95.133.2/ub.php?id=1387
 1490号[854*480],http://212.95.133.2/ub.php?id=1490
 ALJAZEERA,http://212.95.133.2/ub.php?id=1498
 1507,http://212.95.133.2/ub.php?id=1507
-FOXNEWS,http://212.95.133.2/ub.php?id=1510
-FOXBUSINESS,http://212.95.133.2/ub.php?id=1511
-SPORTS,http://212.95.133.2/ub.php?id=1506
+
 1509,http://212.95.133.2/ub.php?id=1509
 1512,http://212.95.133.2/ub.php?id=1512
 1514,http://212.95.133.2/ub.php?id=1514
@@ -1211,7 +1214,7 @@ K 1554,http://212.95.133.2/ub.php?id=1554
 428号[1280*720],http://212.95.133.2/ub.php?id=2427
 430号[1280*720],http://212.95.133.2/ub.php?id=2429
 
-MTV,http://31.173.178.110:8004/play/a0bk/index.m3u8
+
 
 🎤新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
