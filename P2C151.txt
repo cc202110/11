@@ -131,7 +131,7 @@ CCTV15,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index
 辽宁卫视 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226767/index.m3u8
 辽宁卫视 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226929/index.m3u8
 
-🌟台湾频道,#genre#
+🌟港台频道,#genre#
 
 民视,rtmp://59.124.75.157/sat/tv051
 台视,rtmp://59.124.75.157/sat/tv071
@@ -344,12 +344,12 @@ ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/espo
 🌟香港频道,#genre#
 
 
-翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
-翡翠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-明珠台大陆,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-明珠台大陆,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台广东,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+明珠台广东,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+明珠台广东,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
@@ -381,8 +381,8 @@ ELEVEN SPORTS 2,http://211.23.114.106:8567/http/59.120.8.187:8078/hls/26/80/espo
 
 J2,http://iptv.tvfix.org/hls/j2.m3u8
 无线新闻,http://iptv.tvfix.org/hls/inews.m3u8
-翡翠台,http://iptv.tvfix.org/hls/.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
+
+翡翠台2,http://iptv.tvfix.org/hls/jade2.m3u8
 翡翠台华丽台(繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
 翡翠台华丽台(简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
 TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
@@ -403,18 +403,14 @@ C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 
-⚪港台外网,#genre#
+⚪港台代理,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-无线新闻-备,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 
 HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
 HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
@@ -432,14 +428,14 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
-纬来日本,http://50.7.61.147:30080/Entry/vljp
+
 台视,http://50.7.61.148:30080/Entry/ttv
 TVBS,http://50.7.61.148:30080/Entry/tvbs
 民视新闻,http://50.7.61.148:30080/Entry/ftvnews
 中视,http://50.7.61.148:30080/Entry/ctv
 TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
 非凡商业,http://50.7.61.147:30080/Entry/ubnbus
-TLC,http://50.7.61.147:30080/Entry/tlc
+
 JET综合,http://50.7.61.147:30080/Entry/jet
 民视,http://50.7.61.147:30080/Entry/ftv
 华视CTS,http://50.7.61.147:30080/Entry/cts
@@ -448,7 +444,7 @@ SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
+
 
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
